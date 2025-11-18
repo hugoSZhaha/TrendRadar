@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T16:28:30.781793+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2025-11-18T16:38:56.121594+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,33 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 16时38分]"
+        },
+        {
+          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
+          "url": "https://www.cls.cn/detail/2203264",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时24分 ~ 16时28分]"
+          "time_info": "[10时00分 ~ 16时38分]"
+        },
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时00分 ~ 16时38分]"
         },
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
@@ -32,31 +57,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时36分 ~ 12时31分]"
-        },
-        {
-          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
-          "url": "https://www.cls.cn/detail/2203264",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时00分 ~ 16时28分]"
-        },
-        {
-          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
-          "url": "https://wallstreetcn.com/articles/3759576",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时00分 ~ 16时28分]"
         },
         {
           "title": "（美股）加密货币与加密货币关联指数收跌2.72%，报63.59点。 MarketVector数字资产100小盘指数下跌2.93%，暂报19205.59点，最近24小时跌1.92%。 周一（11月17日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.87%，报91655.00美元。 CME以太币期货DCR主力合约跌5.69%，报2991美元。 北京时间05:57，现货比特币跌2.62%，报91800美元；以太坊跌3%，报3004.78美元；Solana跌4.86%，狗狗币跌3.26%，XRP跌2.93%。",
@@ -143,6 +143,17 @@
           "time_info": "[02时37分 ~ 03时21分]"
         },
         {
+          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
+          "url": "https://flash.jin10.com/detail/20251118154840821800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时38分]"
+        },
+        {
           "title": "美股三大指数期货短线跳水，纳斯达克100指数期货跌幅扩大至1%，道指期货跌0.5%，标普500指数跌0.7%。",
           "url": "https://flash.jin10.com/detail/20251118122309720800",
           "source": "金十数据",
@@ -185,17 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
-          "url": "https://flash.jin10.com/detail/20251118154840821800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         },
         {
           "title": "分析师：美股逢低买入动能消退 市场在英伟达财报前感到焦虑",
@@ -255,8 +255,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时00分 ~ 16时28分]"
+          "appearance_count": 8,
+          "time_info": "[10时00分 ~ 16时38分]"
         },
         {
           "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
@@ -329,8 +329,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 16时28分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 16时38分]"
         },
         {
           "title": "美债收复上周部分失地 市场押注数据恢复将提振降息预期",
