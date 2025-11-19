@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T02:20:38.644044+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2025-11-20T03:11:59.853108+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时20分]"
-        },
-        {
-          "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
-          "url": "https://flash.jin10.com/detail/20251120021502092800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时11分]"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
@@ -47,11 +36,24 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时11分]"
+        },
+        {
+          "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
+          "url": "https://flash.jin10.com/detail/20251120021502092800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时11分]"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
