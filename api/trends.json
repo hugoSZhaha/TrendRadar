@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T04:14:35.712062+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2025-11-20T05:12:00.879087+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时12分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时12分]"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
@@ -56,6 +56,17 @@
           "time_info": "[02时20分 ~ 03时11分]"
         },
         {
+          "title": "美股收盘：三大股指收涨 谷歌创新高",
+          "url": "https://flash.jin10.com/detail/20251120050112244800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 05时12分]"
+        },
+        {
           "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
           "url": "https://flash.jin10.com/detail/20251120004043816800",
           "source": "金十数据",
@@ -72,6 +83,18 @@
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
+        {
+          "title": "美联储会议纪要发布后，美国10年期国债收益率持稳于4.11%附近。 两年期美债收益率一度上扬至3.5831%刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3007390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 05时12分]"
+        },
         {
           "title": "东方汇理：美联储独立性受损对美元和美债构成重大风险",
           "url": "https://wallstreetcn.com/livenews/3007311",
@@ -94,17 +117,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 00时19分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "美联储会议纪要发布后，美国10年期国债收益率持稳于4.11%附近。 两年期美债收益率一度上扬至3.5831%刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3007390",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储纪要公布后金价回吐涨幅 市场聚焦利率路径线索",
+          "url": "https://flash.jin10.com/detail/20251120040028916800",
+          "source": "金十数据",
           "ranks": [
-            7
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 05时12分]"
         }
       ]
     }
