@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T00:18:31.369870+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-21T01:12:25.128894+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3759700",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时12分]"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -62,11 +63,12 @@
           "url": "https://www.cls.cn/detail/2206416",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时12分]"
         }
       ]
     },
@@ -82,8 +84,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时12分]"
         }
       ]
     }
