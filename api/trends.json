@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T21:27:13.903988+08:00",
-  "total_titles_processed": 1826,
+  "generated_at": "2025-11-20T22:15:07.259115+08:00",
+  "total_titles_processed": 1916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时00分 ~ 21时27分]"
+          "appearance_count": 19,
+          "time_info": "[09时00分 ~ 22时15分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -163,6 +163,17 @@
           "time_info": "[05时11分 ~ 06时14分]"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3008013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时15分]"
+        },
+        {
           "title": "半导体ETF收涨超1.8%，和银行业ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3007420",
           "source": "华尔街见闻-快讯",
@@ -229,6 +240,17 @@
           "time_info": "[06时13分 ~ 06时14分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-20）",
+          "url": "https://flash.jin10.com/detail/20251120215241633800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时15分]"
+        },
+        {
           "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
           "url": "https://flash.jin10.com/detail/20251120004043816800",
           "source": "金十数据",
@@ -286,8 +308,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时13分 ~ 21时27分]"
+          "appearance_count": 7,
+          "time_info": "[19时13分 ~ 22时15分]"
         },
         {
           "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
@@ -402,8 +424,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时13分 ~ 21时27分]"
+          "appearance_count": 7,
+          "time_info": "[19时13分 ~ 22时15分]"
         }
       ]
     }
