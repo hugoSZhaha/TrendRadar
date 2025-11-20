@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T19:14:13.197899+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2025-11-20T20:27:34.487274+08:00",
+  "total_titles_processed": 1724,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时00分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[09时00分 ~ 20时27分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -288,8 +288,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 20时27分]"
         },
         {
           "title": "伦敦金属交易所：2026年中起将停止管理LBMA铂金和钯金价格",
@@ -387,11 +387,12 @@
           "url": "https://www.cls.cn/detail/2206416",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 20时27分]"
         }
       ]
     }
