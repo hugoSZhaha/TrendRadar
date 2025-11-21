@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T20:26:07.162143+08:00",
-  "total_titles_processed": 1924,
+  "generated_at": "2025-11-21T21:25:07.770984+08:00",
+  "total_titles_processed": 2018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时43分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[10时43分 ~ 21时25分]"
         },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时43分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[10时43分 ~ 21时25分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -101,6 +101,18 @@
           "time_info": "[12时17分 ~ 18时15分]"
         },
         {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时21分 ~ 21时25分]"
+        },
+        {
           "title": "美股为何巨震暴跌",
           "url": "https://www.toutiao.com/trending/7574979338739650091/",
           "source": "今日头条",
@@ -115,16 +127,17 @@
           "time_info": "[11时40分 ~ 16时20分]"
         },
         {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            10,
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时21分 ~ 20时26分]"
+          "appearance_count": 8,
+          "time_info": "[17时15分 ~ 21时25分]"
         },
         {
           "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
@@ -136,18 +149,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
-          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
-          "url": "https://www.cls.cn/detail/2207216",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 20时26分]"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -233,6 +234,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时13分 ~ 07时13分]"
+        },
+        {
+          "title": "美联储高官安抚市场，美股期货盘前反弹，比特币短线反弹3000美元，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
+        {
+          "title": "美股股指期货持续拉升，纳指期货涨近0.5%，至日内高点；比特币短线回升近3000美元至83300美元。美联储“三把手”威廉姆斯此前表示对近期降息持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3008724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -450,7 +473,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -462,8 +485,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时00分 ~ 20时26分]"
+          "appearance_count": 17,
+          "time_info": "[09时00分 ~ 21时25分]"
         },
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
@@ -488,6 +511,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 03时11分]"
+        },
+        {
+          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
+          "url": "https://wallstreetcn.com/livenews/3008725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
+        {
+          "title": "美联储“三把手”威廉姆斯表示对近期降息持开放态度后，美股三大股指期货短线拉升，纳指期货跌幅收窄至0.2%，标普500指数期货涨0.16%；美债上涨；现货黄金短线上扬近10美元。",
+          "url": "https://wallstreetcn.com/livenews/3008713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
         },
         {
           "title": "瑞典北欧斯安银行：Q1美债收益率料将达到3.9%",
