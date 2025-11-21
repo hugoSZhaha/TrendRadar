@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-21T15:15:17.568809+08:00",
-  "total_titles_processed": 1386,
+  "generated_at": "2025-11-21T16:20:27.288028+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 35,
       "titles": [
+        {
+          "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
+          "url": "https://www.cls.cn/detail/2206823",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时00分 ~ 16时20分]"
+        },
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
           "url": "https://www.cls.cn/detail/2206810",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时13分 ~ 15时15分]"
-        },
-        {
-          "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
-          "url": "https://www.cls.cn/detail/2206823",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时00分 ~ 15时15分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时43分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时43分 ~ 16时20分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -63,11 +63,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时40分 ~ 15时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 16时20分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -80,21 +81,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时43分 ~ 15时15分]"
-        },
-        {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时17分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时43分 ~ 16时20分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -103,11 +91,26 @@
           "ranks": [
             20,
             8,
-            1
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 16时20分]"
+        },
+        {
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时40分 ~ 15时15分]"
+          "time_info": "[12时17分 ~ 16时20分]"
         },
         {
           "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
@@ -144,6 +147,19 @@
           "time_info": "[05时13分 ~ 06时14分]"
         },
         {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 16时20分]"
+        },
+        {
           "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
           "url": "https://flash.jin10.com/detail/20251121032845526800",
           "source": "金十数据",
@@ -154,18 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 05时13分]"
-        },
-        {
-          "title": "美股为何巨震暴跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 15时15分]"
         },
         {
           "title": "周四（11月20日）纽约尾盘，ICE美元指数跌0.03%，报100.193点，日内交投区间为100.360-100.028点，北京时间21:30发布美国就业数据时刷新日高，随后快速转跌，并在美股盘初刷新日低。 彭博美元指数涨0.09%，报1226.52点，日内交投区间为1223.76-1227.11点。",
@@ -200,8 +204,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时15分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 16时20分]"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -426,11 +430,12 @@
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时00分 ~ 15时15分]"
+          "appearance_count": 9,
+          "time_info": "[09时00分 ~ 16时20分]"
         },
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
@@ -463,7 +468,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
