@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T19:13:04.869407+08:00",
-  "total_titles_processed": 1815,
+  "generated_at": "2025-11-21T20:26:07.162143+08:00",
+  "total_titles_processed": 1924,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时43分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时43分 ~ 20时26分]"
         },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时43分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时43分 ~ 20时26分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -123,8 +123,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时21分 ~ 19时13分]"
+          "appearance_count": 9,
+          "time_info": "[14时21分 ~ 20时26分]"
         },
         {
           "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
@@ -136,6 +136,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 20时26分]"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -173,18 +185,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时13分 ~ 06时14分]"
-        },
-        {
-          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
-          "url": "https://www.cls.cn/detail/2207216",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时13分]"
         },
         {
           "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
@@ -462,8 +462,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时00分 ~ 19时13分]"
+          "appearance_count": 15,
+          "time_info": "[09时00分 ~ 20时26分]"
         },
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
