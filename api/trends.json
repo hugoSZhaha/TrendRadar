@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T20:22:55.141940+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2025-11-22T21:19:41.255331+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时13分 ~ 20时22分]"
+          "appearance_count": 18,
+          "time_info": "[07时13分 ~ 21时19分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -130,6 +130,18 @@
           "time_info": "[07时13分 ~ 11时35分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 21时19分]"
+        },
+        {
           "title": "美股V形反转，道指涨约1%",
           "url": "https://wallstreetcn.com/livenews/3008815",
           "source": "华尔街见闻-快讯",
@@ -140,17 +152,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 02时20分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 20时22分]"
         },
         {
           "title": "美股深夜反弹 中国资产爆发",
