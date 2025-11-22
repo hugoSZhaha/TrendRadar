@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T14:19:01.770640+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2025-11-22T15:13:22.939324+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时13分 ~ 14时19分]"
+          "appearance_count": 11,
+          "time_info": "[07时13分 ~ 15时13分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -70,6 +70,23 @@
           "time_info": "[00时17分 ~ 10时25分]"
         },
         {
+          "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3008935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            18,
+            19,
+            21,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 15时13分]"
+        },
+        {
           "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
           "url": "https://www.cls.cn/detail/2207612",
           "source": "财联社热门",
@@ -81,22 +98,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 08时59分]"
-        },
-        {
-          "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3008935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            18,
-            19,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 14时19分]"
         },
         {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
@@ -141,6 +142,18 @@
           "time_info": "[01时12分 ~ 02时20分]"
         },
         {
+          "title": "美股深夜反弹 中国资产爆发",
+          "url": "https://www.toutiao.com/trending/7575388560119827987/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 15时13分]"
+        },
+        {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
           "url": "https://wallstreetcn.com/livenews/3008802",
           "source": "华尔街见闻-快讯",
@@ -163,17 +176,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 01时13分]"
-        },
-        {
-          "title": "美股深夜反弹 中国资产爆发",
-          "url": "https://www.toutiao.com/trending/7575388560119827987/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
         },
         {
           "title": "英伟达股价短线拉升，日内整体上涨1.9%，美股早盘一度下跌超4%。 标普500指数上涨1.75%，道指涨811点涨幅1.77%，纳指涨399点涨幅1.81%，纳斯达克100指数涨406点涨幅1.66%，半导体指数涨1.99%。",
