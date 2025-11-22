@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T05:12:25.113961+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2025-11-23T06:13:05.594088+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时13分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时13分]"
         }
       ]
     }
