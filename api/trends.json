@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T22:12:17.522638+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2025-11-22T23:12:25.527669+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时13分 ~ 22时12分]"
+          "appearance_count": 20,
+          "time_info": "[07时13分 ~ 23时12分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -121,11 +121,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 22时12分]"
+          "appearance_count": 7,
+          "time_info": "[18时13分 ~ 23时12分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
@@ -310,6 +311,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时13分 ~ 13时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
+          "url": "https://flash.jin10.com/detail/20251122223006926800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     }
