@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T11:35:13.774415+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2025-11-22T12:16:18.125840+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,19 @@
           "time_info": "[00时17分 ~ 08时59分]"
         },
         {
+          "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
+          "url": "https://www.cls.cn/detail/2207916",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 12时16分]"
+        },
+        {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
           "url": "https://www.cls.cn/detail/2207754",
           "source": "财联社热门",
@@ -70,17 +83,18 @@
           "time_info": "[00时17分 ~ 08时59分]"
         },
         {
-          "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
-          "url": "https://www.cls.cn/detail/2207916",
-          "source": "财联社热门",
+          "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3008935",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            4,
-            3
+            11,
+            18,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时13分 ~ 11时35分]"
+          "time_info": "[08时58分 ~ 12时16分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
@@ -97,6 +111,20 @@
           "time_info": "[07时13分 ~ 11时35分]"
         },
         {
+          "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
+          "url": "https://wallstreetcn.com/livenews/3008932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 12时16分]"
+        },
+        {
           "title": "美股V形反转，道指涨约1%",
           "url": "https://wallstreetcn.com/livenews/3008815",
           "source": "华尔街见闻-快讯",
@@ -107,32 +135,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 02时20分]"
-        },
-        {
-          "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3008935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 11时35分]"
-        },
-        {
-          "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
-          "url": "https://wallstreetcn.com/livenews/3008932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 11时35分]"
         },
         {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
@@ -210,7 +212,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -272,11 +274,12 @@
             4,
             13,
             18,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时13分 ~ 11时35分]"
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 12时16分]"
         }
       ]
     }
