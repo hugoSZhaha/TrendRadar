@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T09:09:28.844991+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2025-11-23T11:22:51.603508+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 09时09分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 11时22分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 09时09分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 11时22分]"
         },
         {
           "title": "“疫苗之王”科兴或从美股退市",
@@ -39,7 +40,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         }
@@ -47,7 +48,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
@@ -60,6 +61,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时15分 ~ 09时09分]"
+        },
+        {
+          "title": "俄央行抛售黄金 金价会大跌吗",
+          "url": "https://www.toutiao.com/trending/7575692966363139638/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     }
