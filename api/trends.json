@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T21:30:33.856620+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2025-11-24T22:15:05.153660+08:00",
+  "total_titles_processed": 1731,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时22分 ~ 21时30分]"
+          "appearance_count": 12,
+          "time_info": "[14时22分 ~ 22时15分]"
         },
         {
           "title": "美股盘前：中概股、科技股普涨",
@@ -40,19 +40,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 22时15分]"
         },
         {
           "title": "诺和诺德美股盘前跌近12%，公司阿尔茨海默病相关试验失败",
           "url": "https://wallstreetcn.com/livenews/3009588",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 22时15分]"
         },
         {
           "title": "诺和诺德美股盘前跌超11%，其Ozempic片剂未能缓解阿尔茨海默病",
