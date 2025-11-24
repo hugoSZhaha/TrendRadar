@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T22:15:05.153660+08:00",
-  "total_titles_processed": 1731,
+  "generated_at": "2025-11-24T23:16:13.760684+08:00",
+  "total_titles_processed": 1821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -17,8 +17,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时22分 ~ 22时15分]"
+          "appearance_count": 14,
+          "time_info": "[14时22分 ~ 23时16分]"
+        },
+        {
+          "title": "美股期货延续涨势，欧股上涨，黄金下跌0.2%，比特币月内创三年最差表现",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时29分 ~ 23时16分]"
+        },
+        {
+          "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3009662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
         },
         {
           "title": "美股盘前：中概股、科技股普涨",
@@ -33,17 +56,6 @@
           "time_info": "[17时18分 ~ 18时17分]"
         },
         {
-          "title": "美股期货延续涨势，欧股上涨，黄金下跌0.2%，比特币月内创三年最差表现",
-          "url": "https://wallstreetcn.com/articles/3759998",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时29分 ~ 22时15分]"
-        },
-        {
           "title": "诺和诺德美股盘前跌近12%，公司阿尔茨海默病相关试验失败",
           "url": "https://wallstreetcn.com/livenews/3009588",
           "source": "华尔街见闻-快讯",
@@ -54,6 +66,50 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[21时29分 ~ 22时15分]"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，半导体ETF涨2.43%，网络股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF至多涨1.48%，能源业ETF则跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3009660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3009649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251124224429454800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        },
+        {
+          "title": "美股盘初拉升，纳指涨超1.5%，标普500指数涨幅扩大至1%，特斯拉(TSLA.O)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20251124223634013800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
         },
         {
           "title": "诺和诺德美股盘前跌超11%，其Ozempic片剂未能缓解阿尔茨海默病",
