@@ -1,7 +1,36 @@
 {
-  "generated_at": "2025-11-24T07:13:15.199960+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2025-11-24T09:05:37.750247+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
+          "url": "https://flash.jin10.com/detail/20251124071540282800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美股股指期货周一高开，纳指期货涨近1%。",
+          "url": "https://flash.jin10.com/detail/20251124070025048800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://hugoszhaha.github.io/TrendRadar/img/news.jpg"
 }
