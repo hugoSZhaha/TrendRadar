@@ -1,22 +1,56 @@
 {
-  "generated_at": "2025-11-26T04:16:00.654975+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2025-11-26T05:13:43.805353+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
           "url": "https://www.cls.cn/detail/2210782",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时13分]"
+        },
+        {
+          "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 05时13分]"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251126050732950800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251126050728089800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
@@ -29,17 +63,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 01时15分]"
-        },
-        {
-          "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
-          "url": "https://wallstreetcn.com/articles/3760086",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 04时16分]"
         },
         {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股盘中）",
@@ -86,6 +109,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 00时19分]"
+        },
+        {
+          "title": "戴尔(DELL.N)营收展望大超预期，美股盘后一度上涨5%。",
+          "url": "https://flash.jin10.com/detail/20251126050642574800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美股收盘：三大股指低开高收 英伟达跌超2%",
+          "url": "https://flash.jin10.com/detail/20251126050102870800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
