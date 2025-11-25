@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T07:14:02.109876+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2025-11-25T09:00:58.172424+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 09时00分]"
         },
         {
           "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
@@ -37,11 +37,12 @@
           "ranks": [
             12,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 09时00分]"
         },
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
@@ -64,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.cls.cn/detail/2209592",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
         },
         {
           "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
@@ -207,6 +219,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "美股存储概念股强劲反弹，大摩研报预测内存长期紧张",
+          "url": "https://www.cls.cn/detail/2209578",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
