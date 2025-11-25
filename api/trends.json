@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T14:22:00.783708+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2025-11-25T15:15:53.900798+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时00分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时00分 ~ 15时15分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -55,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 14时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 15时15分]"
         },
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
