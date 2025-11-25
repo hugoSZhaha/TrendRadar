@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T17:17:43.615928+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2025-11-25T18:17:11.418743+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
@@ -212,6 +212,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时13分 ~ 07时14分]"
+        },
+        {
+          "title": "美股三大股指期货跌幅扩大，道指期货跌0.19%，标普500指数期货跌0.28%，纳斯达克100指数期货跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3010137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
         },
         {
           "title": "美股存储概念股强劲反弹，大摩研报预测内存长期紧张",
