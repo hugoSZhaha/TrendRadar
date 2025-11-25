@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-26T03:12:52.080058+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-11-26T04:16:00.654975+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 7,
       "titles": [
+        {
+          "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2210782",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时16分]"
+        },
         {
           "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3010317",
@@ -20,17 +31,6 @@
           "time_info": "[00时18分 ~ 01时15分]"
         },
         {
-          "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2210782",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时12分]"
-        },
-        {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
           "url": "https://wallstreetcn.com/articles/3760086",
           "source": "华尔街见闻",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 04时16分]"
         },
         {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股盘中）",
