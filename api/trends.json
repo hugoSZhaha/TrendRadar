@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T15:14:58.405484+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2025-11-26T16:20:11.017678+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
@@ -211,8 +211,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金十图示：2025年11月26日（周三）上海金午盘价为942.19元/克，较国际金价(946.47元/克)，低4.28元/克",
+          "url": "https://flash.jin10.com/detail/20251126155055720800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
         {
           "title": "金价高企之际，中国多地加强监管黄金投资“灰色”业务",
           "url": "https://wallstreetcn.com/livenews/3010456",
@@ -261,8 +272,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 16时20分]"
         },
         {
           "title": "两年期美债收益率跌超4个基点，报道称哈塞特在美联储主席候选人中领先优势明显",
