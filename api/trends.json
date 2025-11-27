@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T12:18:47.092822+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2025-11-27T13:15:53.175955+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 12时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 13时15分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
+          "url": "https://www.cls.cn/detail/2212125",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 13时15分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -43,18 +55,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时17分 ~ 12时18分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
-          "url": "https://www.cls.cn/detail/2212125",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 12时18分]"
         },
         {
           "title": "阿里巴巴(BABA.N)美股短线跳水，现跌近3%。",
