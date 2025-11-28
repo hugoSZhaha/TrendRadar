@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T11:42:08.176306+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2025-11-28T12:17:52.407772+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 11时42分]"
+          "appearance_count": 6,
+          "time_info": "[08时59分 ~ 12时17分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
@@ -41,11 +41,12 @@
           "url": "https://flash.jin10.com/detail/20251128105205543800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 12时17分]"
         }
       ]
     }
