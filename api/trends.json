@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T16:18:02.432555+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2025-11-29T17:14:16.944766+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时59分 ~ 16时18分]"
+          "appearance_count": 12,
+          "time_info": "[08时59分 ~ 17时14分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -241,8 +242,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时18分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 17时14分]"
         },
         {
           "title": "金价",
