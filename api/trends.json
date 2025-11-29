@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T09:00:10.841812+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2025-11-29T10:41:57.568837+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时15分 ~ 09时00分]"
+          "appearance_count": 7,
+          "time_info": "[04时15分 ~ 10时41分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
@@ -65,11 +65,12 @@
           "ranks": [
             25,
             26,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时15分 ~ 09时00分]"
+          "appearance_count": 7,
+          "time_info": "[04时15分 ~ 10时41分]"
         },
         {
           "title": "高盛交易员：进入12月之际美股格局已变得更加清晰",
@@ -134,11 +135,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 09时00分]"
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 10时41分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -182,22 +184,24 @@
           "url": "https://www.cls.cn/detail/2214656",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 10时41分]"
         },
         {
           "title": "美股三大指数收涨 英特尔暴涨10%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%94%B6%E6%B6%A8+%E8%8B%B1%E7%89%B9%E5%B0%94%E6%9A%B4%E6%B6%A810%25",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 10时41分]"
         },
         {
           "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
