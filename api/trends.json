@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T14:19:53.314452+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2025-11-29T15:13:44.465560+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 14时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 15时13分]"
         },
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -63,6 +63,19 @@
           "time_info": "[07时13分 ~ 14时19分]"
         },
         {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时59分 ~ 15时13分]"
+        },
+        {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251129031455925800",
           "source": "金十数据",
@@ -91,19 +104,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[04时15分 ~ 12时17分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时59分 ~ 14时19分]"
         },
         {
           "title": "高盛交易员：进入12月之际美股格局已变得更加清晰",
@@ -237,11 +237,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时13分]"
         },
         {
           "title": "金价",
