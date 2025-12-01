@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T01:16:45.513801+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2025-12-02T02:23:01.118468+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -27,8 +27,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时23分]"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251202013128346800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251202013125562800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
           "title": "行业ETF美股盘初普跌，全球航空业ETF跌1.25%，全球科技股指数ETF跌1.02%，科技行业ETF跌1%，能源业ETF则涨0.64%。",
