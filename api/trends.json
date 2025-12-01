@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T00:20:02.276591+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-02T01:16:45.513801+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时16分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
           "url": "https://www.cls.cn/detail/2216342",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时16分]"
         },
         {
           "title": "行业ETF美股盘初普跌，全球航空业ETF跌1.25%，全球科技股指数ETF跌1.02%，科技行业ETF跌1%，能源业ETF则涨0.64%。",
