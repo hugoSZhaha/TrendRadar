@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T13:23:06.058526+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2025-12-01T14:23:37.436588+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "url": "https://wallstreetcn.com/livenews/3012789",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 14时23分]"
         }
       ]
     }
