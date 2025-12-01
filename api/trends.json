@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T12:44:21.389615+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2025-12-01T13:23:06.058526+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3012789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
         }
       ]
     }
