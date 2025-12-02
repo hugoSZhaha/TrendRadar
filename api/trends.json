@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T07:14:22.398032+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2025-12-02T09:02:43.327801+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 09时02分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
@@ -32,6 +32,18 @@
           "time_info": "[00时19分 ~ 06时13分]"
         },
         {
+          "title": "美股收盘：三大指数“五连阳”戛然而止 中国资产逆势走强",
+          "url": "https://www.cls.cn/detail/2216490",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 09时02分]"
+        },
+        {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251202050542973800",
           "source": "金十数据",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时12分 ~ 06时13分]"
-        },
-        {
-          "title": "美股收盘：三大指数“五连阳”戛然而止 中国资产逆势走强",
-          "url": "https://www.cls.cn/detail/2216490",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时14分"
         },
         {
           "title": "公用事业ETF收跌超2.3%，领跌美股行业ETF",
@@ -155,7 +156,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -166,7 +167,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -177,9 +178,37 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美股三大股指收盘普跌",
+          "url": "https://www.toutiao.com/trending/7578688268498878483/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         }
       ]
     },
