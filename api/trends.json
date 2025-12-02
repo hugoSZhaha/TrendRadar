@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T11:14:29.705880+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2025-12-02T12:24:59.553398+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 11时14分]"
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 12时24分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
@@ -206,7 +206,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
