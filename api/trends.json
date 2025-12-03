@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T12:23:31.407253+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-12-03T13:15:25.048924+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
@@ -41,19 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时23分]"
-        },
-        {
-          "title": "美股三大指数小幅高开 英伟达涨超1%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时15分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -65,8 +54,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 12时23分]"
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 13时15分]"
+        },
+        {
+          "title": "美股三大指数小幅高开 英伟达涨超1%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时13分]"
         },
         {
           "title": "能源业ETF收跌约1.3%，领跌美股行业ETF，半导体ETF涨超1.8%",
@@ -204,7 +204,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
