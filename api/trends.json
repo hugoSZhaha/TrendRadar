@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T03:14:07.283910+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2025-12-04T04:17:25.171432+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "美股“降息指数”涨超1.4%，刷新日高。 罗素2000指数涨1.4%。 纳斯达克生物科技指数涨1.8%。",
@@ -37,11 +38,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[02时21分 ~ 04时17分]"
+        },
+        {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 04时17分]"
         },
         {
           "title": "微软(MSFT.O)美股跌幅收窄，现跌1.5%。",
@@ -55,28 +69,17 @@
           "time_info": "00时20分"
         },
         {
-          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2218814",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 03时14分]"
-        },
-        {
           "title": "金十图示：2025年12月03日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251204013120321800",
           "source": "金十数据",
           "ranks": [
             9,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[02时21分 ~ 04时17分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）热门中概股行情一览（美股盘中）",
@@ -84,11 +87,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[02时21分 ~ 04时17分]"
         },
         {
           "title": "美股机器人概念股走强",
