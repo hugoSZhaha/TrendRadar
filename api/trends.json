@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T16:21:05.288170+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2025-12-03T17:19:07.317678+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时03分 ~ 17时19分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -203,11 +203,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 17时19分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
