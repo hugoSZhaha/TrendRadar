@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:15:25.048924+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2025-12-03T14:22:58.178202+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
@@ -20,19 +20,6 @@
           "time_info": "[00时51分 ~ 07时13分]"
         },
         {
-          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2217558",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时22分 ~ 11时12分]"
-        },
-        {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
           "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
@@ -41,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 13时15分]"
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 14时22分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -54,8 +41,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 14时22分]"
+        },
+        {
+          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2217558",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时22分 ~ 11时12分]"
         },
         {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
