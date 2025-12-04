@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T04:17:31.794622+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2025-12-05T05:14:15.370200+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
@@ -96,7 +96,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -107,8 +107,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
+        },
+        {
+          "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
+          "url": "https://wallstreetcn.com/livenews/3015345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 05时14分]"
         },
         {
           "title": "顶住“抛售美国资产”声浪压力，PIMCO靠美债押注出奇制胜",
