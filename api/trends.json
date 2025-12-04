@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T13:15:21.461221+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2025-12-04T14:22:30.567349+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
@@ -43,20 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 13时15分]"
-        },
-        {
-          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2218814",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时18分 ~ 11时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 14时22分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -69,8 +57,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时12分 ~ 13时15分]"
+          "appearance_count": 8,
+          "time_info": "[07时12分 ~ 14时22分]"
+        },
+        {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时18分 ~ 11时15分]"
         },
         {
           "title": "美股“降息指数”涨超1.4%，刷新日高。 罗素2000指数涨1.4%。 纳斯达克生物科技指数涨1.8%。",
