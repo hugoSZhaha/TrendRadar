@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T12:25:06.220075+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2025-12-04T13:15:21.461221+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,19 @@
           "time_info": "[00时20分 ~ 07时12分]"
         },
         {
+          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
+          "url": "https://www.cls.cn/detail/2218940",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时02分 ~ 13时15分]"
+        },
+        {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2218814",
           "source": "财联社热门",
@@ -46,19 +59,6 @@
           "time_info": "[01时18分 ~ 11时15分]"
         },
         {
-          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
-          "url": "https://www.cls.cn/detail/2218940",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 12时25分]"
-        },
-        {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
           "url": "https://www.cls.cn/detail/2218975",
           "source": "财联社热门",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时12分 ~ 12时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 13时15分]"
         },
         {
           "title": "美股“降息指数”涨超1.4%，刷新日高。 罗素2000指数涨1.4%。 纳斯达克生物科技指数涨1.8%。",
