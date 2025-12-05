@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T11:14:27.664597+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2025-12-05T12:24:25.728823+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时12分 ~ 07时14分]"
+        },
+        {
+          "title": "美股收盘：小盘股指数再创历史新高",
+          "url": "https://www.cls.cn/detail/2220253",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时24分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
@@ -121,18 +134,6 @@
           "time_info": "[06时12分 ~ 07时14分]"
         },
         {
-          "title": "美股收盘：小盘股指数再创历史新高",
-          "url": "https://www.cls.cn/detail/2220253",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时14分]"
-        },
-        {
           "title": "纳斯达克金龙中国指数美股盘初冲高回落，一度上涨将近0.8%刷新日高至7762.15点，随后回落至7710点下方，逼近7700点附近的平盘。",
           "url": "https://wallstreetcn.com/livenews/3015261",
           "source": "华尔街见闻-快讯",
@@ -205,8 +206,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 11时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时24分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -217,8 +218,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时14分]"
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时24分]"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -257,7 +258,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
