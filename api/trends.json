@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T03:10:59.428202+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2025-12-07T04:16:09.280645+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时16分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时16分]"
         }
       ]
     }
