@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T03:12:15.278416+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-12-09T04:16:40.253520+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -29,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "金十图示：2025年12月08日（周一）美股热门股票行情一览（美股盘中）",
