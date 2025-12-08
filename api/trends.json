@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T07:13:19.591847+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2025-12-08T09:03:40.994069+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 06时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中金：哈塞特若成为美联储主席或使美债利率和美元先下后上",
+          "url": "https://flash.jin10.com/detail/20251208080055151800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         }
       ]
     }
