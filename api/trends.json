@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T11:14:32.921587+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2025-12-09T12:23:59.396322+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
@@ -33,19 +33,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 11时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时23分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
           "url": "https://www.cls.cn/detail/2223379",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 11时14分]"
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 12时23分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -271,8 +272,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时14分]"
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时23分]"
         },
         {
           "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
@@ -310,7 +311,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         }
