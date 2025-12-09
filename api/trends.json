@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T17:18:39.094055+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2025-12-09T18:17:20.427300+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
@@ -170,6 +170,18 @@
           "time_info": "[05时13分 ~ 06时14分]"
         },
         {
+          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3017543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时17分]"
+        },
+        {
           "title": "周一（12月8日）纽约尾盘，ICE美元指数涨0.11%，报99.102点，日内交投区间为98.794-99.227点，美股开盘后出现一波显著的上涨行情。 彭博美元指数涨0.12%，报1213.90点，日内交投区间为1210.34-1214.88点。",
           "url": "https://wallstreetcn.com/livenews/3017150",
           "source": "华尔街见闻-快讯",
@@ -191,17 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 07时14分]"
-        },
-        {
-          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3017543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
@@ -272,6 +273,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美联储主席热门人选哈塞特隔夜意外发表“鹰派”表态，降息预期遭受打压，金价多头情绪大幅回落，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
+          "url": "https://flash.jin10.com/detail/20251209104127597800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "土耳其银行业人士：土耳其央行上周的净储备预计已增加55亿美元，达到近780亿美元。土耳其央行上周购买了逾30亿美元资产，其中因金价变动带来的增值超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209144133610800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "金价波动不大，市场关注鲍威尔讲话揭示后续路径",
+          "url": "https://flash.jin10.com/detail/20251209170958206800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -284,8 +324,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时03分 ~ 17时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时03分 ~ 18时17分]"
         },
         {
           "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
@@ -309,34 +349,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储主席热门人选哈塞特隔夜意外发表“鹰派”表态，降息预期遭受打压，金价多头情绪大幅回落，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
-          "url": "https://flash.jin10.com/detail/20251209104127597800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "土耳其银行业人士：土耳其央行上周的净储备预计已增加55亿美元，达到近780亿美元。土耳其央行上周购买了逾30亿美元资产，其中因金价变动带来的增值超过10亿美元。",
-          "url": "https://flash.jin10.com/detail/20251209144133610800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         }
       ]
     }
