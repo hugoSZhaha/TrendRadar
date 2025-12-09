@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-09T13:15:12.691112+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2025-12-09T14:23:40.496600+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 21,
       "titles": [
+        {
+          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
+          "url": "https://www.cls.cn/detail/2223379",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时13分 ~ 14时23分]"
+        },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
           "url": "https://wallstreetcn.com/articles/3760903",
@@ -21,18 +33,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 07时14分]"
-        },
-        {
-          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
-          "url": "https://www.cls.cn/detail/2223379",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 13时15分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -269,11 +269,12 @@
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[09时03分 ~ 14时23分]"
         },
         {
           "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
