@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T12:45:29.058725+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2025-12-10T13:16:34.087645+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
@@ -21,17 +21,6 @@
           "time_info": "[00时19分 ~ 09时35分]"
         },
         {
-          "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 04时15分]"
-        },
-        {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
           "url": "https://www.cls.cn/detail/2224722",
           "source": "财联社热门",
@@ -41,8 +30,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时14分 ~ 12时45分]"
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 13时16分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 04时15分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -184,8 +184,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时35分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时35分 ~ 13时16分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -235,7 +235,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         }
