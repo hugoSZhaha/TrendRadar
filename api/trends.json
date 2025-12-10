@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T15:18:11.110806+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2025-12-10T16:20:51.445627+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
@@ -166,6 +166,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时35分 ~ 16时20分]"
+        },
+        {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
@@ -175,17 +186,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时35分 ~ 15时18分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
