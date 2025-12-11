@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T12:31:23.649063+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2025-12-11T13:18:03.173302+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 12时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时05分 ~ 13时18分]"
+        },
+        {
+          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
+          "url": "https://www.cls.cn/detail/2225967",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 13时18分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时17分 ~ 07时12分]"
-        },
-        {
-          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
-          "url": "https://www.cls.cn/detail/2225967",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 12时31分]"
         },
         {
           "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
@@ -245,6 +245,19 @@
           "time_info": "[03时13分 ~ 04时17分]"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时20分 ~ 13时18分]"
+        },
+        {
           "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
           "url": "https://flash.jin10.com/detail/20251211101756207800",
           "source": "金十数据",
@@ -254,18 +267,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 11时20分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 12时31分]"
         },
         {
           "title": "金价在美联储利率决议前回落 银价徘徊于高位附近",
