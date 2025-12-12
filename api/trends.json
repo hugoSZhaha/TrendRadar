@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T15:18:55.745840+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2025-12-12T16:21:05.759695+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
@@ -270,8 +270,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金十图示：2025年12月12日（周五）上海金午盘价为965.28元/克，较国际金价(972.09元/克)，低6.81元/克",
+          "url": "https://flash.jin10.com/detail/20251212154709689800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
         {
           "title": "金十图示：2025年12月12日（周五）上海金早盘价为963.64元/克，较国际金价(969.37元/克)，低5.73元/克",
           "url": "https://flash.jin10.com/detail/20251212102205776800",
