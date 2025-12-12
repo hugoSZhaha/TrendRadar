@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T03:13:38.469996+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2025-12-13T04:16:16.303255+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 04时16分]"
         },
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
@@ -120,11 +120,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 04时16分]"
         }
       ]
     },
