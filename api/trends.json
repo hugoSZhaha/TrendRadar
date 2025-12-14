@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T06:13:48.540686+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2025-12-15T07:13:19.954222+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时13分]"
         },
         {
           "title": "美联储降息大辩论：美债能否再创佳绩 全看本周非农脸色？",
           "url": "https://flash.jin10.com/detail/20251215044251932800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
         }
       ]
     },
@@ -45,8 +46,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 07时13分]"
         }
       ]
     }
