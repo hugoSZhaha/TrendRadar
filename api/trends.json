@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T02:22:28.667781+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2025-12-16T03:16:16.529450+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时16分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时16分]"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -50,7 +50,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -61,7 +61,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         }
