@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:19:11.958147+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2025-12-16T16:21:32.626585+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
@@ -238,7 +238,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "10年期美债价格冲高回落",
@@ -251,6 +251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
+          "title": "盛宝银行：美债收益率明年可能进一步趋陡",
+          "url": "https://flash.jin10.com/detail/20251216154958479800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     }
