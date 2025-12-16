@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T06:15:38.302066+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2025-12-17T07:14:10.632937+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
@@ -26,7 +26,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -36,11 +36,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时15分]"
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 07时14分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）热门中概股行情一览（美股收盘）",
@@ -48,11 +49,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时15分]"
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 07时14分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 特斯拉创新高",
@@ -60,11 +62,23 @@
           "source": "金十数据",
           "ranks": [
             6,
-            24
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 07时14分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
+          "url": "https://www.cls.cn/detail/2231583",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时15分]"
+          "time_info": "[07时13分 ~ 07时14分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股盘中）",
@@ -78,6 +92,28 @@
           "time_info": "[02时21分 ~ 02时22分]"
         },
         {
+          "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
+          "url": "https://wallstreetcn.com/livenews/3021924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "周二（12月16日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.46%，报88100美元。 CME以太币期货DCR主力合约涨0.82%，报2959美元。 美股加密货币与加密货币关联指数涨1.89%，报61.48点。 最近24小时，MarketVector数字资产100小盘指数涨1.08%，暂报3724.25点。",
+          "url": "https://wallstreetcn.com/livenews/3021922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
           "title": "金十图示：2025年12月16日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251217013032694800",
           "source": "金十数据",
@@ -89,13 +125,24 @@
           "time_info": "[02时21分 ~ 02时22分]"
         },
         {
+          "title": "（美股）费城金银指数收跌0.27%，报335.44点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.83%，报2378.53点。",
+          "url": "https://wallstreetcn.com/livenews/3021919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收涨3.1%，时隔一年再创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3021906",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -113,6 +160,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价在美国11月非农就业报告后出现一波反弹行情",
+          "url": "https://wallstreetcn.com/livenews/3021918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -123,7 +187,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         }
