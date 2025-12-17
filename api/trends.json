@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T03:16:08.234513+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2025-12-18T04:17:07.018079+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 03时16分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 04时17分]"
         },
         {
           "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
           "url": "https://flash.jin10.com/detail/20251218024123307800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 04时17分]"
         },
         {
           "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
