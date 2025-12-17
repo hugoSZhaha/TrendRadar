@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T07:14:10.632937+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2025-12-17T09:01:13.274670+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 06时15分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
+          "url": "https://www.cls.cn/detail/2231583",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 09时01分]"
         },
         {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
@@ -68,17 +80,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时15分 ~ 07时14分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
-          "url": "https://www.cls.cn/detail/2231583",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 07时14分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股盘中）",
