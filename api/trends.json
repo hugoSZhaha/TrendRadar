@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T20:29:28.067486+08:00",
-  "total_titles_processed": 1900,
+  "generated_at": "2025-12-17T21:31:09.879827+08:00",
+  "total_titles_processed": 2005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 06时15分]"
+        },
+        {
+          "title": "美股期货短线走低，纳指期货日内涨幅收窄至0.12%，标普500指数期货涨幅收窄至0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3022443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
         },
         {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
