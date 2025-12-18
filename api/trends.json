@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T11:16:24.189326+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2025-12-18T12:29:35.479009+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时14分 ~ 11时16分]"
+          "appearance_count": 6,
+          "time_info": "[06时14分 ~ 12时29分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 12时29分]"
         },
         {
           "title": "甲骨文带崩美股大盘",
@@ -214,7 +214,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         }
