@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T07:14:28.613749+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2025-12-18T09:02:11.294855+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -24,11 +24,35 @@
           "url": "https://wallstreetcn.com/articles/3761550",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时14分 ~ 09时02分]"
+        },
+        {
+          "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2232828",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 09时02分]"
+        },
+        {
+          "title": "甲骨文带崩美股大盘",
+          "url": "https://www.toutiao.com/trending/7584969089827737139/",
+          "source": "今日头条",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时14分]"
+          "time_info": "[09时01分 ~ 09时02分]"
         },
         {
           "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
@@ -41,17 +65,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时15分 ~ 04时17分]"
-        },
-        {
-          "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2232828",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时14分"
         },
         {
           "title": "（美股）费城金银指数收涨0.86%，报338.32点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.29%，报2409.16点，亚太盘初以来维持上涨状态，大部分时间持稳于2390点附近。",
@@ -107,7 +120,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -118,7 +131,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
