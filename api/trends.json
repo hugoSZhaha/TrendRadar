@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-18T13:18:36.389630+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2025-12-18T14:23:00.886572+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时14分 ~ 14时23分]"
+        },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
           "url": "https://wallstreetcn.com/articles/3761550",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时18分 ~ 05时15分]"
-        },
-        {
-          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
-          "url": "https://wallstreetcn.com/articles/3761550",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时14分 ~ 13时18分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
