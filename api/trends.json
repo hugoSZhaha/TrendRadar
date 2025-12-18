@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T03:14:45.266543+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2025-12-19T04:15:45.505935+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时15分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 04时15分]"
         },
         {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
@@ -114,6 +114,18 @@
           "time_info": "[02时21分 ~ 03时14分]"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 04时15分]"
+        },
+        {
           "title": "高盛：金价飙升势头或延续至2026年，目标上看4900美元",
           "url": "https://flash.jin10.com/detail/20251219013545433800",
           "source": "金十数据",
@@ -123,17 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 02时22分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 03时14分]"
         }
       ]
     }
