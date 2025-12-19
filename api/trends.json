@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T14:22:32.066983+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2025-12-19T15:18:00.854607+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 15时18分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -323,7 +323,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
