@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T04:16:03.810342+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2025-12-20T05:14:09.239239+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时14分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时14分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -69,7 +69,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
@@ -79,8 +79,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 05时14分]"
+        },
+        {
+          "title": "2/10年期美债收益率于美国CPI数据发布当周跌超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3024148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 05时14分]"
         }
       ]
     }
