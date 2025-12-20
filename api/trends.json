@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T19:12:05.463267+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-12-20T20:25:11.995692+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 20时25分]"
         },
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -56,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 20时25分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -80,8 +80,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时20分 ~ 19时12分]"
+          "appearance_count": 12,
+          "time_info": "[12时20分 ~ 20时25分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -106,11 +106,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 20时25分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
