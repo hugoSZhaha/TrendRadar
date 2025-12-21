@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T15:14:23.731846+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2025-12-21T16:18:29.739799+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 15时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 16时18分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -40,11 +41,12 @@
           "ranks": [
             4,
             9,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时18分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -67,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 16时18分]"
         }
       ]
     },
@@ -96,8 +98,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时18分]"
         },
         {
           "title": "金价又涨了",
