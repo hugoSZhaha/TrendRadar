@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T14:21:34.106338+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2025-12-21T15:14:23.731846+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 14时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 15时14分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -39,11 +39,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时14分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -62,11 +63,12 @@
           "url": "https://wallstreetcn.com/articles/3761788",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时14分]"
         }
       ]
     },
@@ -94,19 +96,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时14分]"
         },
         {
           "title": "金价又涨了",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时14分]"
         }
       ]
     }
