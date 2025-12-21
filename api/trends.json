@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T09:09:20.946212+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2025-12-21T11:24:40.562931+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 09时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 11时24分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
