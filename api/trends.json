@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T00:17:58.578967+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-23T01:14:25.134463+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时14分]"
         },
         {
           "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
           "url": "https://wallstreetcn.com/livenews/3025047",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时14分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘初涨3.9%，Paramount SkyDance（派拉蒙天舞）涨3.3%。",
@@ -62,11 +63,12 @@
           "url": "https://www.toutiao.com/trending/7586259723437064246/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时14分]"
         }
       ]
     }
