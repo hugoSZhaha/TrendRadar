@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T02:21:49.512660+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2025-12-23T03:13:32.924793+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时13分]"
         },
         {
           "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
@@ -36,22 +36,24 @@
           "url": "https://flash.jin10.com/detail/20251223013152796800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时13分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251223013143284800",
           "source": "金十数据",
           "ranks": [
-            20
+            20,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时13分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘初涨3.9%，Paramount SkyDance（派拉蒙天舞）涨3.3%。",
@@ -86,11 +88,12 @@
           "url": "https://flash.jin10.com/detail/20251223020756394800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时13分]"
         },
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -99,11 +102,40 @@
           "ranks": [
             8,
             9,
-            19
+            19,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "交易员大举押注10年期美债收益率数周内将重返4%",
+          "url": "https://flash.jin10.com/detail/20251223022902184800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "交易员豪赌美债期权 押注10年期收益率几周内回落至4%",
+          "url": "https://wallstreetcn.com/livenews/3025085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     }
