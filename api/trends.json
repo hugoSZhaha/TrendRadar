@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T13:19:13.254809+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2025-12-23T14:23:25.511750+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时14分 ~ 13时19分]"
+          "appearance_count": 10,
+          "time_info": "[07时14分 ~ 14时23分]"
         },
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
@@ -194,7 +194,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -226,13 +226,24 @@
           "time_info": "[02时21分 ~ 04时16分]"
         },
         {
+          "title": "金价突破1400元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B41400%E5%85%83%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "金价大涨的背后原因是什么",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%9A%84%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
