@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T11:22:29.729301+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2025-12-23T12:33:15.015679+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 11时22分]"
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 12时33分]"
         },
         {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
@@ -267,6 +267,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时21分 ~ 04时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "多氟多 002407",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "创业板指涨超1%，沪指涨超0.4%。锂电池板块走强，多氟多、天际股份等涨停。",
+          "url": "https://wallstreetcn.com/livenews/3025326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
         }
       ]
     }
