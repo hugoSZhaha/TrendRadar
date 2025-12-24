@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T15:19:29.069112+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2025-12-24T16:20:58.882382+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -244,7 +244,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -273,8 +273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时04分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时04分 ~ 16时20分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
