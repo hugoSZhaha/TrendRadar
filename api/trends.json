@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T14:23:24.566019+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2025-12-24T15:19:29.069112+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
@@ -174,7 +174,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
@@ -238,6 +238,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "赛诺菲(SNY.O)以每股15.50美元的现金价格收购Dynavax公司的所有流通股。交易预计于2026年第一季度完成。",
+          "url": "https://flash.jin10.com/detail/20251224141858552800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "金价彻底爆了 有人拖行李箱抢购",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
           "source": "百度热搜",
@@ -262,8 +273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时19分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -290,7 +301,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         }
