@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T06:14:22.949799+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2025-12-26T07:14:38.230726+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             12,
             7,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -50,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时14分]"
         }
       ]
     }
