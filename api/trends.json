@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T16:20:10.275340+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2025-12-25T17:17:28.115631+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3761989",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 17时17分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -37,11 +38,12 @@
           "url": "https://wallstreetcn.com/articles/3762016",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 16时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 17时17分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
