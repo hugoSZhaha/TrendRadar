@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-26T15:17:57.901438+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2025-12-26T16:20:14.181674+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 10,
       "titles": [
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 16时20分]"
+        },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
           "url": "https://www.zhihu.com/question/1987171318681068732",
@@ -22,18 +35,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 09时05分]"
-        },
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 15时17分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -56,7 +57,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -93,8 +94,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 16时20分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
