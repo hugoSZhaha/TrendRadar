@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T17:17:00.677932+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2025-12-26T18:16:08.732570+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时19分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[11时19分 ~ 18时16分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -136,7 +136,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -149,6 +149,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时14分]"
+        },
+        {
+          "title": "美股太空概念股Sidus Space盘前延续大涨，现涨超30%，前一交易日收涨33%。",
+          "url": "https://flash.jin10.com/detail/20251226172626463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "美股今日正常开市，欧洲股市继续休市",
