@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-28T18:14:36.111577+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2025-12-28T19:12:55.935714+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 19时12分]"
+        },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
           "url": "https://flash.jin10.com/detail/20251228100400527800",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时41分 ~ 13时19分]"
-        },
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 18时14分]"
         }
       ]
     },
