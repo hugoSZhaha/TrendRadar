@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T13:24:05.276304+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2025-12-29T14:25:25.374608+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -20,22 +20,23 @@
           "time_info": "[00时16分 ~ 11时43分]"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 14时25分]"
+        },
+        {
           "title": "金十图示：2025年12月29日（周一）上海金早盘价为1010.41元/克，较国际金价(1016.45元/克)，低6.04元/克",
           "url": "https://flash.jin10.com/detail/20251229105826518800",
           "source": "金十数据",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
