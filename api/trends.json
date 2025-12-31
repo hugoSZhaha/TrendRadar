@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-31T16:20:40.264266+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2025-12-31T17:18:40.419167+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 17时18分]"
+        },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
           "url": "https://wallstreetcn.com/articles/3762238",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时18分 ~ 06时14分]"
-        },
-        {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 16时20分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -245,7 +245,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
