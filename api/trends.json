@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T09:06:45.209616+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2025-12-31T11:22:22.677331+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 09时06分]"
+        },
+        {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 11时22分]"
+        },
+        {
+          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
+          "url": "https://www.cls.cn/detail/2244733",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 11时22分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
@@ -118,28 +141,6 @@
           "time_info": "[06时13分 ~ 07时14分]"
         },
         {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
-          "url": "https://www.cls.cn/detail/2244733",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
           "title": "美股开盘：百度高开超4%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%AB%98%E5%BC%80%E8%B6%854%25",
           "source": "百度热搜",
@@ -199,7 +200,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价",
@@ -225,6 +226,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时13分 ~ 07时14分]"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）上海金早盘价为980.89元/克，较国际金价(976.71元/克)，高4.18元/克",
+          "url": "https://flash.jin10.com/detail/20251231105932049800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "金价波动",
@@ -280,6 +292,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 06时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     }
