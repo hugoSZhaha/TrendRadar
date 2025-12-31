@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T14:23:18.229282+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2025-12-31T15:19:15.976364+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时06分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时06分 ~ 15时19分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -306,11 +306,12 @@
           "ranks": [
             18,
             24,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 15时19分]"
         }
       ]
     }
