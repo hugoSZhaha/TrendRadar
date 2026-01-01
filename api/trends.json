@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T22:14:39.337589+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-01-01T23:15:26.051762+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             6,
             7,
             4,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时13分 ~ 22时14分]"
+          "appearance_count": 15,
+          "time_info": "[09时13分 ~ 23时15分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
