@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T02:21:17.672553+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-01-03T03:10:21.812417+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 03时10分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消减，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -30,28 +30,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260103013328832800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260103013319071800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        },
-        {
           "title": "美股中概股大涨 百度涨超10%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%8510%25",
           "source": "百度热搜",
@@ -59,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时10分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -71,8 +49,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时10分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260103013328832800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时10分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260103013319071800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时10分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -117,9 +119,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时10分]"
         },
         {
           "title": "特斯拉第四季度交付量418227辆，同比下降16%，预估440907辆。 第四季度Model 3/Y 交付量406585辆，同比下降14%，预估421796辆。 第四季度汽车产量434358辆，同比下降5.5%，预估470780辆。 第四季度Model 3/Y 产量422652辆，同比下降3.2%，预估452494辆。 特斯拉全年交付量164万，同比下降8.6%，预估160万。 特斯拉美股盘前涨近2%。",
@@ -180,8 +182,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时10分]"
         },
         {
           "title": "金价过山车有人变现近9斤黄金",
@@ -189,11 +191,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时10分]"
         },
         {
           "title": "元旦购金热爆棚 金价还能涨到哪",
