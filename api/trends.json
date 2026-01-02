@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T14:23:24.068046+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-01-02T15:19:38.733309+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 14时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 15时19分]"
         },
         {
           "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
@@ -70,11 +70,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 15时19分]"
         }
       ]
     }
