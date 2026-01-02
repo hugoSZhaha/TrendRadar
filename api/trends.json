@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T04:16:01.583768+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-01-03T05:12:21.719569+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 05时12分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -36,11 +36,26 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260103013328832800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时21分 ~ 05时12分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消减，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -54,30 +69,18 @@
           "time_info": "00时17分"
         },
         {
-          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260103013328832800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时21分 ~ 04时16分]"
-        },
-        {
           "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260103013319071800",
           "source": "金十数据",
           "ranks": [
             5,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时21分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时21分 ~ 05时12分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -87,8 +90,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时21分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时21分 ~ 05时12分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -185,8 +188,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "金价过山车有人变现近9斤黄金",
@@ -198,8 +201,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时12分]"
         },
         {
           "title": "元旦购金热爆棚 金价还能涨到哪",
