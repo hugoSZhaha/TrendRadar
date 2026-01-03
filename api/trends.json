@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T07:14:09.264646+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-01-03T09:02:34.434205+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 09时02分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -52,11 +52,12 @@
             4,
             8,
             11,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时21分 ~ 07时14分]"
+          "appearance_count": 9,
+          "time_info": "[02时21分 ~ 09时02分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
@@ -66,11 +67,12 @@
             5,
             9,
             12,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时21分 ~ 07时14分]"
+          "appearance_count": 9,
+          "time_info": "[02时21分 ~ 09时02分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -78,22 +80,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时21分 ~ 07时14分]"
+          "appearance_count": 9,
+          "time_info": "[02时21分 ~ 09时02分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
           "url": "https://wallstreetcn.com/livenews/3029953",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 07时14分]"
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 09时02分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消减，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -107,16 +111,28 @@
           "time_info": "00时17分"
         },
         {
+          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
           "url": "https://wallstreetcn.com/livenews/3029945",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时14分 ~ 07时14分]"
+          "appearance_count": 4,
+          "time_info": "[06时14分 ~ 09时02分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
@@ -124,11 +140,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时14分 ~ 07时14分]"
+          "appearance_count": 4,
+          "time_info": "[06时14分 ~ 09时02分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -165,6 +182,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 01时14分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260103083241410800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260103083228341800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一，中概股指大涨4%",
+          "url": "https://flash.jin10.com/detail/20260103083148259800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "半导体概念股美股新年首日普遍收涨",
+          "url": "https://wallstreetcn.com/livenews/3029957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         },
         {
           "title": "特斯拉第四季度交付量418227辆，同比下降16%，预估440907辆。 第四季度Model 3/Y 交付量406585辆，同比下降14%，预估421796辆。 第四季度汽车产量434358辆，同比下降5.5%，预估470780辆。 第四季度Model 3/Y 产量422652辆，同比下降3.2%，预估452494辆。 特斯拉全年交付量164万，同比下降8.6%，预估160万。 特斯拉美股盘前涨近2%。",
@@ -225,8 +286,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 09时02分]"
         },
         {
           "title": "金价过山车有人变现近9斤黄金",
@@ -235,11 +296,12 @@
           "ranks": [
             18,
             25,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 09时02分]"
         },
         {
           "title": "金价飙升原因找到了",
@@ -289,11 +351,12 @@
           "url": "https://wallstreetcn.com/livenews/3029947",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 07时14分]"
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 09时02分]"
         }
       ]
     }
