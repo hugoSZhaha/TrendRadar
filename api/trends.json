@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T18:14:53.476945+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-01-03T19:12:35.816416+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时02分 ~ 18时14分]"
+          "appearance_count": 12,
+          "time_info": "[09时02分 ~ 19时12分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时21分 ~ 18时14分]"
+          "appearance_count": 20,
+          "time_info": "[02时21分 ~ 19时12分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -74,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时17分 ~ 18时14分]"
+          "appearance_count": 11,
+          "time_info": "[11时17分 ~ 19时12分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
@@ -120,8 +120,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 18时14分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 19时12分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -212,6 +212,18 @@
           "time_info": "[09时02分 ~ 13时16分]"
         },
         {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 19时12分]"
+        },
+        {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
           "url": "https://flash.jin10.com/detail/20260102232633557800",
           "source": "金十数据",
@@ -248,17 +260,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时02分 ~ 12时27分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 18时14分]"
         },
         {
           "title": "半导体ETF美股盘初涨近4%，半导体设备股上涨，引领芯片股走高",
