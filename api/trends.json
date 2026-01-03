@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T06:13:56.011511+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-01-04T07:14:14.557764+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时14分]"
         }
       ]
     }
