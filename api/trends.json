@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-03T19:12:35.816416+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-01-03T20:26:03.465951+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 24,
       "titles": [
-        {
-          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时02分 ~ 19时12分]"
-        },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
           "url": "https://wallstreetcn.com/articles/3762449",
@@ -28,6 +17,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时13分 ~ 07时14分]"
+        },
+        {
+          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时02分 ~ 20时26分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -74,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时17分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[11时17分 ~ 20时26分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
@@ -117,11 +118,12 @@
             9,
             7,
             6,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时17分 ~ 19时12分]"
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 20时26分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -187,6 +189,19 @@
           "time_info": "[09时02分 ~ 15时14分]"
         },
         {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 20时26分]"
+        },
+        {
           "title": "2026欧亚股市开门红，美股早盘涨势消减，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
           "url": "https://wallstreetcn.com/articles/3762449",
           "source": "华尔街见闻",
@@ -210,18 +225,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时02分 ~ 13时16分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 19时12分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
