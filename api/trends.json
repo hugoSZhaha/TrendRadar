@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T13:19:48.931489+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-01-06T14:23:38.600043+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时14分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 14时23分]"
+        },
+        {
+          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
+          "url": "https://www.cls.cn/detail/2248624",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 14时23分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -43,19 +56,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时20分 ~ 13时19分]"
-        },
-        {
-          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
-          "url": "https://www.cls.cn/detail/2248624",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时14分 ~ 13时19分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉涨3.1%，苹果跌约1.4%",
@@ -188,7 +188,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "瑞银上调金价目标至5000美元",
@@ -200,6 +200,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "分析师：降息预期与避险需求推升金价 本周关注关键非农数据",
+          "url": "https://flash.jin10.com/detail/20260106134723251800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "银行家表示，土耳其央行上周的外汇储备预计减少了55亿美元至1885亿美元；土耳其央行上周出售了40亿美元，其中近20亿美元的降幅源于金价变动。",
+          "url": "https://flash.jin10.com/detail/20260106134420710800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
