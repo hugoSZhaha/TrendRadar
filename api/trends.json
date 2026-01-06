@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T09:06:35.522490+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-01-06T11:24:05.623656+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 09时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 11时24分]"
         },
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -40,8 +41,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 09时06分]"
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 11时24分]"
+        },
+        {
+          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
+          "url": "https://www.cls.cn/detail/2248624",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 11时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉涨3.1%，苹果跌约1.4%",
@@ -78,18 +91,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 06时15分]"
-        },
-        {
-          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
-          "url": "https://www.cls.cn/detail/2248624",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 09时06分]"
         },
         {
           "title": "美股收盘：道指创新高 雪佛龙涨5%",
@@ -178,9 +179,48 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "瑞银上调金价目标至5000美元",
+          "url": "https://www.toutiao.com/trending/7592024699937230379/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
+          "url": "https://flash.jin10.com/detail/20260106052744835800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
+          "url": "https://wallstreetcn.com/livenews/3031092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     },
@@ -222,34 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
-          "url": "https://flash.jin10.com/detail/20260106052744835800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
-          "url": "https://wallstreetcn.com/livenews/3031092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
         }
       ]
     },
