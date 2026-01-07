@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T16:21:37.848033+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-01-07T17:23:09.440683+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
@@ -125,7 +125,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -258,7 +258,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -298,6 +298,17 @@
           "time_info": "[06时15分 ~ 06时16分]"
         },
         {
+          "title": "分析师：金价看涨动力犹存，非农与最高法院判决成关键变数",
+          "url": "https://flash.jin10.com/detail/20260107165757917800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
+        },
+        {
           "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
           "url": "https://flash.jin10.com/detail/20260107111347667800",
           "source": "金十数据",
@@ -307,6 +318,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "投资者获利了结 金价微跌并关注美国经济数据",
+          "url": "https://flash.jin10.com/detail/20260107164717455800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
         },
         {
           "title": "金十图示：2026年01月07日（周三）上海金早盘价为1003.92元/克，较国际金价(1004.33元/克)，低0.41元/克",
