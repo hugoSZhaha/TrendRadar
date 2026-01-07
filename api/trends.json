@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T11:24:48.460442+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-01-07T12:35:00.683260+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 12时35分]"
+        },
+        {
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时14分 ~ 11时24分]"
+          "time_info": "[09时06分 ~ 12时35分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
@@ -130,17 +142,6 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
-          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
-          "url": "https://wallstreetcn.com/articles/3762638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时24分]"
-        },
-        {
           "title": "城堡证券：看好“一月效应”引发美股反弹",
           "url": "https://wallstreetcn.com/livenews/3031829",
           "source": "华尔街见闻-快讯",
@@ -203,7 +204,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -233,7 +234,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -262,13 +263,24 @@
           "time_info": "[06时15分 ~ 06时16分]"
         },
         {
+          "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
+          "url": "https://flash.jin10.com/detail/20260107111347667800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
           "title": "金十图示：2026年01月07日（周三）上海金早盘价为1003.92元/克，较国际金价(1004.33元/克)，低0.41元/克",
           "url": "https://flash.jin10.com/detail/20260107101853429800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
