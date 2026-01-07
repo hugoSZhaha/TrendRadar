@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T17:23:09.440683+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2026-01-07T18:18:14.527459+08:00",
+  "total_titles_processed": 1704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -222,6 +222,28 @@
           "time_info": "[06时15分 ~ 06时16分]"
         },
         {
+          "title": "美股稀土概念盘前走强，Critical Metals涨超10%，MP Materials涨超3%，USA Rare Earth涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3032318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
+        },
+        {
+          "title": "Ventyx(VTYX.O)美股盘前飙升65%，据悉礼来(LLY.N)接近达成以超10亿美元收购该公司的交易。",
+          "url": "https://flash.jin10.com/detail/20260107171807580800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
+        },
+        {
           "title": "美联储理事米兰再次呼吁激进降息，称今年需降息超100基点，而其同僚巴尔金则表示，2025年累计降息75个基点后，利率已进入中性利率的估计区间，凸显美联储内部分歧。当前美股三大股指多空信号分化，现货金银整体多头优势，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260107103252586800",
           "source": "金十数据",
@@ -258,7 +280,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -309,6 +331,17 @@
           "time_info": "[17时22分 ~ 17时23分]"
         },
         {
+          "title": "现货金重新站上4500美元！桥水达里奥：金价暴涨释放警示信号",
+          "url": "https://www.cls.cn/detail/2250158",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
+        },
+        {
           "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
           "url": "https://flash.jin10.com/detail/20260107111347667800",
           "source": "金十数据",
@@ -356,7 +389,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美债收益率普遍涨超1个基点",
@@ -379,6 +412,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 15时21分]"
+        },
+        {
+          "title": "美债收益率曲线持续走陡 滞胀担忧推动长端利率走高",
+          "url": "https://flash.jin10.com/detail/20260107171642529800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
         }
       ]
     }
