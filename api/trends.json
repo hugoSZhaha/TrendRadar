@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T17:22:38.637275+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-01-08T18:18:00.080629+08:00",
+  "total_titles_processed": 1679,
   "failed_sources": [],
   "trends": [
     {
@@ -28,7 +28,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -172,6 +172,19 @@
           "time_info": "[15时19分 ~ 15时20分]"
         },
         {
+          "title": "金价暴涨年轻人改买“道具黄金”",
+          "url": "https://www.toutiao.com/trending/7592498286850998299/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时17分]"
+        },
+        {
           "title": "金价已在历史高位 央行为何还在买",
           "url": "https://www.toutiao.com/trending/7592763349536869894/",
           "source": "今日头条",
@@ -195,18 +208,6 @@
           "time_info": "[14时23分 ~ 14时24分]"
         },
         {
-          "title": "金价暴涨年轻人改买“道具黄金”",
-          "url": "https://www.toutiao.com/trending/7592498286850998299/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时22分]"
-        },
-        {
           "title": "国际金价为何一路狂飙",
           "url": "https://www.toutiao.com/trending/7591730575850602502/",
           "source": "今日头条",
@@ -224,7 +225,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -254,8 +255,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时06分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时06分 ~ 18时17分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
