@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T13:19:47.850728+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-01-08T14:24:05.510599+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时14分 ~ 13时19分]"
+          "appearance_count": 9,
+          "time_info": "[07时14分 ~ 14时24分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.97%，报366.95点，美国ISM非制造业指数与职位空缺数据发布后，刷新日低至352.65点，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.80%，报2585.17点。 （美股）原材料指数跌1.67%，报237.22点，整体呈现出长尾L形走势。 （美股）金属与矿业指数跌0.97%，报230.56点。",
@@ -157,8 +157,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 14时24分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -220,7 +220,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价已在历史高位 央行为何还在买",
@@ -233,6 +233,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 11时25分]"
+        },
+        {
+          "title": "美元走强压制金价 投资者警惕市场波动与获利回吐",
+          "url": "https://flash.jin10.com/detail/20260108135145706800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 14时24分]"
         },
         {
           "title": "国际金价为何一路狂飙",
