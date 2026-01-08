@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T20:31:43.279548+08:00",
-  "total_titles_processed": 1885,
+  "generated_at": "2026-01-08T21:36:38.620205+08:00",
+  "total_titles_processed": 1991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -120,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股盘中）",
@@ -266,8 +277,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时06分 ~ 20时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时06分 ~ 21时36分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
