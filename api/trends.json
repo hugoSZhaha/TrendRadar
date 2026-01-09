@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-09T17:21:59.258968+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2026-01-09T18:16:51.011695+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
+        {
+          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 18时16分]"
+        },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
           "url": "https://www.cls.cn/detail/2252454",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时13分 ~ 16时21分]"
-        },
-        {
-          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 17时21分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -183,8 +183,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "汇丰：即使金价明显下跌，对金饰的需求也不会出现显著增长",
+          "url": "https://flash.jin10.com/detail/20260109173937857800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
         {
           "title": "大华银行：地缘政治风险强化避险需求 上调全年金价目标",
           "url": "https://flash.jin10.com/detail/20260109140547677800",
@@ -195,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "分析师：非农数据公布前夕，金价在观望中呈现区间震荡",
+          "url": "https://flash.jin10.com/detail/20260109173213145800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "金十图示：2026年01月09日（周五）上海金午盘价为1003.71元/克，较国际金价(1004.15元/克)，低0.44元/克",
@@ -214,7 +236,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -280,8 +302,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 17时21分]"
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 18时16分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -292,8 +314,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 17时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 18时16分]"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
@@ -305,6 +327,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "本周价格上涨进一步抑制了印度的实物黄金购买需求",
+          "url": "https://flash.jin10.com/detail/20260109173204867800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     }
