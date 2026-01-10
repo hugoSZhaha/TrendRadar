@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T13:16:39.297928+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-01-10T14:21:24.155812+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时04分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[09时04分 ~ 14时21分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -115,11 +116,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 14时21分]"
         },
         {
           "title": "金价波动",
@@ -152,11 +154,12 @@
           "source": "微博",
           "ranks": [
             10,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 14时21分]"
         }
       ]
     },
