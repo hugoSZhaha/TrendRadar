@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T16:19:04.880279+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-01-10T17:14:45.369190+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 17时14分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
@@ -108,7 +109,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中信证券：特朗普任期内黄金价格将因委内瑞拉事件加速上行",
@@ -135,8 +136,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 17时14分]"
         },
         {
           "title": "金价波动",
@@ -162,6 +163,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时04分 ~ 11时20分]"
+        },
+        {
+          "title": "金价飙涨美元一跌再跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E7%BE%8E%E5%85%83%E4%B8%80%E8%B7%8C%E5%86%8D%E8%B7%8C%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         }
       ]
     },
