@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T22:14:23.008644+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2026-01-10T23:14:07.604717+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             10,
             9,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时04分 ~ 22时14分]"
+          "appearance_count": 20,
+          "time_info": "[09时04分 ~ 23时14分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
