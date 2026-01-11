@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-11T21:27:03.145379+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-01-11T22:14:02.840310+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
+        {
+          "title": "金价飙升 多家银行公告提醒",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 22时14分]"
+        },
         {
           "title": "金价将走向何方",
           "url": "https://www.toutiao.com/trending/7593981430330297862/",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时19分 ~ 18时15分]"
-        },
-        {
-          "title": "金价飙升 多家银行公告提醒",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 21时27分]"
         },
         {
           "title": "金价飙升银行紧急提示",
@@ -83,8 +84,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时27分 ~ 21时27分]"
+          "appearance_count": 5,
+          "time_info": "[20时27分 ~ 22时14分]"
         }
       ]
     }
