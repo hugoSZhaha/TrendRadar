@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T13:25:14.055293+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-01-12T14:27:00.238359+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 14时27分]"
         },
         {
           "title": "金价飙升 多家银行公告提醒",
@@ -91,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 14时27分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -104,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[11时43分 ~ 14时27分]"
         }
       ]
     },
