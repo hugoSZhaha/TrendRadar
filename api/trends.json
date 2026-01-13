@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T12:34:33.233732+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-01-13T13:21:00.966467+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,17 @@
           "time_info": "[00时20分 ~ 07时13分]"
         },
         {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 13时21分]"
+        },
+        {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2255324",
           "source": "财联社热门",
@@ -44,15 +55,17 @@
           "time_info": "[00时20分 ~ 09时03分]"
         },
         {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
+          "url": "https://www.cls.cn/detail/2255541",
+          "source": "财联社热门",
           "ranks": [
-            1
+            8,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 13时21分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
@@ -64,19 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 07时13分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
-          "url": "https://www.cls.cn/detail/2255541",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 12时34分]"
         },
         {
           "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
