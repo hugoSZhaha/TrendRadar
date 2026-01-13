@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T20:31:49.406691+08:00",
-  "total_titles_processed": 1823,
+  "generated_at": "2026-01-13T21:37:01.162234+08:00",
+  "total_titles_processed": 1939,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 20时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时03分 ~ 21时37分]"
         },
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -222,7 +222,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -255,7 +255,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -318,7 +318,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中长期美债收益率涨超2个基点",
@@ -331,6 +331,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时14分]"
+        },
+        {
+          "title": "摩根大通美债客户调查显示净多头比例降至2024年10月以来最低",
+          "url": "https://wallstreetcn.com/livenews/3036168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "中金：如果美国通胀与流动性冲击导致中美股票、黄金、美债等资产回调，建议逢低增配",
