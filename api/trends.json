@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T21:36:54.243384+08:00",
-  "total_titles_processed": 2013,
+  "generated_at": "2026-01-14T22:20:09.713067+08:00",
+  "total_titles_processed": 2118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时09分 ~ 21时36分]"
+          "appearance_count": 19,
+          "time_info": "[09时09分 ~ 22时20分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 06时15分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3037104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -96,7 +107,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -147,6 +158,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 17时23分]"
+        },
+        {
+          "title": "伊朗局势担忧加剧，美股指期货跌幅扩大，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-14）",
+          "url": "https://flash.jin10.com/detail/20260114214142628800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "现货白银涨约2.2%，美股盘初突破89美元创历史新高",
