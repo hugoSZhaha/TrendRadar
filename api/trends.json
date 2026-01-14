@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T11:42:12.756261+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-01-14T12:42:10.452524+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 12时42分]"
+        },
+        {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时14分 ~ 11时42分]"
+          "time_info": "[09时09分 ~ 12时42分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 06时15分]"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时42分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
