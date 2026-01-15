@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T03:20:14.553089+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-01-16T04:18:13.313122+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -16,30 +16,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 04时18分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 04时18分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2259424",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 04时18分]"
         },
         {
           "title": "房利美和房地美股价下跌9%，跌至盘中低点。",
@@ -99,8 +101,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 04时18分]"
         },
         {
           "title": "金价",
@@ -110,8 +112,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 04时18分]"
         }
       ]
     }
