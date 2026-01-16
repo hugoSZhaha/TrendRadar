@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T09:07:40.774921+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-01-16T11:25:19.976593+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
@@ -51,9 +51,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 11时25分]"
+        },
+        {
+          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2259656",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 11时25分]"
         },
         {
           "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，美元站上99关口，金银微跌",
@@ -89,18 +101,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时15分 ~ 06时16分]"
-        },
-        {
-          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2259656",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 09时07分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
@@ -214,11 +214,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 09时07分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 11时25分]"
         },
         {
           "title": "金价",
@@ -239,7 +240,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         }
