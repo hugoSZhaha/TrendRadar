@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-16T20:29:46.765100+08:00",
-  "total_titles_processed": 1846,
+  "generated_at": "2026-01-16T21:34:15.150146+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 20,
       "titles": [
+        {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时07分 ~ 21时34分]"
+        },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
           "url": "https://wallstreetcn.com/articles/3763270",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时26分 ~ 07时15分]"
-        },
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时07分 ~ 20时29分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -244,7 +244,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -258,6 +258,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时27分 ~ 12时34分]"
+        },
+        {
+          "title": "美国经济数据强于预期、地缘局势缓和 金价周五延续跌势",
+          "url": "https://flash.jin10.com/detail/20260116212555636800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 21时34分]"
         },
         {
           "title": "金价",
