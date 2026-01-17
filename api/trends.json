@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:19:07.086094+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-01-17T17:14:55.134777+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时14分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[07时14分 ~ 17时14分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -44,8 +44,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 14时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 17时14分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -218,11 +218,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 17时14分]"
         },
         {
           "title": "金价波动",
