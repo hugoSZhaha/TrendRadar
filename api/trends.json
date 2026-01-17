@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T17:14:55.134777+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-01-17T18:15:11.946103+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             12,
             3,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时14分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[07时14分 ~ 18时15分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
