@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T12:37:21.177526+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-01-18T13:19:15.697554+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "哈塞特“出局”，但美债为何“不涨反跌”？",
@@ -19,6 +19,28 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时15分 ~ 09时12分]"
+        },
+        {
+          "title": "全球狂买美债 中国为何“大甩卖”",
+          "url": "https://www.toutiao.com/trending/7596537658717785642/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 13时19分]"
+        },
+        {
+          "title": "中国大规模抛售美债意味着什么",
+          "url": "https://www.toutiao.com/trending/7596539083501866505/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 13时19分]"
         }
       ]
     },
