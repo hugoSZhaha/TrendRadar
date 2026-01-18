@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T13:19:15.697554+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-01-18T14:22:25.970414+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
@@ -21,26 +21,28 @@
           "time_info": "[00时15分 ~ 09时12分]"
         },
         {
-          "title": "全球狂买美债 中国为何“大甩卖”",
-          "url": "https://www.toutiao.com/trending/7596537658717785642/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
-        },
-        {
           "title": "中国大规模抛售美债意味着什么",
           "url": "https://www.toutiao.com/trending/7596539083501866505/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时22分]"
+        },
+        {
+          "title": "全球狂买美债 中国为何“大甩卖”",
+          "url": "https://www.toutiao.com/trending/7596537658717785642/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时22分]"
         }
       ]
     },
