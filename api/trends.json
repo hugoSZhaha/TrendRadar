@@ -1,46 +1,11 @@
 {
-  "generated_at": "2026-01-20T06:15:40.932457+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-01-20T07:15:06.904367+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "财晓得丨金价涨成这样，到什么位置了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 06时15分]"
-        },
-        {
-          "title": "决定黄金价格的三大属性",
-          "url": "https://www.toutiao.com/trending/7597064696004349450/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            8,
-            4,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -54,15 +19,63 @@
           "time_info": "[00时21分 ~ 05时14分]"
         },
         {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 07时15分]"
+        },
+        {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "财晓得丨金价涨成这样，到什么位置了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367730",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时18分 ~ 07时15分]"
+        },
+        {
+          "title": "决定黄金价格的三大属性",
+          "url": "https://www.toutiao.com/trending/7597064696004349450/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            8,
+            4,
+            19,
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时15分]"
         }
       ]
     }
