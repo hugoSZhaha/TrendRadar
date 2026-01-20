@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T11:28:56.447989+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-01-20T12:39:30.986364+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时18分 ~ 11时28分]"
+          "appearance_count": 13,
+          "time_info": "[01时18分 ~ 12时39分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -45,7 +45,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }
@@ -74,8 +74,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 11时28分]"
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 12时39分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
