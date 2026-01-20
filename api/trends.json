@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T00:26:32.002134+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-21T01:23:43.458792+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3763668",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时23分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时23分]"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -37,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时23分]"
         },
         {
           "title": "美股收窄部分跌幅，标普500指数下跌1%，纳斯达克指数下跌1.3%。",
@@ -76,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时23分]"
         },
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -87,8 +88,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时23分]"
         },
         {
           "title": "贝森特称日本国债抛售潮外溢至美债市场，已与日方对口官员沟通",
@@ -115,19 +116,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时23分]"
         },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时23分]"
         }
       ]
     }
