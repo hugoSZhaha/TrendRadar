@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T02:34:11.233709+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-01-22T03:22:00.156605+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "美股涨幅大幅收窄，数字货币大跌",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 03时22分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股盘中）",
@@ -151,8 +152,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时22分]"
         }
       ]
     }
