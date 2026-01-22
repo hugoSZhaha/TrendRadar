@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T15:22:51.224805+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-01-22T16:22:54.060563+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -57,6 +57,18 @@
           "time_info": "[01时48分 ~ 03时22分]"
         },
         {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 16时22分]"
+        },
+        {
           "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260122050522975800",
           "source": "金十数据",
@@ -79,18 +91,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 06时18分]"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时22分]"
         },
         {
           "title": "美股收盘：特朗普助力 三大股指涨超1%",
@@ -230,6 +230,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "又来喊多？特朗普放话：美股抛售“不值一提” 未来一年将翻倍",
+          "url": "https://www.cls.cn/detail/2266096",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "美股三大股指冲高，涨幅全线扩大至1%。特朗普宣布有关消息，格陵兰岛局势担忧大幅缓解。",
           "url": "https://flash.jin10.com/detail/20260122033201570800",
           "source": "金十数据",
@@ -255,7 +266,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
@@ -284,6 +295,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时42分 ~ 15时22分]"
+        },
+        {
+          "title": "男子趁金价高涨出手500克金条",
+          "url": "https://www.toutiao.com/trending/7597071093045166107/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时22分]"
         },
         {
           "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
@@ -343,14 +366,36 @@
         },
         {
           "title": "男子趁金价高涨出手500克金条",
-          "url": "https://www.toutiao.com/trending/7597071093045166107/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
+          "source": "百度热搜",
           "ranks": [
-            29
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "16时22分"
+        },
+        {
+          "title": "金十图示：2026年01月22日（周四）上海金午盘价为1082.97元/克，较国际金价(1081.62元/克)，高1.35元/克",
+          "url": "https://flash.jin10.com/detail/20260122155121930800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "黄金价格再创新高背后",
+          "url": "https://www.toutiao.com/trending/7597964523915447862/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "金价波动",
@@ -377,8 +422,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时08分 ~ 16时22分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
