@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T18:21:28.256390+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2026-01-22T19:18:44.726845+08:00",
+  "total_titles_processed": 1782,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 18时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 19时18分]"
         },
         {
           "title": "美股涨幅大幅收窄，数字货币大跌",
@@ -281,7 +281,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -372,8 +372,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时18分]"
         },
         {
           "title": "男子趁金价高涨出手500克金条",
@@ -490,8 +490,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时08分 ~ 18时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 19时18分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
