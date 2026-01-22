@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T09:08:43.060200+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-01-22T11:42:41.618747+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -43,6 +43,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时48分 ~ 03时22分]"
+        },
+        {
+          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
+          "url": "https://www.cls.cn/detail/2265761",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 11时42分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股收盘）",
@@ -91,18 +103,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 06时18分]"
-        },
-        {
-          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
-          "url": "https://www.cls.cn/detail/2265761",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 09时08分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.22%，报410.57点。 （全球时段）纽约证交所ARCA金矿开采商指数跌0.55%，报2896.08点。 （美股）原材料指数收涨1.52%，（美股）金属与矿业指数收涨2.33%。",
@@ -207,6 +207,17 @@
           "time_info": "[01时48分 ~ 04时23分]"
         },
         {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "特朗普称与北约达成格陵兰“协议框架”，2月1日不加关税，美股涨幅扩大",
           "url": "https://wallstreetcn.com/livenews/3041483",
           "source": "华尔街见闻-快讯",
@@ -235,9 +246,107 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时19分]"
+        },
+        {
+          "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
+          "url": "https://wallstreetcn.com/livenews/3041532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时19分]"
+        },
+        {
+          "title": "高盛上调年底金价目标至5400美元 央行需求持续增强",
+          "url": "https://flash.jin10.com/detail/20260122112443891800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "国际金价屡创新高，专家称回调风险需警惕",
+          "url": "https://wallstreetcn.com/livenews/3041551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "黄金价格会崩吗",
+          "url": "https://www.toutiao.com/trending/7597976651418308122/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "高盛将2026年12月黄金价格预期上调500美元，至每盎司5400美元，原因是各国央行及交易所交易基金纷纷买入。",
+          "url": "https://flash.jin10.com/detail/20260122105858083800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "金十图示：2026年01月22日（周四）上海金早盘价为1074.09元/克，较国际金价(1071.51元/克)，高2.58元/克",
+          "url": "https://flash.jin10.com/detail/20260122105434061800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
@@ -245,6 +354,17 @@
       "keyword_group": "美债",
       "match_count": 8,
       "titles": [
+        {
+          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时42分]"
+        },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
           "url": "https://wallstreetcn.com/articles/3763768",
@@ -255,17 +375,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
         },
         {
           "title": "美欧格陵兰争端升级，德商行预警美债持有者面临制裁风险",
@@ -334,49 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时19分]"
-        },
-        {
-          "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
-          "url": "https://wallstreetcn.com/livenews/3041532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时19分]"
-        },
-        {
-          "title": "国际金价屡创新高，专家称回调风险需警惕",
-          "url": "https://wallstreetcn.com/livenews/3041551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
         }
       ]
     }
