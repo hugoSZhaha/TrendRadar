@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-24T13:17:11.551047+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-01-24T14:22:32.993543+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
-        {
-          "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时15分]"
-        },
         {
           "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
           "url": "https://wallstreetcn.com/articles/3763993",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时04分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时04分 ~ 14时22分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -39,8 +28,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时15分 ~ 13时17分]"
+          "appearance_count": 9,
+          "time_info": "[07时15分 ~ 14时22分]"
+        },
+        {
+          "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时15分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
