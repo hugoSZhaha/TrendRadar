@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:15:38.183182+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-01-25T19:12:49.078309+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             11,
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 18时15分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 19时12分]"
         },
         {
           "title": "金价波动",
@@ -97,11 +98,12 @@
             8,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 18时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 19时12分]"
         }
       ]
     },
@@ -116,11 +118,12 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 19时12分]"
         },
         {
           "title": "白银价格跟随黄金狂飙",
@@ -132,6 +135,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金严重挑战美债信用 美国人怎么办",
+          "url": "https://www.toutiao.com/trending/7599237350652120626/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         }
       ]
     }
