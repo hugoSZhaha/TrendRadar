@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T07:14:45.187050+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-25T09:14:26.271595+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://flash.jin10.com/detail/20260124222616668800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 09时14分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 09时14分]"
         }
       ]
     },
