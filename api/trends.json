@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T11:48:35.777786+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2026-01-25T12:47:00.596730+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 11时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时47分]"
         }
       ]
     },
@@ -73,6 +74,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 02时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "白银价格跟随黄金狂飙",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E8%B7%9F%E9%9A%8F%E9%BB%84%E9%87%91%E7%8B%82%E9%A3%99%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     }
