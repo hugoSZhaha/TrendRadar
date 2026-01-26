@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T13:29:45.648304+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-01-26T14:27:45.639710+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,37 @@
           "source": "今日头条",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 14时27分]"
+        },
+        {
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 14时27分]"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 14时27分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -30,29 +56,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时13分 ~ 13时29分]"
-        },
-        {
-          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
-          "url": "https://www.zhihu.com/question/1999025860699710314",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 13时29分]"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 13时29分]"
         },
         {
           "title": "分析师：金价或继续受益于美元走弱",
@@ -104,8 +107,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 14时27分]"
         }
       ]
     },
