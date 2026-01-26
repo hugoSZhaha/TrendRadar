@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T06:16:09.889847+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-01-27T07:16:12.544914+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -26,8 +26,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时16分]"
+        },
+        {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
         },
         {
           "title": "网络股指数ETF收涨超1.5%，领跑美股行业ETF",
@@ -59,22 +70,35 @@
           "url": "https://wallstreetcn.com/livenews/3044207",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 07时16分]"
         },
         {
           "title": "联合健康美股盘后跳水超9%，CVS跌超10%，投资者关注与医疗保健费率相关的报道。",
           "url": "https://wallstreetcn.com/livenews/3044203",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 07时16分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
+          "url": "https://www.cls.cn/detail/2270480",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时15分 ~ 06时16分]"
+          "time_info": "[07时15分 ~ 07时16分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨将近3%，Meta涨2%，特斯拉跌约3.1%",
@@ -86,6 +110,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 06时16分]"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
+          "url": "https://flash.jin10.com/detail/20260127060902912800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普突然宣布将韩国商品的关税提高至25%，称韩国国会尚未通过与美国的贸易协定。",
+          "url": "https://wallstreetcn.com/livenews/3044219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
         },
         {
           "title": "金十图示：2026年01月26日（周一）美股热门股票行情一览（美股收盘）",
@@ -134,8 +180,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时16分]"
         },
         {
           "title": "金价飙升原因找到了",
@@ -146,8 +192,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
