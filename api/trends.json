@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T00:22:00.868842+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-28T01:23:41.980210+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时23分]"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -54,8 +54,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时23分]"
         }
       ]
     }
