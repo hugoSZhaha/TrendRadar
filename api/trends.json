@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T14:25:13.144140+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2026-01-27T15:22:37.907541+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时15分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[07时15分 ~ 15时22分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
@@ -221,6 +221,19 @@
           "time_info": "[00时25分 ~ 07时16分]"
         },
         {
+          "title": "金价银价巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 15时22分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -232,18 +245,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时11分 ~ 13时22分]"
-        },
-        {
-          "title": "金价银价巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 14时25分]"
         },
         {
           "title": "分析称金价急剧回调可能性正在增加",
