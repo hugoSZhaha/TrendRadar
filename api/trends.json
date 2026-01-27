@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T13:22:24.136537+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-01-27T14:25:13.144140+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时15分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[07时15分 ~ 14时25分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
+          "url": "https://www.cls.cn/detail/2270480",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时15分 ~ 14时25分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -40,19 +53,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 09时11分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
-          "url": "https://www.cls.cn/detail/2270480",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时15分 ~ 13时22分]"
         },
         {
           "title": "网络股指数ETF收涨超1.5%，领跑美股行业ETF",
@@ -242,8 +242,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时25分]"
         },
         {
           "title": "分析称金价急剧回调可能性正在增加",
