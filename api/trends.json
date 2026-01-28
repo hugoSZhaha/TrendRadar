@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T15:21:04.737356+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-01-28T16:22:42.227492+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
@@ -215,8 +215,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 15时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 16时22分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -229,20 +229,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时28分 ~ 15时21分]"
-        },
-        {
-          "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
-          "url": "https://wallstreetcn.com/livenews/3045007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时16分 ~ 07时16分]"
+          "appearance_count": 17,
+          "time_info": "[02时28分 ~ 16时22分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -253,8 +241,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 15时21分]"
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 16时22分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -264,11 +252,12 @@
             8,
             7,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时33分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时33分 ~ 16时22分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -281,8 +270,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 16时22分]"
+        },
+        {
+          "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
+          "url": "https://wallstreetcn.com/livenews/3045007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 07时16分]"
         },
         {
           "title": "金十图示：2026年01月28日（周三）上海金早盘价为1168.09元/克，较国际金价(1167.41元/克)，高0.68元/克",
