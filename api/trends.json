@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:38:38.371642+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-01-29T14:37:54.113403+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 14时37分]"
         },
         {
           "title": "美股三大指数短线波动不大。",
@@ -263,11 +264,12 @@
           "ranks": [
             26,
             21,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 13时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 14时37分]"
         },
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -277,8 +279,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 14时37分]"
         },
         {
           "title": "金价波动",
@@ -303,8 +305,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时38分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时37分]"
         },
         {
           "title": "金价",
@@ -347,7 +349,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
