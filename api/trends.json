@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T02:35:03.405028+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-30T03:26:09.330491+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 03时26分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -27,8 +27,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 03时26分]"
         },
         {
           "title": "金价",
@@ -36,11 +36,12 @@
           "source": "微博",
           "ranks": [
             6,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时26分]"
         },
         {
           "title": "金价上涨打金店2天亏5万",
@@ -49,11 +50,12 @@
           "ranks": [
             7,
             24,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时26分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -63,8 +65,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时26分]"
         },
         {
           "title": "金价暴涨第一批受害者出现",
@@ -75,8 +77,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时26分]"
         },
         {
           "title": "一口气看懂金价涨跌的底层逻辑",
@@ -87,8 +89,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 03时26分]"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -115,8 +117,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 03时26分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -127,8 +129,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 03时26分]"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -147,22 +149,24 @@
           "url": "https://flash.jin10.com/detail/20260130013122983800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 03时26分]"
         },
         {
           "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260130013040868800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 03时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
