@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:31:55.787337+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-01-29T17:35:43.254145+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "微软(MSFT.O)美股盘前跌5.6%，此前该公司报告第二季度资本支出大幅跃升近66%，但云收入表现不及预期。",
+          "url": "https://flash.jin10.com/detail/20260129170409612800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
@@ -135,6 +146,17 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
+          "title": "Meta Platforms(META.O)美股盘前涨7.3%，此前该公司预测第一季度收入高于预期，并上调了年度资本支出计划。",
+          "url": "https://flash.jin10.com/detail/20260129170125268800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "特斯拉(TSLA.O)美股盘后现涨3%。",
           "url": "https://flash.jin10.com/detail/20260129053426174800",
           "source": "金十数据",
@@ -188,6 +210,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "美股盘前：Meta涨约7%，微软跌约6%，特斯拉涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3046315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "好未来第三季度净营收7.702亿美元，预估7.846亿美元。 第三季度调整后每ADS收益 0.25美元，预估0.07美元。 好未来美股盘前涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3046314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
@@ -259,8 +303,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 16时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 17时35分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -283,6 +327,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时17分 ~ 14时37分]"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 17时35分]"
         },
         {
           "title": "金价波动",
@@ -308,20 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 16时31分]"
         },
         {
           "title": "金价",
@@ -400,6 +445,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
+          "url": "https://wallstreetcn.com/livenews/3046337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
+          "url": "https://wallstreetcn.com/livenews/3046327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         }
       ]
     },
