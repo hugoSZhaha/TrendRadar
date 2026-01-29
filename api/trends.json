@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:36:34.612288+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-01-29T16:31:55.787337+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -255,11 +255,12 @@
             21,
             23,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 15时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 16时31分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -304,7 +305,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -315,11 +316,12 @@
           "ranks": [
             10,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 15时36分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 16时31分]"
         },
         {
           "title": "金价",
