@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T09:17:42.154590+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-01-29T12:02:50.889142+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时28分 ~ 09时17分]"
+        },
+        {
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 12时02分]"
         },
         {
           "title": "美股三大指数短线波动不大。",
@@ -86,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
-          "url": "https://www.cls.cn/detail/2273407",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -202,7 +203,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -265,8 +266,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 09时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 12时02分]"
         },
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -275,9 +276,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 12时02分]"
         },
         {
           "title": "金价波动",
@@ -306,13 +307,24 @@
           "time_info": "[07时20分 ~ 09时17分]"
         },
         {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "分析师：金价的任何回调都成为具有吸引力的买入机会",
           "url": "https://flash.jin10.com/detail/20260129085233565800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -345,9 +357,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "金价银价暴涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     },
