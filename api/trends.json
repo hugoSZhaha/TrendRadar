@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T06:15:30.993316+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-02-01T07:16:01.752817+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "金价波动",
@@ -42,8 +42,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "金价银价为何创纪录暴跌",
@@ -54,11 +54,12 @@
             13,
             1,
             12,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "金价巨震前后商业银行集体审慎",
@@ -84,8 +85,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时16分]"
         },
         {
           "title": "金价下跌 多品牌设退货手续费",
@@ -94,11 +95,12 @@
           "ranks": [
             11,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时22分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时22分 ~ 07时16分]"
         },
         {
           "title": "国际金价银价继续大幅下跌",
@@ -126,8 +128,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         }
       ]
     }
