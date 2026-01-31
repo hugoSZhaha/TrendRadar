@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-02-01T04:17:43.196453+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-02-01T05:16:04.786672+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 8,
       "titles": [
-        {
-          "title": "金价大跌男子斥资20多万买入200克",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时17分]"
-        },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
           "url": "https://www.cls.cn/detail/2276350",
@@ -28,8 +16,34 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 05时16分]"
+        },
+        {
+          "title": "金价大跌男子斥资20多万买入200克",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "time_info": "[00时19分 ~ 05时16分]"
+        },
+        {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            25,
+            13,
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时16分]"
         },
         {
           "title": "金价巨震前后商业银行集体审慎",
@@ -45,20 +59,6 @@
           "time_info": "[02时21分 ~ 04时17分]"
         },
         {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
-          "ranks": [
-            25,
-            13,
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时17分]"
-        },
-        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -69,8 +69,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时16分]"
         },
         {
           "title": "金价下跌是否值得入手",
@@ -82,8 +82,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时16分]"
         },
         {
           "title": "金价下跌 多品牌设退货手续费",
@@ -91,11 +91,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 05时16分]"
         },
         {
           "title": "国际金价银价继续大幅下跌",
@@ -123,8 +124,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 05时16分]"
         }
       ]
     }
