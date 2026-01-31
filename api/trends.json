@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T21:37:16.363645+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-01-31T22:18:26.737244+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时19分 ~ 21时37分]"
+          "appearance_count": 18,
+          "time_info": "[07时19分 ~ 22时18分]"
         },
         {
           "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
@@ -128,6 +128,20 @@
           "time_info": "[11时59分 ~ 14时29分]"
         },
         {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            24,
+            26,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 22时18分]"
+        },
+        {
           "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32505461",
           "source": "澎湃新闻",
@@ -138,19 +152,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时59分 ~ 13时03分]"
-        },
-        {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
-          "ranks": [
-            24,
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 21时37分]"
         },
         {
           "title": "金价大幅下跌水贝市场有人果断抄底",
@@ -199,6 +200,17 @@
           "time_info": "[01时27分 ~ 01时28分]"
         },
         {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "金价史诗级大幅震荡",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%A4%A7%E5%B9%85%E9%9C%87%E8%8D%A1%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -208,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "金价大跌男子斥资20多万买入200克",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "世界黄金协会预测金价走势",
@@ -234,8 +257,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时14分 ~ 21时37分]"
+          "appearance_count": 17,
+          "time_info": "[09时14分 ~ 22时18分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -272,8 +295,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时14分 ~ 21时37分]"
+          "appearance_count": 17,
+          "time_info": "[09时14分 ~ 22时18分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
