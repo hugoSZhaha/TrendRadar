@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T15:23:25.090741+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-01-31T16:21:09.349552+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -17,8 +17,23 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时19分 ~ 16时21分]"
+        },
+        {
+          "title": "金价下跌 多品牌设1-5%退货手续费",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+%E5%A4%9A%E5%93%81%E7%89%8C%E8%AE%BE1-5%25%E9%80%80%E8%B4%A7%E6%89%8B%E7%BB%AD%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26,
+            16,
+            13,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时19分 ~ 15时23分]"
+          "time_info": "[11时59分 ~ 16时21分]"
         },
         {
           "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
@@ -36,17 +51,6 @@
           "time_info": "[09时14分 ~ 15时23分]"
         },
         {
-          "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
-          "url": "https://flash.jin10.com/detail/20260131144922707800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
           "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
           "url": "https://flash.jin10.com/detail/20260131084457932800",
           "source": "金十数据",
@@ -60,18 +64,28 @@
           "time_info": "[09时14分 ~ 13时03分]"
         },
         {
-          "title": "金价下跌 多品牌设1-5%退货手续费",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+%E5%A4%9A%E5%93%81%E7%89%8C%E8%AE%BE1-5%25%E9%80%80%E8%B4%A7%E6%89%8B%E7%BB%AD%E8%B4%B9",
-          "source": "百度热搜",
+          "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
+          "url": "https://flash.jin10.com/detail/20260131144922707800",
+          "source": "金十数据",
           "ranks": [
-            28,
-            26,
-            16,
-            13
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 16时21分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时59分 ~ 15时23分]"
+          "time_info": "[11时59分 ~ 16时21分]"
         },
         {
           "title": "金价重挫12%，白银暴跌超34%，标普跌超1%，投资者对美联储独立性的担忧情绪降温",
@@ -98,17 +112,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时59分 ~ 14时29分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 15时23分]"
         },
         {
           "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
@@ -166,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "金价大幅下跌水贝市场有人果断抄底",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C%E6%B0%B4%E8%B4%9D%E5%B8%82%E5%9C%BA%E6%9C%89%E4%BA%BA%E6%9E%9C%E6%96%AD%E6%8A%84%E5%BA%95%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     },
@@ -204,8 +218,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 15时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 16时21分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
+          "url": "https://www.cls.cn/detail/2276378",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 16时21分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -217,18 +244,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 01时28分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
-          "url": "https://www.cls.cn/detail/2276378",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 15时23分]"
         },
         {
           "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
