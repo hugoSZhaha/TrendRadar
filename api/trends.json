@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T17:22:06.745760+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-01-31T18:17:47.366066+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -17,8 +17,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时19分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[07时19分 ~ 18时17分]"
+        },
+        {
+          "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
+          "url": "https://flash.jin10.com/detail/20260131144922707800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 18时17分]"
         },
         {
           "title": "金价下跌 多品牌设1-5%退货手续费",
@@ -49,19 +63,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时14分 ~ 15时23分]"
-        },
-        {
-          "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
-          "url": "https://flash.jin10.com/detail/20260131144922707800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 17时22分]"
         },
         {
           "title": "金价",
@@ -128,6 +129,18 @@
           "time_info": "[11时59分 ~ 13时03分]"
         },
         {
+          "title": "金价大幅下跌水贝市场有人果断抄底",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C%E6%B0%B4%E8%B4%9D%E5%B8%82%E5%9C%BA%E6%9C%89%E4%BA%BA%E6%9E%9C%E6%96%AD%E6%8A%84%E5%BA%95%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时17分]"
+        },
+        {
           "title": "专家称金价大跌是牛市调整",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%98%AF%E7%89%9B%E5%B8%82%E8%B0%83%E6%95%B4%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -151,18 +164,6 @@
           "time_info": "[01时27分 ~ 01时28分]"
         },
         {
-          "title": "金价大幅下跌水贝市场有人果断抄底",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C%E6%B0%B4%E8%B4%9D%E5%B8%82%E5%9C%BA%E6%9C%89%E4%BA%BA%E6%9E%9C%E6%96%AD%E6%8A%84%E5%BA%95%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时22分]"
-        },
-        {
           "title": "金价史诗级大幅震荡",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%A4%A7%E5%B9%85%E9%9C%87%E8%8D%A1%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -172,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "世界黄金协会预测金价走势",
@@ -198,8 +210,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时14分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时14分 ~ 18时17分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -234,8 +246,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时14分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时14分 ~ 18时17分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
