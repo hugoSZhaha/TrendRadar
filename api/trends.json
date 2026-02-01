@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T18:18:38.968289+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-02-01T19:17:10.153802+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -39,11 +39,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时24分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[12时24分 ~ 19时17分]"
         },
         {
           "title": "金价银价为何创纪录暴跌",
@@ -166,6 +167,17 @@
           "time_info": "[12时24分 ~ 14时41分]"
         },
         {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
           "title": "金价巨震 有人昨天赚5万今天倒亏4万",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%B7%A8%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%98%A8%E5%A4%A9%E8%B5%9A5%E4%B8%87%E4%BB%8A%E5%A4%A9%E5%80%92%E4%BA%8F4%E4%B8%87",
           "source": "百度热搜",
@@ -190,6 +202,28 @@
           "time_info": "[12时24分 ~ 13时56分]"
         },
         {
+          "title": "金价暴跌 深圳水贝挤满了人",
+          "url": "https://www.toutiao.com/trending/7601809209675484713/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
+          "title": "金价暴跌后顾客排长队出售黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E9%A1%BE%E5%AE%A2%E6%8E%92%E9%95%BF%E9%98%9F%E5%87%BA%E5%94%AE%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
           "title": "国际金价银价继续大幅下跌",
           "url": "https://m.thepaper.cn/newsDetail_forward_32503143",
           "source": "澎湃新闻",
@@ -200,6 +234,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时18分]"
+        },
+        {
+          "title": "金价暴跌回收柜台前挤满顾客",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%9E%E6%94%B6%E6%9F%9C%E5%8F%B0%E5%89%8D%E6%8C%A4%E6%BB%A1%E9%A1%BE%E5%AE%A2%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },
