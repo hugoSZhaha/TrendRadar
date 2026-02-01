@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T17:24:02.630996+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-02-01T18:18:38.968289+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,18 @@
           "time_info": "[00时19分 ~ 15时33分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 18时18分]"
+        },
+        {
           "title": "金价银价为何创纪录暴跌",
           "url": "https://www.douyin.com/hot/2385262",
           "source": "抖音",
@@ -62,18 +74,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 17时24分]"
         },
         {
           "title": "金价巨震前后商业银行集体审慎",
