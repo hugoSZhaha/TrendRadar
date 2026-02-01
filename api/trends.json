@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T16:24:16.796411+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-02-01T17:24:02.630996+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
@@ -64,6 +64,18 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时24分 ~ 17时24分]"
+        },
+        {
           "title": "金价巨震前后商业银行集体审慎",
           "url": "https://www.toutiao.com/trending/7601209104585211940/",
           "source": "今日头条",
@@ -75,17 +87,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时21分 ~ 04时17分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时24分 ~ 16时24分]"
         },
         {
           "title": "金价下跌是否值得入手",
