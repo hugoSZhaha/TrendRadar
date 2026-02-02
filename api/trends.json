@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:37:35.497592+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-02-02T19:31:51.345851+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "ranks": [
             20,
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 18时37分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 19时31分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -114,7 +115,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -261,7 +262,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         }
@@ -323,7 +324,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
