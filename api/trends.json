@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T13:44:50.524338+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-02-03T14:41:05.316559+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 14时41分]"
+        },
+        {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时21分 ~ 13时44分]"
+          "time_info": "[09时21分 ~ 14时41分]"
         },
         {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
@@ -33,18 +45,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 12时09分]"
-        },
-        {
-          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时44分]"
         },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -142,8 +142,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时44分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时41分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
