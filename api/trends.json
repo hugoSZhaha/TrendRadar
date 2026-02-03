@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-03T15:38:11.317758+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2026-02-03T16:29:17.640741+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 10,
       "titles": [
+        {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时21分 ~ 16时29分]"
+        },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
           "url": "https://www.cls.cn/detail/2278378",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时21分 ~ 15时38分]"
-        },
-        {
-          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时21分 ~ 15时38分]"
         },
         {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
@@ -142,8 +142,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 15时38分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 16时29分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
