@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-03T09:21:56.818634+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-02-03T12:09:04.563523+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 10,
       "titles": [
+        {
+          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2278222",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 12时09分]"
+        },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
           "url": "https://wallstreetcn.com/articles/3764730",
@@ -19,6 +33,31 @@
           "time_info": "[00时29分 ~ 02时37分]"
         },
         {
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 12时09分]"
+        },
+        {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时09分]"
+        },
+        {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
           "url": "https://www.cls.cn/detail/2278170",
           "source": "财联社热门",
@@ -28,20 +67,6 @@
             11,
             7,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 09时21分]"
-        },
-        {
-          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2278222",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            9,
-            7
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -68,29 +93,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 07时22分]"
-        },
-        {
-          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
-          "url": "https://www.cls.cn/detail/2278378",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 09时21分]"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
@@ -121,7 +123,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
@@ -129,7 +131,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -143,6 +145,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时33分 ~ 07时22分]"
+        },
+        {
+          "title": "李大霄解读金价一夜V型反转",
+          "url": "https://www.toutiao.com/trending/7602460387761491507/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 12时09分]"
+        },
+        {
+          "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
+          "url": "https://www.cls.cn/detail/2278518",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 12时09分]"
         },
         {
           "title": "周一（2月2日）纽约尾盘，现货黄金跌4.54%，报4671.58美元/盎司，全天处于下跌状态，北京时间14:38跌至4402.95美元。日线图上，金价连续三个交易日下跌，逼近12月31日底部4319.37美元，一度跌穿50日均线、逼近100日均线（这两个技术指标目前分别报4483.43美元和4228.16美元）。 COMEX黄金期货跌0.90%，报4702.60美元/盎司，14:38也曾跌至4423.20美元。",
