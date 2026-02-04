@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T18:32:23.139120+08:00",
-  "total_titles_processed": 1667,
+  "generated_at": "2026-02-04T19:29:05.614456+08:00",
+  "total_titles_processed": 1773,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时22分 ~ 18时32分]"
+          "appearance_count": 13,
+          "time_info": "[07时22分 ~ 19时29分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时17分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 19时29分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -54,16 +54,17 @@
           "time_info": "[00时43分 ~ 06时23分]"
         },
         {
-          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2279540",
-          "source": "财联社热门",
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11
+            10,
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时43分 ~ 09时17分]"
+          "time_info": "[13时42分 ~ 19时29分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -75,8 +76,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时43分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[13时43分 ~ 19时29分]"
+        },
+        {
+          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2279540",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时17分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -101,19 +114,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时22分 ~ 14时41分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时42分 ~ 18时32分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
@@ -356,11 +356,12 @@
           "source": "微博",
           "ranks": [
             5,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时29分]"
         },
         {
           "title": "金价暴力反弹重上5000美元",
