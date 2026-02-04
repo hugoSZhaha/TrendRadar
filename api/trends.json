@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T20:41:04.375851+08:00",
-  "total_titles_processed": 1871,
+  "generated_at": "2026-02-04T21:58:58.659581+08:00",
+  "total_titles_processed": 2001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时22分 ~ 20时41分]"
+          "appearance_count": 16,
+          "time_info": "[07时22分 ~ 21时58分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时17分 ~ 20时41分]"
+          "appearance_count": 15,
+          "time_info": "[09时17分 ~ 21时58分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -64,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时43分 ~ 20时41分]"
+          "appearance_count": 9,
+          "time_info": "[13时43分 ~ 21时58分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -77,8 +77,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时42分 ~ 20时41分]"
+          "appearance_count": 13,
+          "time_info": "[13时42分 ~ 21时58分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -246,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "亚洲软件股跟随美股软件股大跌，AI颠覆性冲击引发担忧",
