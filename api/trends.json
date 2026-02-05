@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T03:34:09.905126+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-02-06T04:25:45.367472+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 04时25分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 04时25分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
@@ -35,11 +35,26 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            26
+            26,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 04时25分]"
+        },
+        {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            8,
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时25分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
@@ -64,20 +79,6 @@
           "time_info": "01时42分"
         },
         {
-          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
-          "url": "https://www.zhihu.com/question/2002675555208803379",
-          "source": "知乎",
-          "ranks": [
-            8,
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时34分]"
-        },
-        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -88,8 +89,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时25分]"
         },
         {
           "title": "可选消费ETF跌1.39%，能源业ETF跌1.15%，网络股指数ETF跌1.05%，科技行业ETF跌0.59%，在美股盘初领跌行业ETF，生物科技指数ETF涨0.63%。",
