@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-07T03:33:56.476989+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-02-07T04:26:02.021103+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2283417",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时26分]"
+        },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
           "url": "https://wallstreetcn.com/articles/3765113",
@@ -19,15 +30,15 @@
           "time_info": "[00时35分 ~ 03时33分]"
         },
         {
-          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2283417",
-          "source": "财联社热门",
+          "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时33分]"
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 04时26分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -53,6 +64,17 @@
           "time_info": "[00时35分 ~ 01时36分]"
         },
         {
+          "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
+          "url": "https://flash.jin10.com/detail/20260207035802693800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 04时26分]"
+        },
+        {
           "title": "美股延续涨势，纳指上涨2.00%。",
           "url": "https://flash.jin10.com/detail/20260207020033176800",
           "source": "金十数据",
@@ -62,6 +84,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 02时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国黄金期货价格在数据发布延迟后收于4979.8美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260207032258342800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 04时26分]"
         }
       ]
     },
@@ -77,8 +116,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时26分]"
         }
       ]
     }
