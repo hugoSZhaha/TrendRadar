@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T13:37:23.880853+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-02-07T14:33:26.316551+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             6,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 13时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 14时33分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -33,6 +34,17 @@
           "time_info": "[00时35分 ~ 03时33分]"
         },
         {
+          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 14时33分]"
+        },
+        {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
           "url": "https://wallstreetcn.com/articles/3765113",
           "source": "华尔街见闻",
@@ -44,17 +56,6 @@
           "time_info": "[04时25分 ~ 07时18分]"
         },
         {
-          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 13时37分]"
-        },
-        {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
           "url": "https://www.cls.cn/detail/2283586",
           "source": "财联社热门",
@@ -63,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 13时37分]"
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 14时33分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
