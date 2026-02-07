@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T09:16:09.539826+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-02-07T12:02:26.909246+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 09时16分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时02分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -50,8 +51,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 12时02分]"
+        },
+        {
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 12时02分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -63,17 +76,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 03时33分]"
-        },
-        {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.18%，报391.95点，本周累涨2.52%。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.94%，报2764.85点，本周累涨0.76%。 （美股）原材料指数收涨3.62%，本周累涨4.82%。 （美股）金属与矿业指数收涨3.92%，本周累涨6.03%。",
@@ -171,11 +173,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时18分 ~ 09时16分]"
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 12时02分]"
         }
       ]
     },
