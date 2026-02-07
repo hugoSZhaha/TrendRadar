@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T19:16:47.920212+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-02-07T20:31:50.266460+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时15分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时15分 ~ 20时31分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时15分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时15分 ~ 20时31分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -53,11 +54,12 @@
             8,
             10,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时35分 ~ 19时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时35分 ~ 20时31分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
