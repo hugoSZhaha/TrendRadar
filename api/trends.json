@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T17:24:25.843892+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-02-08T18:19:58.664548+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 17时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 18时19分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 17时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 18时19分]"
         }
       ]
     },
@@ -70,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 17时24分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 18时19分]"
         },
         {
           "title": "黄金——资产再配置，金价走向何方？",
@@ -92,7 +92,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         }
