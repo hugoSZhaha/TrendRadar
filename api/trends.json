@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T06:20:02.525880+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-02-09T07:24:02.301407+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时24分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -27,11 +27,12 @@
             1,
             2,
             9,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 07时24分]"
         },
         {
           "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
@@ -58,11 +59,12 @@
           "ranks": [
             9,
             28,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时26分 ~ 06时20分]"
+          "appearance_count": 6,
+          "time_info": "[02时26分 ~ 07时24分]"
         }
       ]
     }
