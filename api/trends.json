@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T19:18:43.630710+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-02-08T20:32:07.489880+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -28,19 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 19时18分]"
-        },
-        {
-          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2283417",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 20时32分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -53,8 +42,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时35分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[15时35分 ~ 20时32分]"
+        },
+        {
+          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2283417",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时18分]"
         }
       ]
     },
