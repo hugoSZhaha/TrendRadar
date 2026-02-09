@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T19:41:00.317346+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2026-02-09T20:48:51.055859+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时21分 ~ 07时24分]"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2285010",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         },
         {
           "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
@@ -148,7 +159,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
@@ -159,8 +170,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[18时50分 ~ 20时48分]"
+        },
+        {
+          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
+          "url": "https://www.zhihu.com/question/2004143319609993151",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         }
       ]
     }
