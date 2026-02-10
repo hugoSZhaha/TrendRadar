@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T03:57:55.722515+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-02-11T04:40:02.561941+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 03时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 04时40分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 03时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 04时40分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -39,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 03时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 04时40分]"
         },
         {
           "title": "美股1月日均成交额突破1万亿美元",
@@ -67,8 +67,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 03时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 04时40分]"
         }
       ]
     }
