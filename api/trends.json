@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T15:04:59.582986+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-02-12T16:37:24.307300+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 15时04分]"
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 16时37分]"
         },
         {
           "title": "思科美股盘后维持超过6.8%的跌幅，该公司所给利润指引“疲软”。",
@@ -145,6 +145,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 16时37分]"
+        },
+        {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
@@ -154,18 +166,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时04分 ~ 06时23分]"
-        },
-        {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 15时04分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
@@ -206,7 +206,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
@@ -220,6 +220,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时57分 ~ 07时25分]"
+        },
+        {
+          "title": "土耳其央行行长：近期金价上涨可能导致里拉存款下降。",
+          "url": "https://flash.jin10.com/detail/20260212155408028800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
