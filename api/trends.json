@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T02:52:51.334413+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-02-13T03:46:14.909018+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时46分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -107,11 +107,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时46分]"
         },
         {
           "title": "分析师：金价失守5000美元引发连锁抛售",
@@ -138,8 +139,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时46分]"
         }
       ]
     }
