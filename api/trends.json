@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T18:37:49.453654+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2026-02-12T19:35:34.937687+08:00",
+  "total_titles_processed": 1674,
   "failed_sources": [],
   "trends": [
     {
@@ -122,11 +122,12 @@
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 19时35分]"
         },
         {
           "title": "生物技术公司Viking Therapeutics股价在美股盘后交易中上涨9.1%。 该公司宣布，计划在今年第三季度将其口服肥胖症治疗药物VK2735推向3期临床试验。 尽管第四季度亏损超预期（主要受研发支出激增驱动），但其口服药物的进度优势抵消了财务压力。",
@@ -187,8 +188,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时25分 ~ 18时37分]"
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 19时35分]"
         },
         {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
