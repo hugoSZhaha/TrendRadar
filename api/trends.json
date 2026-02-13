@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T21:58:05.570155+08:00",
-  "total_titles_processed": 1966,
+  "generated_at": "2026-02-13T22:39:13.865936+08:00",
+  "total_titles_processed": 2034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时25分 ~ 21时58分]"
+          "appearance_count": 16,
+          "time_info": "[09时25分 ~ 22时39分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时55分 ~ 21时58分]"
+          "appearance_count": 14,
+          "time_info": "[13时55分 ~ 22时39分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时13分 ~ 21时58分]"
+          "appearance_count": 15,
+          "time_info": "[12时13分 ~ 22时39分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -80,8 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时51分 ~ 21时58分]"
+          "appearance_count": 13,
+          "time_info": "[14时51分 ~ 22时39分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -98,6 +98,17 @@
           "time_info": "[00时49分 ~ 09时25分]"
         },
         {
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时45分 ~ 22时39分]"
+        },
+        {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -107,28 +118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时52分]"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3055230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时45分 ~ 21时58分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -141,6 +130,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时25分 ~ 14时51分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3055230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 22时39分]"
         },
         {
           "title": "Rivian美股盘前大涨19%，公司第四季度业绩超预期，且预计2026年交付量将激增53%。",
@@ -211,6 +212,18 @@
           "time_info": "[04时26分 ~ 05时27分]"
         },
         {
+          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2289929",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 22时39分]"
+        },
+        {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260213051126204800",
           "source": "金十数据",
@@ -247,6 +260,30 @@
           "time_info": "[05时27分 ~ 06时24分]"
         },
         {
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 22时39分]"
+        },
+        {
+          "title": "美国CPI数据公布后，美股期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3055223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 22时39分]"
+        },
+        {
           "title": "美股收盘：三大指数收跌 苹果大跌5%",
           "url": "https://flash.jin10.com/detail/20260213050029671800",
           "source": "金十数据",
@@ -269,6 +306,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "阿里巴巴美股盘前跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3055214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 22时39分]"
         },
         {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
@@ -296,37 +345,26 @@
           "time_info": "[05时27分 ~ 07时22分]"
         },
         {
-          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2289929",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
-        },
-        {
-          "title": "美国CPI数据公布后，美股期货短线拉升",
-          "url": "https://wallstreetcn.com/livenews/3055223",
+          "title": "美股存储芯片概念股盘前下跌，Sandisk跌超3%、美光科技跌超2%、西部数据涨跌超2%、希捷科技跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3055237",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
+          "time_info": "[22时38分 ~ 22时39分]"
         },
         {
-          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
-          "url": "https://wallstreetcn.com/articles/3765660",
-          "source": "华尔街见闻",
+          "title": "百度美股盘前跌超4%。 蔚来美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3055232",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
+          "time_info": "[22时38分 ~ 22时39分]"
         },
         {
           "title": "周四（2月12日）美股尾盘，彭博电动汽车价格回报指数跌0.69%，报3636.68点。 美股盘初刷新日高至3697.22点——亚太盘初以来持续交投于3690点附近，随后持续下挫，00:00过后持续交投于3640点附近。",
@@ -363,17 +401,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时22分]"
-        },
-        {
-          "title": "阿里巴巴美股盘前跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3055214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果创4月份以来最差单日表现",
@@ -611,8 +638,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时25分 ~ 21时58分]"
+          "appearance_count": 16,
+          "time_info": "[09时25分 ~ 22时39分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -630,11 +657,12 @@
           "url": "https://flash.jin10.com/detail/20260213214717860800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 22时39分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
