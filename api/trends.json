@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T20:31:14.433147+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2026-02-14T21:40:36.400928+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
@@ -95,6 +95,20 @@
           "time_info": "[00时36分 ~ 07时24分]"
         },
         {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 21时40分]"
+        },
+        {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
           "url": "https://www.zhihu.com/question/2005568531748648323",
           "source": "知乎",
@@ -115,20 +129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时03分 ~ 12时04分]"
-        },
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 20时31分]"
         },
         {
           "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
@@ -256,11 +256,26 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时18分 ~ 20时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时18分 ~ 21时40分]"
+        },
+        {
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 21时40分]"
         },
         {
           "title": "中国持续减持美债意味着什么",
@@ -287,19 +302,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时28分 ~ 07时24分]"
-        },
-        {
-          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
-          "url": "https://wallstreetcn.com/articles/3765719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 20时31分]"
         },
         {
           "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
@@ -347,11 +349,12 @@
           "url": "https://www.toutiao.com/trending/7606664927398333971/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
+          "appearance_count": 4,
+          "time_info": "[20时30分 ~ 21时40分]"
         }
       ]
     }
