@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T07:24:09.617814+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-02-14T09:18:18.659709+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -36,11 +36,25 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 09时18分]"
+        },
+        {
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 09时18分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -49,18 +63,6 @@
           "ranks": [
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时24分]"
-        },
-        {
-          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
-          "url": "https://wallstreetcn.com/articles/3765660",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -88,6 +90,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 06时26分]"
+        },
+        {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 09时18分]"
+        },
+        {
+          "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
+          "url": "https://wallstreetcn.com/livenews/3055388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 09时18分]"
         },
         {
           "title": "公用事业ETF收跌超2.7%，领跌美股行业ETF",
@@ -126,28 +152,6 @@
           "time_info": "[06时26分 ~ 07时24分]"
         },
         {
-          "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
-          "url": "https://wallstreetcn.com/livenews/3055388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时24分]"
-        },
-        {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时24分]"
-        },
-        {
           "title": "中概指数在美股早盘实现V形反转",
           "url": "https://wallstreetcn.com/livenews/3055280",
           "source": "华尔街见闻-快讯",
@@ -157,6 +161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美股周五收盘，道指收涨0.1%，标普500指数涨0.05%，纳指跌0.22%。大型科技股涨跌不一 ，苹果(AAPL.O)跌2.27%，英伟达(NVDA.O)跌2.21%，闪迪(SNDK.O)跌0.59%，甲骨文(ORCL.N)涨2.34%，高通(QCOM.O)涨1.61%。",
+          "url": "https://flash.jin10.com/detail/20260214081632273800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "金十图示：2026年02月13日（周五）美股热门股票行情一览（美股盘中）",
@@ -195,7 +210,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -207,6 +222,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 07时24分]"
+        },
+        {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
