@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T18:42:00.224699+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-02-16T19:35:36.612139+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时48分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时48分 ~ 19时35分]"
         },
         {
           "title": "大摩：市场开始买美债了",
@@ -59,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时48分 ~ 18时42分]"
+          "appearance_count": 6,
+          "time_info": "[15时48分 ~ 19时35分]"
         }
       ]
     },
