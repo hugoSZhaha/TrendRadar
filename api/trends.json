@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T02:46:53.680767+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-02-18T03:42:44.235646+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时42分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时42分]"
         },
         {
           "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
@@ -54,8 +54,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时42分]"
         },
         {
           "title": "金价银价直线跳水",
@@ -63,11 +63,12 @@
           "source": "微博",
           "ranks": [
             27,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 02时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 03时42分]"
         }
       ]
     },
