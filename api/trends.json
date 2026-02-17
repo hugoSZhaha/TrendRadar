@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T19:35:07.223673+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-02-17T20:43:28.245214+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 19时35分]"
+          "appearance_count": 13,
+          "time_info": "[09时21分 ~ 20时43分]"
         },
         {
           "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时12分 ~ 13时54分]"
+        },
+        {
+          "title": "Paramount美股盘前涨超4%，报道称华纳兄弟探索将暂时重启与Paramount的交易谈判。",
+          "url": "https://wallstreetcn.com/livenews/3055969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -112,11 +123,12 @@
           "source": "微博",
           "ranks": [
             13,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 20时43分]"
         },
         {
           "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
