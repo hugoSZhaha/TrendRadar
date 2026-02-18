@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T02:42:19.684016+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-02-19T03:43:05.660998+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时43分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时43分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时43分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -51,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时43分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -62,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时43分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -73,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时43分]"
         },
         {
           "title": "房利美股价迅速扩大涨幅，上涨4%。",
@@ -94,7 +95,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -105,7 +106,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
