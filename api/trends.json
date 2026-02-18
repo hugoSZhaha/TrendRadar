@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T19:34:33.198440+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-02-18T20:42:55.483039+08:00",
+  "total_titles_processed": 1657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时23分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 20时42分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时48分 ~ 19时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时48分 ~ 20时42分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -52,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时14分 ~ 19时34分]"
+          "appearance_count": 10,
+          "time_info": "[12时14分 ~ 20时42分]"
         },
         {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
@@ -139,6 +139,18 @@
           "time_info": "[06时23分 ~ 07时29分]"
         },
         {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 20时42分]"
+        },
+        {
           "title": "美股盘前，科技股普涨，英伟达涨1.6%，美光科技涨约1%，英特尔涨约1%。 黄金股普涨，哈莫尼黄金涨约1%，科尔黛伦矿业涨约2%。",
           "url": "https://wallstreetcn.com/livenews/3056266",
           "source": "华尔街见闻-快讯",
@@ -161,18 +173,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时35分 ~ 06时23分]"
-        },
-        {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 19时34分]"
         },
         {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
@@ -221,6 +221,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时29分]"
+        },
+        {
+          "title": "Analog Devices第一财季营收31.6亿美元，预估31.2亿美元。 第一财季每股收益1.69美元，预估1.61美元。 Analog Devices美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3056309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "美股盘前，部分明星科技股走强，英伟达(NVDA.O)、美光科技(MU.O)、Meta Platforms(META.O)涨超1%。",
