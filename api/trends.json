@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T09:23:16.648135+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-02-19T12:13:53.036889+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 09时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 12时13分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -54,8 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 09时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 12时13分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -66,8 +67,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 09时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 12时13分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时25分 ~ 12时13分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -78,19 +90,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 09时23分]"
-        },
-        {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时25分 ~ 09时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 12时13分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -253,6 +254,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时25分 ~ 07时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛：随着产量上升，铜和锂的价格或难以追上黄金的涨幅。",
+          "url": "https://flash.jin10.com/detail/20260219115507291800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     }
