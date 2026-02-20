@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T20:40:21.257479+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2026-02-20T21:56:43.501761+08:00",
+  "total_titles_processed": 1715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时24分 ~ 20时40分]"
+          "appearance_count": 14,
+          "time_info": "[06时24分 ~ 21时56分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -27,11 +27,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 20时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 21时56分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -80,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时42分 ~ 20时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 21时56分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -89,11 +90,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时42分 ~ 20时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 21时56分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -105,6 +107,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时42分 ~ 18时31分]"
+        },
+        {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 21时56分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -149,19 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 05时26分]"
-        },
-        {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 20时40分]"
         },
         {
           "title": "谷歌美股盘前涨超1%，此前发布Gemini 3.1 Pro，核心推理性能直接翻倍。",
@@ -213,6 +215,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     },
