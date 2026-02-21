@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T18:19:08.312055+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-02-21T19:16:52.182319+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -16,21 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时22分 ~ 18时19分]"
-        },
-        {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 19时16分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -42,8 +29,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时16分 ~ 18时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 19时16分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 19时16分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -208,11 +208,12 @@
             11,
             13,
             17,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 19时16分]"
         },
         {
           "title": "金价银价大涨",
@@ -222,8 +223,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时28分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[15时28分 ~ 19时16分]"
         },
         {
           "title": "金价震荡后回升，关税风波叠加俄罗斯售金",
@@ -254,8 +255,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时33分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[14时33分 ~ 19时16分]"
         },
         {
           "title": "美国GDP、PCE数据叠加最高法宣判特朗普关税，美债收益率周五“触底反弹”",
