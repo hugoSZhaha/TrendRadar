@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T06:16:40.231035+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-02-23T07:18:59.380880+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时18分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时18分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://www.cls.cn/detail/2292521",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时24分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[02时24分 ~ 07时18分]"
         }
       ]
     }
