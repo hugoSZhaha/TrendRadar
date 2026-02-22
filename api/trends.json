@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T03:19:36.274387+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-02-23T04:18:12.680022+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 04时18分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 04时18分]"
         }
       ]
     }
