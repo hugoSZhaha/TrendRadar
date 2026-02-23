@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T19:35:28.348108+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-02-23T20:44:36.796260+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -35,22 +35,24 @@
           "url": "https://wallstreetcn.com/livenews/3057447",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时44分]"
         },
         {
           "title": "Arcellx美股盘前涨超76%，吉利德科学将以每股115美元的价格收购Arcellx。",
           "url": "https://wallstreetcn.com/livenews/3057446",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时44分]"
         },
         {
           "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
@@ -66,6 +68,19 @@
           "time_info": "[17时45分 ~ 19时35分]"
         },
         {
+          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时44分]"
+        },
+        {
           "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
           "url": "https://wallstreetcn.com/livenews/3057431",
           "source": "华尔街见闻-快讯",
@@ -78,16 +93,15 @@
           "time_info": "[18时42分 ~ 19时35分]"
         },
         {
-          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
+          "title": "特朗普关税被判违法 华尔街投行：哪些美股公司最受益？",
+          "url": "https://www.cls.cn/detail/2292391",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "礼来(LLY.N)美股盘前上涨2.1%。",
@@ -115,11 +129,12 @@
             12,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时24分 ~ 19时35分]"
+          "appearance_count": 17,
+          "time_info": "[02时24分 ~ 20时44分]"
         }
       ]
     }
