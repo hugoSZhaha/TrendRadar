@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T07:25:01.396493+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-02-25T09:32:22.153848+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 09时32分]"
+        },
+        {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 09时32分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
@@ -112,17 +124,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时28分 ~ 06时26分]"
-        },
-        {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时25分]"
         },
         {
           "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
