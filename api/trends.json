@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T09:32:22.153848+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-02-25T12:19:41.499410+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 09时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 12时19分]"
         },
         {
           "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
@@ -62,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 09时32分]"
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 12时19分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
