@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T02:04:27.755350+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-02-26T03:46:37.166496+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 03时46分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 03时46分]"
         },
         {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
@@ -38,7 +38,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -49,7 +49,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         }
@@ -68,8 +68,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 03时46分]"
         }
       ]
     }
