@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T18:30:45.854722+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2026-02-25T18:43:04.172629+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
@@ -67,6 +67,19 @@
           "time_info": "[01时12分 ~ 12时19分]"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时48分 ~ 18时43分]"
+        },
+        {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260225050547207800",
           "source": "金十数据",
@@ -103,16 +116,16 @@
           "time_info": "[01时12分 ~ 02时52分]"
         },
         {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
+          "url": "https://wallstreetcn.com/livenews/3058780",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            10
+            6,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时48分 ~ 18时30分]"
+          "time_info": "[18时29分 ~ 18时43分]"
         },
         {
           "title": "美股收盘：三大股指收涨 AMD大涨超8%",
@@ -137,17 +150,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时28分 ~ 06时26分]"
-        },
-        {
-          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
-          "url": "https://wallstreetcn.com/livenews/3058780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
