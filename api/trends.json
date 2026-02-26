@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T07:23:02.376158+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-02-26T09:19:21.851253+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 09时19分]"
         },
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -39,8 +39,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 09时19分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 09时19分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -77,17 +89,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 06时25分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
@@ -153,6 +154,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 07时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
+          "url": "https://www.cls.cn/detail/2295242",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
