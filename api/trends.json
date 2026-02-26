@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T17:42:08.282695+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-02-26T18:39:07.578908+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时22分 ~ 17时42分]"
+          "appearance_count": 13,
+          "time_info": "[07时22分 ~ 18时39分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
@@ -93,6 +93,18 @@
           "time_info": "[05时29分 ~ 06时25分]"
         },
         {
+          "title": "爱奇艺(IQ.O)美股盘前涨5%，此前公布的财报显示第四季度营收有所增长。",
+          "url": "https://flash.jin10.com/detail/20260226180836459800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        },
+        {
           "title": "百度美股盘前跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3059459",
           "source": "华尔街见闻-快讯",
@@ -113,6 +125,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 07时23分]"
+        },
+        {
+          "title": "唯品会第四财季调整后每ADS收益5.66元人民币，上年同期5.70元人民币，市场预估5.43元人民币。 第四财季活跃用户数4,530万，同比下降0.9%，市场预估4,608万。 第四财季净营收324.7亿元人民币，同比下降2.3%，市场预估334.9亿元人民币。 预计第一财季净营收263亿元人民币至276亿元人民币，市场预估268.3亿元人民币。 唯品会美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3059496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
         },
         {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
@@ -184,11 +207,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 18时39分]"
         }
       ]
     },
