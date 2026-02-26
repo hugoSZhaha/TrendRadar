@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T15:46:25.420597+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-02-26T16:37:51.114920+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,25 @@
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时22分 ~ 15时46分]"
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 16时37分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 16时37分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 06时25分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时22分 ~ 15时46分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
