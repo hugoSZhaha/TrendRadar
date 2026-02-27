@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T14:43:00.791271+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-02-27T15:41:53.162569+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 14时43分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 15时41分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -108,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "瑞银下调美股配置至中性 资金全球化分散趋势渐显",
+          "url": "https://flash.jin10.com/detail/20260227151220024800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股收盘）",
