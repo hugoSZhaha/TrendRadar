@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T20:40:06.360685+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2026-02-27T21:55:43.110478+08:00",
+  "total_titles_processed": 1903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "微软(MSFT.O)美股盘前下跌2.4%，Alphabet(GOOG.O)股价下跌0.7%，亚马逊(AMZN.O)股价盘前下跌0.9%。",
+          "url": "https://flash.jin10.com/detail/20260227213721612800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "奈飞拒绝像派拉蒙（Paramount SkyDance）那样提高收购华纳兄弟探索公司（WBD）的报价。 这笔（潜在的）收购交易不再具有财务魅力。 本来，这笔交易有望创造股东价值。 奈飞将恢复股票回购计划。 奈飞美股盘后涨约8%。",
