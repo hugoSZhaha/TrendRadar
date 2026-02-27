@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T13:46:19.009031+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-02-27T14:43:00.791271+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时49分 ~ 07时23分]"
         },
         {
+          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2296570",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 14时43分]"
+        },
+        {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2296406",
           "source": "财联社热门",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时49分 ~ 12时07分]"
-        },
-        {
-          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2296570",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 13时46分]"
         },
         {
           "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
