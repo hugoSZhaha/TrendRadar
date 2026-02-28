@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T05:14:47.019276+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-03-01T06:16:19.807379+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时16分]"
         },
         {
           "title": "金价",
@@ -29,8 +29,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 06时16分]"
         },
         {
           "title": "专家：金价极端情况下或到7000美元",
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时16分]"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
@@ -71,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 06时16分]"
         }
       ]
     },
@@ -88,8 +88,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时16分]"
         }
       ]
     }
