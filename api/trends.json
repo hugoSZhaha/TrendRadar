@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T22:16:30.700442+08:00",
-  "total_titles_processed": 2068,
+  "generated_at": "2026-02-28T23:15:48.365894+08:00",
+  "total_titles_processed": 2154,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时21分 ~ 22时16分]"
+          "appearance_count": 12,
+          "time_info": "[15时21分 ~ 23时15分]"
         },
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -41,11 +41,12 @@
             14,
             11,
             8,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 23时15分]"
         },
         {
           "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
@@ -120,8 +121,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时11分 ~ 22时16分]"
+          "appearance_count": 18,
+          "time_info": "[09时11分 ~ 23时15分]"
         },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -197,11 +198,12 @@
             22,
             11,
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时21分 ~ 22时16分]"
+          "appearance_count": 9,
+          "time_info": "[15时21分 ~ 23时15分]"
         },
         {
           "title": "伊朗局势如何影响金价 专家称未来48小时决定金价走势",
@@ -221,11 +223,12 @@
           "ranks": [
             10,
             16,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 20时29分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 23时15分]"
         },
         {
           "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
@@ -235,8 +238,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时29分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时29分 ~ 23时15分]"
         },
         {
           "title": "以色列伊朗 金价",
