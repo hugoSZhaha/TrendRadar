@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T16:20:13.157598+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-02-28T17:20:00.163358+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时18分 ~ 16时20分]"
+          "appearance_count": 12,
+          "time_info": "[07时18分 ~ 17时20分]"
         },
         {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时20分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 17时20分]"
         },
         {
           "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
@@ -104,8 +104,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时11分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时11分 ~ 17时20分]"
         },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -171,19 +171,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时20分]"
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 17时20分]"
         },
         {
           "title": "以色列伊朗 金价",
           "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BC%8A%E6%9C%97%20%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时20分]"
         }
       ]
     }
