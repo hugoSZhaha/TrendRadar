@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T01:15:07.497048+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-03-01T02:22:51.756503+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "金价",
@@ -24,22 +24,24 @@
           "source": "微博",
           "ranks": [
             13,
-            23
+            23,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "专家：金价极端情况下或到7000美元",
           "url": "https://www.toutiao.com/trending/7611434469627330601/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时22分]"
         }
       ]
     },
@@ -55,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
@@ -66,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时22分]"
         }
       ]
     },
@@ -83,8 +85,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
         }
       ]
     }
