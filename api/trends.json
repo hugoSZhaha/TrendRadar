@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T03:16:35.737029+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-03-01T04:17:43.634671+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "金价",
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             23,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "专家：金价极端情况下或到7000美元",
@@ -38,11 +39,12 @@
           "ranks": [
             26,
             30,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时17分]"
         }
       ]
     },
@@ -58,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
@@ -69,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时17分]"
         }
       ]
     },
@@ -86,8 +88,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时17分]"
         }
       ]
     }
