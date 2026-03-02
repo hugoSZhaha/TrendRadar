@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T18:37:36.972095+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2026-03-02T19:28:08.481281+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时28分]"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -113,7 +113,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -146,8 +146,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时46分 ~ 18时37分]"
+          "appearance_count": 8,
+          "time_info": "[13时46分 ~ 19时28分]"
         },
         {
           "title": "美以袭击伊朗金价为何下跌",
