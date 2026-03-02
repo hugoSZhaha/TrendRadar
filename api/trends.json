@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T09:19:44.071740+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-03-02T12:07:54.981411+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -27,7 +27,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -38,7 +38,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -49,7 +49,35 @@
           "ranks": [
             16
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         }
@@ -89,23 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
         }
       ]
     }
