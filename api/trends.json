@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T22:39:13.925214+08:00",
-  "total_titles_processed": 2071,
+  "generated_at": "2026-03-02T23:36:16.271320+08:00",
+  "total_titles_processed": 2161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[17时40分 ~ 22时39分]"
+        },
+        {
+          "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -83,6 +94,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时38分 ~ 22时39分]"
+        },
+        {
+          "title": "富时A50在美股盘初出现V形反转，使得夜盘转而涨超0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3062004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
+        },
+        {
+          "title": "全球航空业ETF跌4.46%，在美股盘初领跌行业ETF，可选消费ETF跌2.47%，区域银行ETF跌2.38%，半导体ETF跌1.83%，科技行业ETF跌0.92%，能源业ETF涨2.65%。 标普超级综合航空指数跌5.6%。 Frontier Group跌9.72%，美国航空公司跌6.4%，美联航跌5.3%，达美航空跌3.7%，美国西南航空跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3062001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
@@ -233,7 +266,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股期货低开，纳指期货跌超1%，原油大幅走高，黄金、美债期货上涨",
@@ -247,6 +280,17 @@
           "time_info": "[07时16分 ~ 07时17分]"
         },
         {
+          "title": "美元/日元日内涨幅达1.0%，报157.62。 美国ISM制造业数据披露后，5-10年期美债收益率涨幅扩大至10个基点。",
+          "url": "https://wallstreetcn.com/livenews/3062025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
+        },
+        {
           "title": "美国国债收益率继续攀升，10年期美债收益率重上4%关口。",
           "url": "https://flash.jin10.com/detail/20260302214232186800",
           "source": "金十数据",
@@ -256,6 +300,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
+          "title": "美国国债收益率延续跌势，2年期美债收益率上涨10个基点至3.47%。",
+          "url": "https://flash.jin10.com/detail/20260302232058081800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
         },
         {
           "title": "通胀焦虑盖过避险买需 中东紧张局势下美债未涨反跌",
