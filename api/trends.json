@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-02T17:40:40.642962+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-03-02T18:37:36.972095+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时37分]"
+        },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
           "url": "https://wallstreetcn.com/articles/3766477",
@@ -52,17 +63,6 @@
           "time_info": "16时35分"
         },
         {
-          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -102,9 +102,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "中东局势推升通胀忧虑 美股科技巨头估值承压",
+          "url": "https://flash.jin10.com/detail/20260302180804326800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "美股盘前：黄金概念股、石油股、军工股上涨，科技股下跌",
@@ -113,7 +124,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
@@ -123,6 +134,21 @@
       "keyword_group": "金价",
       "match_count": 6,
       "titles": [
+        {
+          "title": "中东战火“燃爆”避险情绪，国际金价有望再创新高？一文读懂",
+          "url": "https://www.cls.cn/detail/2299381",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时46分 ~ 18时37分]"
+        },
         {
           "title": "美以袭击伊朗金价为何下跌",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=15&Refer=top",
@@ -135,20 +161,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 07时17分]"
-        },
-        {
-          "title": "中东战火“燃爆”避险情绪，国际金价有望再创新高？一文读懂",
-          "url": "https://www.cls.cn/detail/2299381",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时46分 ~ 17时40分]"
         },
         {
           "title": "油价金价大涨",
