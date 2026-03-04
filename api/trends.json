@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T00:35:09.812761+08:00",
-  "total_titles_processed": 321,
+  "generated_at": "2026-03-05T01:33:42.777619+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         },
         {
           "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时33分]"
         }
       ]
     }
