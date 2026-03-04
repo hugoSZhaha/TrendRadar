@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T15:34:08.480001+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-03-04T16:31:51.160667+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时19分 ~ 15时34分]"
+          "appearance_count": 10,
+          "time_info": "[07时19分 ~ 16时31分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -199,6 +199,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 16时31分]"
+        },
+        {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -208,17 +219,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 15时34分]"
         },
         {
           "title": "荷兰国际：通胀预期或推升二季度美债收益率至4.3%附近",
