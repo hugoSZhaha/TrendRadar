@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T16:31:51.160667+08:00",
-  "total_titles_processed": 1519,
+  "generated_at": "2026-03-04T17:33:12.968429+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时20分]"
+        },
+        {
+          "title": "iShares MSCI韩国ETF美股盘前跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3063535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -113,6 +124,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "iShares MSCI韩国ETF美股盘前下跌5.1%，此前韩国股市创下史上最大单日跌幅。",
+          "url": "https://flash.jin10.com/detail/20260304172517746800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "周二（3月3日）美股尾盘，彭博电动汽车价格回报指数跌4.68%，报3524.62点，整体持续下跌。",
@@ -206,8 +228,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时17分 ~ 16时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时17分 ~ 17时33分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
