@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T17:33:12.968429+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-03-04T18:29:15.054355+08:00",
+  "total_titles_processed": 1748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
@@ -44,15 +44,27 @@
           "time_info": "[07时19分 ~ 07时20分]"
         },
         {
+          "title": "市场评估特朗普“护航”计划，美股期指转涨，德股涨超1%，韩股历史性暴跌12%，油价再涨3%，白银涨5%",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
           "title": "iShares MSCI韩国ETF美股盘前跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3063535",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 18时29分]"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -149,6 +161,17 @@
           "time_info": "[05时27分 ~ 06时21分]"
         },
         {
+          "title": "美股股指期货盘中走高，纳指期货、标普500指数期货均转涨。",
+          "url": "https://wallstreetcn.com/livenews/3063549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
           "title": "亚太股市颓势依旧，日经指数跌3%，韩国股市暴跌触发熔断，三星电子跌超7%，欧美股指期货企稳",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
@@ -228,8 +251,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时17分 ~ 17时33分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 18时29分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
