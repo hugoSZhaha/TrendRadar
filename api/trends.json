@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T14:41:04.841363+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-03-05T15:38:11.021070+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时34分 ~ 06时24分]"
         },
         {
+          "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
+          "url": "https://www.cls.cn/detail/2303150",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 15时38分]"
+        },
+        {
           "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2302992",
           "source": "财联社热门",
@@ -30,19 +43,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时34分 ~ 13时42分]"
-        },
-        {
-          "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
-          "url": "https://www.cls.cn/detail/2303150",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 14时41分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
@@ -173,8 +173,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 14时41分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 15时38分]"
         },
         {
           "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",
