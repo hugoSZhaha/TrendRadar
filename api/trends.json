@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T05:28:02.293455+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-03-06T06:24:38.076195+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 06时24分]"
         },
         {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
@@ -27,63 +27,68 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 06时24分]"
         },
         {
           "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
           "url": "https://wallstreetcn.com/livenews/3064666",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 05时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 06时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收盘转涨0.16%",
           "url": "https://wallstreetcn.com/livenews/3064665",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 05时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 06时24分]"
         },
         {
           "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260306050553225800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 05时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 06时24分]"
         },
         {
           "title": "金十图示：2026年03月05日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260306050548553800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 05时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 06时24分]"
         },
         {
           "title": "美股收盘：道指跌1.6% 哔哩哔哩跌7%",
           "url": "https://flash.jin10.com/detail/20260306050150725800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 05时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 06时24分]"
         },
         {
           "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
@@ -165,8 +170,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 06时24分]"
         },
         {
           "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
