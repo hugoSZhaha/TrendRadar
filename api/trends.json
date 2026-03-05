@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T03:11:14.310301+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-03-06T04:31:52.258394+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 04时31分]"
         },
         {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2304327",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 04时31分]"
         },
         {
           "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
@@ -72,6 +73,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260306033140632800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "金十图示：2026年03月05日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260306033140119800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
@@ -87,8 +110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 04时31分]"
         }
       ]
     }
