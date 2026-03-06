@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T13:40:43.797781+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-03-06T14:38:36.890458+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时56分 ~ 13时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时56分 ~ 14时38分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时46分 ~ 14时38分]"
         },
         {
           "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
@@ -207,8 +207,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时46分 ~ 14时38分]"
         },
         {
           "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
