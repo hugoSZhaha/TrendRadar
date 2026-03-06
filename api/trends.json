@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T01:29:10.886066+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-07T02:34:30.174800+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时34分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://wallstreetcn.com/livenews/3065388",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 02时34分]"
         },
         {
           "title": "美股另类资产管理公司和银行股大跌，包括贝莱德和Blue Owl在内，因一系列负面私人信贷事件引发市场对行业健康状况的新担忧。 受就业数据弱于预期及中东冲突扩大影响，整体股市亦同步下挫。 目前，贝莱德跌逾5%，Ares Management跌6.3%，KKR & Co Inc跌6.3%，Blue Owl跌6%，黑石跌5.6%，阿波罗全球管理跌5.5%。",
