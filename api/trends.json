@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T14:38:36.890458+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-03-06T15:34:54.802538+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[01时56分 ~ 06时24分]"
         },
         {
+          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
+          "url": "https://www.cls.cn/detail/2304478",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时46分 ~ 15时34分]"
+        },
+        {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2304327",
           "source": "财联社热门",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时56分 ~ 14时38分]"
-        },
-        {
-          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
-          "url": "https://www.cls.cn/detail/2304478",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时46分 ~ 14时38分]"
         },
         {
           "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
@@ -207,8 +207,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时46分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[07时46分 ~ 15时34分]"
         },
         {
           "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
