@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T09:15:21.403513+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-03-07T11:54:52.594748+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
@@ -8,13 +8,26 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2305872",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 11时54分]"
+        },
+        {
           "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
           "url": "https://wallstreetcn.com/livenews/3065532",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -29,18 +42,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 06时20分]"
-        },
-        {
-          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2305872",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 09时15分]"
         },
         {
           "title": "美股军工股洛克希德·马丁目前涨1.86%，RTX公司涨1.30%，诺斯罗普·格鲁曼涨0.86%，L3Harris涨0.90%。 据媒体报道，特朗普将召集国防承包商高管，强调提升武器产能以应对美伊冲突。",
