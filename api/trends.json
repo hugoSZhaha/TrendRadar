@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T19:15:02.262981+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-03-07T20:31:21.999510+08:00",
+  "total_titles_processed": 1577,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时21分 ~ 19时15分]"
+          "appearance_count": 18,
+          "time_info": "[07时21分 ~ 20时31分]"
         },
         {
           "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
