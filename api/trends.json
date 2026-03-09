@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T00:51:19.657645+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-10T01:42:26.621361+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时42分]"
         },
         {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
