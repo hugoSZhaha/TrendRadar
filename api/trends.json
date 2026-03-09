@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-10T04:26:12.068396+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-03-10T05:26:33.282707+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
+          "url": "https://www.cls.cn/detail/2307187",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时26分]"
+        },
         {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260310040602792800",
@@ -39,19 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
-          "url": "https://www.cls.cn/detail/2307187",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时26分]"
         },
         {
           "title": "受特朗普言论影响，美股三大股指均转涨，纳指涨超1%。",
@@ -87,6 +87,61 @@
           "time_info": "[04时25分 ~ 04时26分]"
         },
         {
+          "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
+          "url": "https://wallstreetcn.com/livenews/3066727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "新兴市场ETF收涨将近2%，领跑美股大类资产类ETF。布油基金跌2.8%",
+          "url": "https://wallstreetcn.com/livenews/3066726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收涨1.12%，报418.01点，跳空低开之后，在美股盘初刷新日低至390.39点，随后逐步收复失地。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.31%，报2919.20点，美股开盘之前维持微幅下跌状态——持稳于2885点附近，随后跳水走低、快速刷新日低至2768.61点。 在美股时段交易的原材料指数收涨1.05%，金属与矿业指数收涨1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3066724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "半导体ETF收涨超3.6%，领跑美股行业ETF，标普能源板块收跌超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3066722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "惠与第一财季净营收93亿美元，分析师预期93.7亿美元。 第一财季调整后每股收益（EPS）为0.65美元，分析师预期0.58美元。 预计第二财季净营收96亿-100亿美元，分析师预期95.7亿美元。 预计第二财季调整后EPS为0.51-0.55美元，分析师预期0.53美元。 惠与（HPE）美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3066721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3066608",
           "source": "华尔街见闻-快讯",
@@ -114,6 +169,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10年期美债收益率跌超3.8个基点，两年期实际收益率一度跌穿0.34%",
+          "url": "https://wallstreetcn.com/livenews/3066740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     }
