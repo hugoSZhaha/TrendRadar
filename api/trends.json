@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T13:53:22.522975+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-03-09T14:53:04.012546+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 09时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中东危机未见缓和迹象，投资者持续抛售美债",
+          "url": "https://flash.jin10.com/detail/20260309142653109800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
         }
       ]
     }
