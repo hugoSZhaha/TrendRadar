@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T15:36:49.904754+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-03-10T16:33:09.215146+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 15时36分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 16时33分]"
         },
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
@@ -216,7 +216,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         }
