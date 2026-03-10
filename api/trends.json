@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T22:44:48.798480+08:00",
-  "total_titles_processed": 2072,
+  "generated_at": "2026-03-10T23:55:01.899977+08:00",
+  "total_titles_processed": 2167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -20,6 +20,18 @@
           "time_info": "[07时21分 ~ 16时33分]"
         },
         {
+          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时08分 ~ 23时55分]"
+        },
+        {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
           "url": "https://www.cls.cn/detail/2307187",
           "source": "财联社热门",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时51分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时08分 ~ 22时44分]"
         },
         {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
@@ -234,6 +235,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时21分]"
+        },
+        {
+          "title": "波音(BA.N)公布2月交付数据公布后，美股股价下跌3.1%。",
+          "url": "https://flash.jin10.com/detail/20260310230408773800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "腾讯控股ADR美股盘前走高，现涨4.7%。",
