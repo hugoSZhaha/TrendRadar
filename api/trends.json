@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T22:09:02.119175+08:00",
-  "total_titles_processed": 1986,
+  "generated_at": "2026-03-10T22:44:48.798480+08:00",
+  "total_titles_processed": 2072,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,17 @@
           "time_info": "[00时51分 ~ 06时21分]"
         },
         {
+          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时08分 ~ 22时44分]"
+        },
+        {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260310040602792800",
           "source": "金十数据",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时08分 ~ 22时09分]"
         },
         {
           "title": "金十图示：2026年03月09日（周一）热门中概股行情一览（美股收盘）",
