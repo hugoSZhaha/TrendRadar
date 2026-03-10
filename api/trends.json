@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T01:41:30.098482+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-11T02:38:32.423401+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时38分]"
         },
         {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "美股延续涨势，道琼斯工业平均指数上涨1.00%。",
+          "url": "https://flash.jin10.com/detail/20260311012919237800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         }
       ]
     }
