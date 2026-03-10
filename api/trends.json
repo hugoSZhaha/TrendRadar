@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T20:41:43.674656+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2026-03-10T22:09:02.119175+08:00",
+  "total_titles_processed": 1986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
         },
         {
           "title": "金十图示：2026年03月09日（周一）热门中概股行情一览（美股收盘）",
@@ -83,7 +94,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -110,6 +121,28 @@
           "time_info": "[04时25分 ~ 04时26分]"
         },
         {
+          "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260310214202868800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
+        },
+        {
+          "title": "美股三大指数开盘涨跌不一，纳指涨0.1%，道指跌0.05%，标普500指数跌0.05%。蔚来涨超6%，公司Q4实现经营利润12.5亿元，交付量大增71.7%。存储概念股普涨，西部数据涨超4%，闪迪、美光科技涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3067349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
+        },
+        {
           "title": "美股尾盘，三大美股指数均转涨，纳斯达克指数涨超1.3%。",
           "url": "https://wallstreetcn.com/livenews/3066709",
           "source": "华尔街见闻-快讯",
@@ -119,6 +152,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 04时26分]"
+        },
+        {
+          "title": "BioNTech(BNTX.O)美股盘中暴跌19%，创4月25日以来最大跌幅。",
+          "url": "https://flash.jin10.com/detail/20260310213243409800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
@@ -143,6 +187,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时21分]"
+        },
+        {
+          "title": "美股开盘，道指跌0.13%，标普500指数跌0.03%，纳指涨0.1%。蔚来汽车(NIO.N)涨约6%，一季度营收指引同比增长103.4%至109.2%。BioNTech(BNTX.O)大跌约19%，公司2026年营收指引不及预期。",
+          "url": "https://flash.jin10.com/detail/20260310213028106800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收涨1.12%，报418.01点，跳空低开之后，在美股盘初刷新日低至390.39点，随后逐步收复失地。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.31%，报2919.20点，美股开盘之前维持微幅下跌状态——持稳于2885点附近，随后跳水走低、快速刷新日低至2768.61点。 在美股时段交易的原材料指数收涨1.05%，金属与矿业指数收涨1.45%。",
@@ -179,6 +234,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时21分]"
+        },
+        {
+          "title": "腾讯控股ADR美股盘前走高，现涨4.7%。",
+          "url": "https://flash.jin10.com/detail/20260310211708526800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
         },
         {
           "title": "BioNTech SE(BNTX.O)预计2026年总收入为20亿至23亿欧元，不及预期，BioNTech SE(BNTX.O)美股盘前下跌14%。",
@@ -275,7 +341,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
