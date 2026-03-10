@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T14:39:30.236977+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-03-10T15:36:49.904754+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 15时36分]"
         },
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
@@ -195,7 +195,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现货钯金价格涨超3%，报1677美元/盎司。",
@@ -208,6 +208,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时36分]"
+        },
+        {
+          "title": "金十图示：2026年03月10日（周二）上海金午盘价为1147.94元/克，较国际金价(1145.14元/克)，高2.8元/克",
+          "url": "https://flash.jin10.com/detail/20260310150150904800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
