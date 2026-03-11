@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T02:44:27.788653+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-03-12T03:38:30.525874+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 03时38分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 03时38分]"
         },
         {
           "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 03时38分]"
         },
         {
           "title": "高盛高管认为美股存在“极端”上涨的潜力",
@@ -48,7 +48,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
         },
@@ -89,8 +89,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 03时38分]"
         }
       ]
     }
