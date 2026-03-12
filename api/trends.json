@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-12T14:44:16.306429+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-03-12T15:42:17.322257+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 18,
       "titles": [
+        {
+          "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
+          "url": "https://www.cls.cn/detail/2310241",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时19分 ~ 15时42分]"
+        },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
           "url": "https://wallstreetcn.com/articles/3767097",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时19分]"
-        },
-        {
-          "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
-          "url": "https://www.cls.cn/detail/2310241",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时19分 ~ 14时44分]"
         },
         {
           "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
@@ -218,6 +218,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "澳新银行：金价近期下跌或为短期现象",
+          "url": "https://flash.jin10.com/detail/20260312153515850800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "金十图示：2026年03月12日（周四）上海金早盘价为1147.18元/克，较国际金价(1139.83元/克)，高7.35元/克",
+          "url": "https://flash.jin10.com/detail/20260312110248902800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
+        },
+        {
+          "title": "金十图示：2026年03月12日（周四）上海金午盘价为1146.31元/克，较国际金价(1142.23元/克)，高4.08元/克",
+          "url": "https://flash.jin10.com/detail/20260312150652050800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -230,8 +269,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时19分 ~ 14时44分]"
+          "appearance_count": 9,
+          "time_info": "[07时19分 ~ 15时42分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
@@ -261,23 +300,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月12日（周四）上海金早盘价为1147.18元/克，较国际金价(1139.83元/克)，高7.35元/克",
-          "url": "https://flash.jin10.com/detail/20260312110248902800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
         }
       ]
     }
