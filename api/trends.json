@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T22:47:02.270298+08:00",
-  "total_titles_processed": 2043,
+  "generated_at": "2026-03-12T23:52:30.004705+08:00",
+  "total_titles_processed": 2136,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
+          "appearance_count": 3,
+          "time_info": "[22时46分 ~ 23时52分]"
         },
         {
           "title": "周四亚太盘初，美国股指期货跌0.3%，摩根士丹利限制私人信用基金的赎回。 摩根士丹利美股盘后跌0.55%。",
@@ -368,8 +368,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时19分 ~ 22时47分]"
+          "appearance_count": 20,
+          "time_info": "[07时19分 ~ 23时52分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
