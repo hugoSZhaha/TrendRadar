@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T09:16:00.470424+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-03-12T12:08:03.658950+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 09时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 12时08分]"
+        },
+        {
+          "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
+          "url": "https://www.cls.cn/detail/2310241",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 12时08分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -43,17 +55,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 06时21分]"
-        },
-        {
-          "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
-          "url": "https://www.cls.cn/detail/2310241",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时16分]"
         },
         {
           "title": "周四亚太盘初，美国股指期货跌0.3%，摩根士丹利限制私人信用基金的赎回。 摩根士丹利美股盘后跌0.55%。",
@@ -229,8 +230,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时16分]"
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 12时08分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
@@ -260,6 +261,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月12日（周四）上海金早盘价为1147.18元/克，较国际金价(1139.83元/克)，高7.35元/克",
+          "url": "https://flash.jin10.com/detail/20260312110248902800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
         }
       ]
     }
