@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T01:44:46.845751+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-03-13T02:42:46.703095+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时42分]"
         },
         {
           "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -47,7 +47,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         }
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时42分]"
         }
       ]
     }
