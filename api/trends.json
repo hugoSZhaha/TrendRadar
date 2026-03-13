@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T07:21:36.259548+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-03-13T09:19:30.299971+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时52分 ~ 06时18分]"
+        },
+        {
+          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2311450",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时19分]"
         },
         {
           "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
@@ -66,18 +79,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时26分 ~ 05时26分]"
-        },
-        {
-          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2311450",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时21分]"
         },
         {
           "title": "美股小盘股指期货周四跌超1.9%",
@@ -151,6 +152,17 @@
           "time_info": "[05时26分 ~ 06时18分]"
         },
         {
+          "title": "美股期货小幅反弹，标普500指数期货涨0.4%，纳指期货涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3069235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
           "url": "https://flash.jin10.com/detail/20260313005601624800",
           "source": "金十数据",
@@ -165,7 +177,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -186,9 +198,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "两年期美债收益率涨10个基点，突破3.76%",
