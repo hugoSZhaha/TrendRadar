@@ -1,381 +1,39 @@
 {
-  "generated_at": "2026-03-13T23:38:42.100887+08:00",
-  "total_titles_processed": 2133,
+  "generated_at": "2026-03-14T00:32:13.929112+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 06时18分]"
-        },
-        {
-          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2311450",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时18分 ~ 16时32分]"
-        },
-        {
-          "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3069142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 05时26分]"
-        },
-        {
-          "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260313040653218800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 05时26分]"
-        },
-        {
-          "title": "金十图示：2026年03月12日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260313040535187800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 05时26分]"
-        },
-        {
-          "title": "为何油价大涨美股大跌",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美股收盘：纳指跌1.7% 芯片股走弱",
-          "url": "https://flash.jin10.com/detail/20260313040117943800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 05时26分]"
-        },
-        {
-          "title": "摩根大通：散户投资者对美股首次显露出购买疲劳迹象",
-          "url": "https://wallstreetcn.com/livenews/3069876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 23时38分]"
-        },
-        {
-          "title": "美股小盘股指期货周四跌超1.9%",
-          "url": "https://wallstreetcn.com/livenews/3069164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 07时21分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌2.28%，报405.84点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.91%，报2859.82点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌3.84%。",
-          "url": "https://wallstreetcn.com/livenews/3069162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时18分]"
-        },
-        {
-          "title": "纽约期金跌超2%，美股盘后失守5060美元",
-          "url": "https://wallstreetcn.com/livenews/3069160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时18分]"
-        },
-        {
-          "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260313003325589800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 00时53分]"
-        },
-        {
-          "title": "金十图示：2026年03月12日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260313003104000800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 00时53分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
-          "url": "https://wallstreetcn.com/livenews/3069153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时18分]"
-        },
-        {
-          "title": "浑水创始人转空：若AI持续替代白领，美股401K体系或将崩盘",
-          "url": "https://wallstreetcn.com/articles/3767368",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美股三大股指高开，道指涨0.47%，标普500指数涨0.5%，纳指涨0.49%。明星科技股多数走高，美光科技涨超3%，英特尔涨2.7%，台积电涨超2%。纳斯达克上市次日，PayPay涨超16%。Adobe跌超7%，公司上季营收超预期创纪录，但指引平平。META下跌3.2%，创3月6日以来最大盘中跌幅，报道称Meta在出现性能担忧后推迟了新AI模型的推出。",
-          "url": "https://wallstreetcn.com/livenews/3069840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260313214149488800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "Adobe美股盘前下跌9%，公司上季营收超预期创纪录，但指引平平，任期最久CEO将卸任。",
-          "url": "https://wallstreetcn.com/livenews/3069535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美股期货小幅反弹，标普500指数期货涨0.4%，纳指期货涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3069235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "美股高开低走，标普500指数现跌0.15%，纳指现跌0.4%，道指微涨0.07%。",
-          "url": "https://flash.jin10.com/detail/20260313230115209800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "摩根大通：美股散户风险偏好出现降温",
-          "url": "https://flash.jin10.com/detail/20260313213113167800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美股开盘，三大股指高开，道指涨0.47%，标普500指数涨0.5%，纳指涨0.49%。Adobe(ADBE.O)大跌7%， CEO掌舵18年后宣布辞职。",
-          "url": "https://flash.jin10.com/detail/20260313213027984800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
-          "url": "https://flash.jin10.com/detail/20260313005601624800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3767295",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            3,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时06分 ~ 23时38分]"
-        },
-        {
-          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 07时21分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "地区冲突担忧笼罩市场 美债恐慌指标升至九个月高位",
-          "url": "https://wallstreetcn.com/livenews/3069435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "两年期美债收益率涨10个基点，突破3.76%",
-          "url": "https://wallstreetcn.com/livenews/3069119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时38分 ~ 04时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
+      "keyword_group": "美股",
+      "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年03月13日（周五）上海金午盘价为1131.73元/克，较国际金价(1127.27元/克)，高4.46元/克",
-          "url": "https://flash.jin10.com/detail/20260313150142034800",
-          "source": "金十数据",
+          "title": "美股三大指数集体高开 百度涨超2%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%852%25",
+          "source": "百度热搜",
           "ranks": [
-            25
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）上海金早盘价为1138.89元/克，较国际金价(1131.62元/克)，高7.27元/克",
-          "url": "https://flash.jin10.com/detail/20260313110253548800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         }
       ]
     }
