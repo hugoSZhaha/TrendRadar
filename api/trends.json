@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T01:29:37.551928+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-03-14T02:32:07.605727+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股三大指数集体高开 百度涨超2%",
@@ -19,13 +19,24 @@
           "time_info": "[00时31分 ~ 01时29分]"
         },
         {
+          "title": "美股延续跌势，纳斯达克指数下跌1.00%。",
+          "url": "https://flash.jin10.com/detail/20260314015012456800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 02时32分]"
+        },
+        {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260314003327722800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         }
@@ -54,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时32分]"
         }
       ]
     }
