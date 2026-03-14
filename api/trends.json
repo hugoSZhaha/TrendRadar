@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T13:40:47.086708+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-03-14T14:37:19.888229+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 14时37分]"
+        },
+        {
+          "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
+          "url": "https://wallstreetcn.com/articles/3767492",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 14时37分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时26分 ~ 07时22分]"
-        },
-        {
-          "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
-          "url": "https://wallstreetcn.com/articles/3767492",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 13时40分]"
         },
         {
           "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
