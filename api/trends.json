@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T15:32:06.473712+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-03-14T16:26:35.377667+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时21分 ~ 15时32分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 16时26分]"
         },
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
@@ -29,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 16时26分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
