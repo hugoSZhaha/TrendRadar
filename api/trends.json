@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T05:20:19.316299+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-03-15T06:18:38.411985+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 06时18分]"
         }
       ]
     }
