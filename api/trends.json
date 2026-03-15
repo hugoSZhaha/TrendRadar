@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T12:27:24.146244+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2026-03-15T14:02:36.139892+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 12时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 14时02分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -60,11 +60,12 @@
           "url": "https://flash.jin10.com/detail/20260315102410675800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 14时02分]"
         }
       ]
     }
