@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T19:41:58.065967+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-03-16T20:53:13.191957+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 19时41分]"
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 20时53分]"
         },
         {
           "title": "国际油价涨超3%，美股期货小幅下跌",
@@ -156,7 +157,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
