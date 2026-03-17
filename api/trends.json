@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T02:03:04.323599+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-03-18T03:51:14.005810+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 02时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 03时51分]"
         },
         {
           "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 02时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 03时51分]"
         },
         {
           "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股盘中）",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 02时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 03时51分]"
         }
       ]
     }
