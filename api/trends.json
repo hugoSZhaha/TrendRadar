@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-03-19T03:44:37.616495+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-03-19T04:28:56.195113+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月18日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260319040554331800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时28分]"
+        },
+        {
+          "title": "金十图示：2026年03月18日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260319040515992800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘后涨2%。",
+          "url": "https://flash.jin10.com/detail/20260319040336883800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美股收盘：三大股指在美联储议息日均跌超1%",
+          "url": "https://flash.jin10.com/detail/20260319040154086800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 3,
@@ -15,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时28分]"
         },
         {
           "title": "两年期美债收益率短线下挫2个基点，至3.69%下方。现货黄金持稳于4900美元下方，美元指数维持0.2%的涨幅。美联储按兵不动，理事米兰要求降息。",
@@ -54,8 +117,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时28分]"
         },
         {
           "title": "黄金价格下跌 普通人能入手吗",
@@ -67,27 +130,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
-          "url": "https://wallstreetcn.com/articles/3767807",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时44分]"
+          "time_info": "[01时55分 ~ 04时28分]"
         }
       ]
     }
