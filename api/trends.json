@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T09:25:06.759000+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-03-18T12:17:28.653504+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 09时25分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时17分]"
         },
         {
           "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
@@ -132,11 +132,12 @@
           "url": "https://wallstreetcn.com/articles/3767701",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 09时25分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时17分]"
         },
         {
           "title": "周二（3月17日）纽约尾盘，美国10年期基准国债收益率跌1.75个基点，报4.2004%，北京时间14:01涨至4.2473%刷新日高，随后逐步走低，00:29刷新日低至4.1868%。 两年期美债收益率持平，报3.6715%，日内交投于3.6925%-3.6526%区间。",
