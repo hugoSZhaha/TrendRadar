@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T18:43:46.058558+08:00",
-  "total_titles_processed": 1587,
+  "generated_at": "2026-03-18T19:40:12.197353+08:00",
+  "total_titles_processed": 1690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -91,6 +91,17 @@
           "time_info": "[04时31分 ~ 04时32分]"
         },
         {
+          "title": "梅西百货第四季度净销售额76.4亿美元，预期75.1亿美元。 第四季度经调整后每股收益1.67美元，预期1.54美元。 梅西百货预计全财年净销售额214亿美元-216.5亿美元，预估211.1亿美元。 梅西百货预计一季度净销售额45.75亿美元-46.25亿美元。 梅西百货美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3072379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
+        },
+        {
           "title": "金十图示：2026年03月17日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260318003025668800",
           "source": "金十数据",
@@ -138,8 +149,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时43分]"
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 19时40分]"
         },
         {
           "title": "金价继续持稳于5000美元整数位心理关口附近",
@@ -181,8 +192,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时25分 ~ 18时43分]"
+          "appearance_count": 13,
+          "time_info": "[07时25分 ~ 19时40分]"
         },
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
