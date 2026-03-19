@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T20:43:33.931561+08:00",
-  "total_titles_processed": 1966,
+  "generated_at": "2026-03-19T22:04:52.696542+08:00",
+  "total_titles_processed": 2083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
@@ -102,6 +102,28 @@
           "time_info": "07时26分"
         },
         {
+          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2318602",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260319214305796800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "美光科技(MU.O)美股盘后涨2%。",
           "url": "https://flash.jin10.com/detail/20260319040336883800",
           "source": "金十数据",
@@ -111,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "美股三大股指集体低开，贵金属概念股大跌",
+          "url": "https://wallstreetcn.com/livenews/3073382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "受银价跌至逾一个月低位影响，银矿股在美股盘前走低，赫克拉矿业公司股价下跌4.9%，科尔黛伦矿业股价下跌5.7%，希尔威金属矿业下跌5.1%，奋进白银下跌6.4%。",
@@ -152,7 +185,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -204,7 +237,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价",
@@ -252,8 +285,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 20时43分]"
+          "appearance_count": 4,
+          "time_info": "[18时33分 ~ 22时04分]"
         },
         {
           "title": "金价下跌能抄底吗",
@@ -276,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "金价有望震荡回升",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9C%89%E6%9C%9B%E9%9C%87%E8%8D%A1%E5%9B%9E%E5%8D%87%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "金价下跌也买不到",
