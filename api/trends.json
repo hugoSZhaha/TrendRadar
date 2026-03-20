@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T22:40:29.480470+08:00",
-  "total_titles_processed": 2008,
+  "generated_at": "2026-03-20T23:36:57.115657+08:00",
+  "total_titles_processed": 2099,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,19 @@
           "time_info": "09时20分"
         },
         {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时39分 ~ 23时36分]"
+        },
+        {
           "title": "美股三大股指集体收跌，道指跌0.4%，纳指和标普500指数均跌0.28%，纳斯达克中国金龙指数收跌1%。",
           "url": "https://flash.jin10.com/detail/20260320040117255800",
           "source": "金十数据",
@@ -68,16 +81,16 @@
           "time_info": "[04时29分 ~ 05时28分]"
         },
         {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
+          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2319906",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时39分 ~ 22时40分]"
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时36分]"
         },
         {
           "title": "美股股指期货跌幅扩大，纳指期货跌超1%，标普500指数期货跌0.75%，道指期货跌0.62%。 美国国债快速走低，美国2年期国债收益率跳升10个基点，至3.89%。 现货黄金日内转跌，现跌0.04%，报4655美元/盎司。",
@@ -89,17 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时31分 ~ 18时32分]"
-        },
-        {
-          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2319906",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 22时40分]"
         },
         {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
@@ -272,7 +274,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "金价暴跌 有金店一天狂卖3斤黄金",
@@ -365,6 +367,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "投机性回调继续，黄金价格下跌",
+          "url": "https://flash.jin10.com/detail/20260320230120400800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "金价暴跌真凶",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E7%9C%9F%E5%87%B6%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -424,8 +437,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时20分 ~ 22时40分]"
+          "appearance_count": 16,
+          "time_info": "[09时20分 ~ 23时36分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -445,9 +458,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
+        },
+        {
+          "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时36分]"
         },
         {
           "title": "美债惊现2008年金融危机前信号！这次会重演吗？",
@@ -459,17 +484,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
-        },
-        {
-          "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
         },
         {
           "title": "周四（3月19日，美联储宣布按兵不动的次日）纽约尾盘，美国10年期基准国债收益率跌1.57个基点，报4.2493%，日内交投于4.3221%-4.2356%区间，在英国央行宣布按兵不动之后刷新日高，北京时间03:00出现一波显著的跳水行情。 两年期美债收益率涨1.74个基点，报3.7924%，日内交投于3.7565%-3.9532%区间，英国央行宣布政策利率决定之后迅速扩大涨幅。",
@@ -489,17 +503,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "国内金饰价格继续下探 老庙黄金领跌",
-          "url": "https://flash.jin10.com/detail/20260320132124842800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
           "title": "黄金白银价格为何双双暴跌",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
           "source": "百度热搜",
@@ -509,8 +512,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时26分 ~ 22时40分]"
+          "appearance_count": 6,
+          "time_info": "[19时26分 ~ 23时36分]"
+        },
+        {
+          "title": "国内金饰价格继续下探 老庙黄金领跌",
+          "url": "https://flash.jin10.com/detail/20260320132124842800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
