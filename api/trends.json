@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-20T13:45:52.907280+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-03-20T14:44:53.029862+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
+          "url": "https://www.cls.cn/detail/2318884",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 14时44分]"
+        },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
           "url": "https://www.cls.cn/detail/2318602",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时50分 ~ 09时20分]"
-        },
-        {
-          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
-          "url": "https://www.cls.cn/detail/2318884",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 13时45分]"
         },
         {
           "title": "欧美股市集体下挫",
@@ -184,11 +184,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时44分]"
         },
         {
           "title": "金价",
@@ -196,11 +197,12 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时44分]"
         },
         {
           "title": "金价持续下跌",
@@ -208,11 +210,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时44分]"
         },
         {
           "title": "杰富瑞集团（Jefferies LLC）分析师Christopher Lafemina在给客户的报告中写道：目前，投资者的注意力集中在利润率上，以及金价下跌和能源/消耗品成本上升这‘双重打击’的潜在风险。 在冲突长期化的情境下，更高的利率预期和更强的美元可能会对黄金施加更多压力。",
@@ -262,7 +265,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -272,8 +275,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 13时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 14时44分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -285,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美债惊现2008年金融危机前信号！这次会重演吗？",
+          "url": "https://flash.jin10.com/detail/20260320141225969800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         },
         {
           "title": "周四（3月19日，美联储宣布按兵不动的次日）纽约尾盘，美国10年期基准国债收益率跌1.57个基点，报4.2493%，日内交投于4.3221%-4.2356%区间，在英国央行宣布按兵不动之后刷新日高，北京时间03:00出现一波显著的跳水行情。 两年期美债收益率涨1.74个基点，报3.7924%，日内交投于3.7565%-3.9532%区间，英国央行宣布政策利率决定之后迅速扩大涨幅。",
@@ -310,7 +324,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
