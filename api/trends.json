@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T16:33:16.878030+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-03-20T17:34:10.757550+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
@@ -97,7 +97,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -119,7 +119,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -185,7 +185,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         }
@@ -222,8 +222,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 16时33分]"
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 17时34分]"
         },
         {
           "title": "金价持续下跌",
@@ -232,11 +232,12 @@
           "ranks": [
             22,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 15时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 17时34分]"
         },
         {
           "title": "金价",
@@ -306,11 +307,12 @@
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 16时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 17时34分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
