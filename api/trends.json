@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T14:44:53.029862+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-03-20T15:41:35.721925+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 14时44分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 15时41分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -185,24 +185,12 @@
           "ranks": [
             20,
             13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时44分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
             21,
-            22,
-            23
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时41分]"
         },
         {
           "title": "金价持续下跌",
@@ -212,6 +200,19 @@
             22,
             25,
             28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时41分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -275,8 +276,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 14时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 15时41分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -296,7 +297,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
