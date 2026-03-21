@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T06:17:29.180431+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-03-22T07:18:13.107944+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时18分]"
         },
         {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
           "url": "https://wallstreetcn.com/articles/3767994",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时18分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -37,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时18分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -79,11 +80,12 @@
           "url": "https://wallstreetcn.com/articles/3768031",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时18分]"
         }
       ]
     }
