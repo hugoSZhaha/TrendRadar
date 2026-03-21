@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T19:17:56.077725+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-03-21T20:32:10.824598+08:00",
+  "total_titles_processed": 1419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时15分 ~ 19时17分]"
+          "appearance_count": 12,
+          "time_info": "[09时15分 ~ 20时32分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时22分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[07时22分 ~ 20时32分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -61,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时58分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[11时58分 ~ 20时32分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -312,6 +312,18 @@
           "time_info": "[13时06分 ~ 15时29分]"
         },
         {
+          "title": "国际金价创43年最大单周跌幅",
+          "url": "https://www.douyin.com/hot/2438620",
+          "source": "抖音",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 20时32分]"
+        },
+        {
           "title": "金价失守4500美元",
           "url": "https://www.douyin.com/hot/2438156",
           "source": "抖音",
@@ -321,17 +333,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
-        },
-        {
-          "title": "国际金价创43年最大单周跌幅",
-          "url": "https://www.douyin.com/hot/2438620",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "强美元与增兵传闻双重夹击 现货金价失守4500大关",
@@ -390,8 +391,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时06分 ~ 19时17分]"
+          "appearance_count": 9,
+          "time_info": "[13时06分 ~ 20时32分]"
         },
         {
           "title": "两年期美债收益率本周涨超18个基点",
