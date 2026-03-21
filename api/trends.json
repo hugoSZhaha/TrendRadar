@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T18:19:47.888914+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-03-21T19:17:56.077725+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 18时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时15分 ~ 19时17分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时22分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 19时17分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -61,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时58分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[11时58分 ~ 19时17分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -386,11 +386,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时06分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[13时06分 ~ 19时17分]"
         },
         {
           "title": "两年期美债收益率本周涨超18个基点",
