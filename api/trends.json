@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T13:06:49.055335+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-03-21T14:34:23.734554+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 13时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 14时34分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 13时06分]"
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 14时34分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -54,11 +54,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 13时06分]"
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 14时34分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -93,6 +94,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 14时34分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌3.82%，报328.28点，本周累计下跌14.50%，3月18-20日持续走低。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.17%，报2319.72点，本周累跌13.87%。 在美股时段交易的原材料指数收跌2.72%，报229.09点，本周累跌6.46%。 在美股时段交易的金属与矿业指数收跌3.29%，报220.05点，本周累跌5.70%。",
@@ -130,18 +144,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时24分 ~ 09时15分]"
-        },
-        {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 13时06分]"
         },
         {
           "title": "超微电脑美股盘后涨1.6%。",
@@ -218,7 +220,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价一周大跌11%",
@@ -251,33 +253,36 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 13时06分]"
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 14时34分]"
         },
         {
           "title": "“你好通胀，再见降息”，值金价10%的跌幅？｜大师复盘",
           "url": "https://flash.jin10.com/detail/20260321113654707800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 14时34分]"
         },
         {
           "title": "金价大跌 情侣火速买五金",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%83%85%E4%BE%A3%E7%81%AB%E9%80%9F%E4%B9%B0%E4%BA%94%E9%87%91",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 14时34分]"
         },
         {
           "title": "金价大跌情侣火速买五金",
@@ -286,9 +291,20 @@
           "ranks": [
             21
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 14时34分]"
+        },
+        {
+          "title": "金价失守4500美元",
+          "url": "https://www.douyin.com/hot/2438156",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时06分"
+          "time_info": "14时34分"
         },
         {
           "title": "强美元与增兵传闻双重夹击 现货金价失守4500大关",
@@ -354,11 +370,12 @@
           "url": "https://wallstreetcn.com/articles/3768031",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 14时34分]"
         }
       ]
     },
