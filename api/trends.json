@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T05:18:33.768512+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-03-22T06:17:29.180431+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时25分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时25分 ~ 06时17分]"
         }
       ]
     },
@@ -82,8 +82,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         }
       ]
     }
