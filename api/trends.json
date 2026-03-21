@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T20:32:10.824598+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-03-21T21:37:58.111962+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时15分 ~ 20时32分]"
+          "appearance_count": 13,
+          "time_info": "[09时15分 ~ 21时37分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -27,11 +27,12 @@
             3,
             2,
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时22分 ~ 20时32分]"
+          "appearance_count": 14,
+          "time_info": "[07时22分 ~ 21时37分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -61,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时58分 ~ 20时32分]"
+          "appearance_count": 12,
+          "time_info": "[11时58分 ~ 21时37分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -161,6 +162,17 @@
           "time_info": "[05时24分 ~ 06时21分]"
         },
         {
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 21时37分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.91%，暂报2625.24点，上周五结束交易以来（7*24）累计下跌3.97%，整体呈现出冲高回落走势。 MarketVectorTM数字资产100中盘指数涨1.60%，报2832.32点，期内累计下跌2.82%。 MarketVector数字资产100指数涨0.61%，报14082.92点。 目前，Solana涨0.08%、期内整体持平，狗狗币涨0.49%、期内累跌2.67%，XRP跌0.57%、期内累涨2.66%。 比特币跌0.66%，暂报69855.50美元，在震荡上行中，于3月17日亚太早盘涨至75997.31美元，3月18日美股开盘前后显著回落；以太坊跌0.26%，暂报2138.38美元，期内累涨1.33%，3月16日迅猛上涨、3月17日亚太盘初曾涨至2385.450美元。",
           "url": "https://wallstreetcn.com/livenews/3074271",
           "source": "华尔街见闻-快讯",
@@ -206,17 +218,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 04时24分]"
-        },
-        {
-          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
-          "url": "https://wallstreetcn.com/articles/3768039",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时19分]"
         },
         {
           "title": "标普500指数ETF美股盘后涨幅扩大至1%。据新华社报道，特朗普宣称正考虑逐步降级对伊朗的军事行动。 景顺QQQ盘后上涨0.9%。",
@@ -276,6 +277,18 @@
           "time_info": "[11时58分 ~ 15时29分]"
         },
         {
+          "title": "国际金价创43年最大单周跌幅",
+          "url": "https://www.douyin.com/hot/2438620",
+          "source": "抖音",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 21时37分]"
+        },
+        {
           "title": "“你好通胀，再见降息”，值金价10%的跌幅？｜大师复盘",
           "url": "https://flash.jin10.com/detail/20260321113654707800",
           "source": "金十数据",
@@ -310,18 +323,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时06分 ~ 15时29分]"
-        },
-        {
-          "title": "国际金价创43年最大单周跌幅",
-          "url": "https://www.douyin.com/hot/2438620",
-          "source": "抖音",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 20时32分]"
         },
         {
           "title": "金价失守4500美元",
@@ -391,8 +392,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时06分 ~ 20时32分]"
+          "appearance_count": 10,
+          "time_info": "[13时06分 ~ 21时37分]"
         },
         {
           "title": "两年期美债收益率本周涨超18个基点",
