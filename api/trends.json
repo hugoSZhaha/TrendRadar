@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T02:42:02.985557+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-03-24T03:43:27.233532+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时43分]"
         },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时43分]"
         },
         {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时43分]"
         },
         {
           "title": "美股期指金银快速反弹",
@@ -47,11 +47,12 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时43分]"
         },
         {
           "title": "美股",
@@ -60,11 +61,12 @@
           "ranks": [
             22,
             18,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时43分]"
         },
         {
           "title": "数字货币市场在美股盘前短线拉升，比特币、以太币目前涨超3%",
@@ -92,8 +94,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时43分]"
         },
         {
           "title": "金价接连失守4500、4400、4300、4200、4100美元，避险功能为何“失灵”？",
@@ -101,22 +103,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 02时42分]"
-        },
-        {
-          "title": "金价大跌后还会回升吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E5%9B%9E%E5%8D%87%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时43分]"
         },
         {
           "title": "金价急跌原因",
@@ -124,6 +116,17 @@
           "source": "微博",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时43分]"
+        },
+        {
+          "title": "金价大跌后还会回升吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E5%9B%9E%E5%8D%87%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
