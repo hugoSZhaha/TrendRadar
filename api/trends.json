@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T12:12:16.804561+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-03-24T13:55:49.049971+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -77,17 +77,6 @@
           "time_info": "[01时02分 ~ 07时25分]"
         },
         {
-          "title": "美伊“撕扯”全球市场，美股指全线反弹收涨，原油暴跌超10%，黄金巨震微跌",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时25分]"
-        },
-        {
           "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
           "url": "https://www.cls.cn/detail/2322200",
           "source": "财联社热门",
@@ -97,8 +86,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 13时55分]"
+        },
+        {
+          "title": "美伊“撕扯”全球市场，美股指全线反弹收涨，原油暴跌超10%，黄金巨震微跌",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时25分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -186,12 +186,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "特朗普TACO效果有限，亚太股市高开低走，美股期货转跌令反弹蒙阴，原油大跌后反弹",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价接连失守4500、4400、4300、4200、4100美元，避险功能为何“失灵”？",
@@ -273,9 +284,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "金价震荡下的金店骗局",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E9%9C%87%E8%8D%A1%E4%B8%8B%E7%9A%84%E9%87%91%E5%BA%97%E9%AA%97%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "有人趁金价大跌买了2公斤黄金",
@@ -284,7 +306,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -302,8 +324,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 13时55分]"
         },
         {
           "title": "周一（3月23日）纽约尾盘，美国10年期国债收益率跌4.75个基点，报4.3321%，北京时间19:05出现一波跳水行情，从4.44%附近迅速跌至4.3005刷新日低。 两年期美债收益率跌6.31个基点，报3.8349%；30年期美债收益率跌3.27个基点，报4.9050%。 2/10年期美债收益率利差涨1.972，报+49.494个基点。 10年期通胀保值国债（TIPS）收益率持平，至1.9893%；两年期TIPS收益率涨12.26个基点，至0.6422%；30年期TIPS收益率跌2.11个基点，至2.6869%。",
