@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T15:49:54.352884+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-03-25T16:40:51.353617+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时00分 ~ 06时23分]"
+        },
+        {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 16时40分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -33,17 +45,6 @@
           "time_info": "[01时00分 ~ 09时23分]"
         },
         {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 15时49分]"
-        },
-        {
           "title": "李大霄解读美股反弹",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
           "source": "bilibili 热搜",
@@ -53,11 +54,12 @@
             14,
             23,
             21,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 15时49分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 16时40分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -154,6 +156,17 @@
           "time_info": "[02时59分 ~ 03时00分]"
         },
         {
+          "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。 Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中心，料年收入150亿。 美股三大股指期货走高，均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3076543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "美元指数周二涨约0.3%，美股收盘后急剧跳水，日元美股盘后瞬间拉升",
           "url": "https://wallstreetcn.com/livenews/3076170",
           "source": "华尔街见闻-快讯",
@@ -185,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "美股太空概念股盘前上扬，DXYZ大涨近15%，Rocket Lab、AST SpaceMobile、Redwire、Planet Labs涨超3%，Destiny Tech100上涨17.7%，消息称SpaceX据悉最快本周递表。",
+          "url": "https://flash.jin10.com/detail/20260325161629723800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "美股收盘：三大股指收跌 Circle大跌20%",
@@ -221,7 +245,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -311,7 +335,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         }
