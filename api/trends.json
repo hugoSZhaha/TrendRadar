@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T19:44:21.021053+08:00",
-  "total_titles_processed": 1717,
+  "generated_at": "2026-03-26T20:56:29.371232+08:00",
+  "total_titles_processed": 1818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时28分 ~ 19时44分]"
+          "appearance_count": 12,
+          "time_info": "[07时28分 ~ 20时56分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时28分 ~ 19时44分]"
+          "appearance_count": 12,
+          "time_info": "[07时28分 ~ 20时56分]"
         },
         {
           "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
@@ -104,6 +104,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-26）",
+          "url": "https://flash.jin10.com/detail/20260326203558390800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "金十图示：2026年03月25日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260326040604173800",
           "source": "金十数据",
@@ -113,6 +124,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "美伊和谈陷入僵局，美股期货全线下跌，布油突破100美元，现货金银跳水",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 20时56分]"
         },
         {
           "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
@@ -125,17 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时31分]"
-        },
-        {
-          "title": "美伊和谈陷入僵局，美股期货全线下跌，布油突破100美元，现货金银跳水",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时44分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨超2.1%，英伟达涨约2%",
@@ -205,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "受银价下跌5%影响，美股上市的银矿股盘前走低。赫克拉矿业下跌4.4%，科埃尔矿业下跌4.3%，西尔弗科普金属下跌4.6%，恩迪沃银业下跌4.2%。",
+          "url": "https://flash.jin10.com/detail/20260326203151213800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美股存储板块盘前走低，美光科技跌近3%，闪迪跌近4%，西部数据跌近3%，希捷科技跌超2%。",
@@ -282,8 +305,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时44分]"
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 20时56分]"
         },
         {
           "title": "10/30年期美债收益率至少跌约3.5个基点",
