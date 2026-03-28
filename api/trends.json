@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T02:31:21.257270+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-03-29T03:25:21.176718+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时25分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时25分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
           "url": "https://wallstreetcn.com/articles/3768633",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时25分]"
         }
       ]
     },
@@ -52,28 +53,30 @@
           "source": "微博",
           "ranks": [
             28,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时25分]"
         },
         {
           "title": "金价又涨了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时25分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
@@ -83,8 +86,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时25分]"
+        },
+        {
+          "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
+          "url": "https://wallstreetcn.com/articles/3768639",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     }
