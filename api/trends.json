@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T13:52:36.748313+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-03-28T14:50:13.816533+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "[00时44分 ~ 07时26分]"
         },
         {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 14时50分]"
+        },
+        {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2327400",
           "source": "财联社热门",
@@ -46,16 +58,15 @@
           "time_info": "[00时44分 ~ 09时22分]"
         },
         {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时25分 ~ 13时52分]"
+          "time_info": "[09时22分 ~ 14时50分]"
         },
         {
           "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
@@ -68,17 +79,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时43分 ~ 09时22分]"
-        },
-        {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 13时52分]"
         },
         {
           "title": "“口头干预”失效，美油重返百元关口，美股道指、纳指跌入修正区间，VIX突破30",
@@ -165,6 +165,17 @@
           "time_info": "[09时22分 ~ 12时12分]"
         },
         {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 14时50分]"
+        },
+        {
           "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
           "url": "https://flash.jin10.com/detail/20260328040624554800",
           "source": "金十数据",
@@ -175,17 +186,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时30分 ~ 05时28分]"
-        },
-        {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
@@ -283,8 +283,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 14时50分]"
         }
       ]
     }
