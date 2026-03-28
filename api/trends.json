@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-28T21:45:50.178577+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-03-28T22:26:04.695455+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 20,
       "titles": [
+        {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时22分 ~ 22时26分]"
+        },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
           "url": "https://wallstreetcn.com/articles/3768527",
@@ -20,18 +32,6 @@
           "time_info": "[00时44分 ~ 07时26分]"
         },
         {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时22分 ~ 21时45分]"
-        },
-        {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
           "url": "https://www.cls.cn/detail/2327695",
           "source": "财联社热门",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时25分 ~ 21时45分]"
+          "appearance_count": 17,
+          "time_info": "[07时25分 ~ 22时26分]"
         },
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时52分 ~ 21时45分]"
+          "appearance_count": 13,
+          "time_info": "[13时52分 ~ 22时26分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -292,11 +292,12 @@
           "source": "微博",
           "ranks": [
             5,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 22时26分]"
         },
         {
           "title": "金价大跌后迎抄底资金，分析师：结构性利好仍存",
@@ -314,7 +315,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
@@ -330,8 +331,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时12分 ~ 21时45分]"
+          "appearance_count": 14,
+          "time_info": "[12时12分 ~ 22时26分]"
         },
         {
           "title": "两年期美债收益率创逾一年新高，随后转而跌约7.4个基点",
@@ -344,6 +345,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时24分 ~ 09时22分]"
+        },
+        {
+          "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
+          "url": "https://wallstreetcn.com/articles/3768639",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         }
       ]
     }
