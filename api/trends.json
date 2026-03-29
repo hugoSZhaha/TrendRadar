@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T18:25:31.799270+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-03-29T19:23:07.135723+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
@@ -94,8 +94,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 18时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 19时23分]"
         },
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -107,8 +107,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时08分 ~ 18时25分]"
+          "appearance_count": 8,
+          "time_info": "[14时08分 ~ 19时23分]"
         }
       ]
     },
