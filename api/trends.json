@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T22:28:00.792431+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-03-29T23:24:49.727369+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -54,19 +54,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时08分 ~ 22时28分]"
+          "appearance_count": 13,
+          "time_info": "[14时08分 ~ 23时24分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国3月官方制造业PMI将公布；周五非农重磅来袭却碰上美股休市",
           "url": "https://flash.jin10.com/detail/20260329214652557800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时27分 ~ 22时28分]"
+          "appearance_count": 3,
+          "time_info": "[22时27分 ~ 23时24分]"
         }
       ]
     },
