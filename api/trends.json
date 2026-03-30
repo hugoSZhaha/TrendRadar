@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T18:10:07.900505+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-03-30T19:51:12.330173+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时39分 ~ 18时10分]"
+          "appearance_count": 9,
+          "time_info": "[12时39分 ~ 19时51分]"
         },
         {
           "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时09分 ~ 18时10分]"
+        },
+        {
+          "title": "中东局势升级，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 19时51分]"
         },
         {
           "title": "美国铝业公司美股盘前涨近9%。",
@@ -100,6 +111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时18分 ~ 16时19分]"
+        },
+        {
+          "title": "美股期货走高，纳斯达克100指数期货涨0.7%，道指期货涨0.7%，标普500指数期货涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3079300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 19时51分]"
         }
       ]
     },
@@ -155,8 +177,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美债扩大涨幅，10年期收益率下跌5个基点至4.37%。",
+          "url": "https://wallstreetcn.com/livenews/3079290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 19时51分]"
+        },
         {
           "title": "避险情绪盖过通胀担忧 美债收益率走低",
           "url": "https://flash.jin10.com/detail/20260330135533643800",
