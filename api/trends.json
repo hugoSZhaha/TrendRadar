@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T12:40:15.503462+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-03-30T14:26:48.933679+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 14时26分]"
         },
         {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
@@ -59,11 +59,12 @@
           "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 14时26分]"
         }
       ]
     },
@@ -103,6 +104,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "避险情绪盖过通胀担忧 美债收益率走低",
+          "url": "https://flash.jin10.com/detail/20260330135533643800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "能源价格高企推升增长风险 摩根士丹利看好美债避险价值",
+          "url": "https://flash.jin10.com/detail/20260330133813876800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         }
       ]
     }
