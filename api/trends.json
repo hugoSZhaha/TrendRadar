@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T09:30:40.223673+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-03-31T12:31:53.392906+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时27分 ~ 09时30分]"
+          "appearance_count": 5,
+          "time_info": "[06时27分 ~ 12时31分]"
         },
         {
           "title": "WTI原油期货价格延续涨势，涨破106美元/桶，日内涨超3%，之前科威特油轮被袭击。 美股期货走低，标普500指数期货现跌0.3%。",
@@ -163,6 +163,17 @@
           "time_info": "[09时29分 ~ 09时30分]"
         },
         {
+          "title": "美股后续会怎么走",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260331040539391800",
           "source": "金十数据",
@@ -221,8 +232,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 09时30分]"
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 12时31分]"
         },
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -263,7 +274,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价下跌刚需客户下手了",
@@ -279,6 +290,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时50分 ~ 07时28分]"
+        },
+        {
+          "title": "鲍威尔暂时压制失控预期，金价这次反抽成色如何？",
+          "url": "https://flash.jin10.com/detail/20260331115806519800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     }
