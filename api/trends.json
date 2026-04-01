@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T22:43:44.024059+08:00",
-  "total_titles_processed": 1881,
+  "generated_at": "2026-04-02T00:19:17.056839+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -15,468 +15,74 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时27分 ~ 22时43分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
+          "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
+          "url": "https://wallstreetcn.com/livenews/3081023",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时27分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时27分 ~ 22时43分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2330950",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时28分]"
-        },
-        {
-          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
-          "url": "https://www.cls.cn/detail/2331350",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 14时24分]"
-        },
-        {
-          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
-          "url": "https://www.cls.cn/detail/2331315",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时27分 ~ 14时24分]"
-        },
-        {
-          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
-          "url": "https://www.cls.cn/detail/2331277",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时31分 ~ 12时42分]"
-        },
-        {
-          "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 05时32分]"
-        },
-        {
-          "title": "耐克美股盘前跌超9%，此前公司意外下调第四财季销售额预期。",
-          "url": "https://wallstreetcn.com/livenews/3080739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 16时12分]"
-        },
-        {
-          "title": "半导体ETF收涨超5.7%，在3月份收官日领跑美股行业ETF，一季度能源业ETF涨37.9%",
-          "url": "https://wallstreetcn.com/livenews/3080358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时36分 ~ 05时32分]"
-        },
-        {
-          "title": "黄金ETF收跌将近3.8%，领跌美股大类资产类ETF，一季度布油基金涨超83%",
-          "url": "https://wallstreetcn.com/livenews/3080383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 06时27分]"
-        },
-        {
-          "title": "美股后续会怎么走",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时51分]"
-        },
-        {
-          "title": "美元指数短线小幅走低，现报99.51。美股期货短线小幅走低，纳斯达克100指数期货涨幅收窄至0.9%。美国10年期国债收益率短线拉升，现报4.292%。现货黄金短线拉升约7美元，现报4743.31美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3080918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时01分]"
-        },
-        {
-          "title": "美股短线走强，纳指涨超3%，标普500指数、道指涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260401004225097800",
+          "title": "礼来(LLY.N)美股涨超4%，减肥药Foundayo在美获批。",
+          "url": "https://flash.jin10.com/detail/20260401233848260800",
           "source": "金十数据",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
-        },
-        {
-          "title": "金十图示：2026年03月31日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260401003322867800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
-        },
-        {
-          "title": "金十图示：2026年03月31日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260401003320625800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
-        },
-        {
-          "title": "美国3月ADP就业数据公布后，美元指数、美股期货短线波动不大",
-          "url": "https://wallstreetcn.com/livenews/3080904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时01分]"
-        },
-        {
-          "title": "交易员称美股本轮劲扬主要由空头回补所致 并非伊朗和平前景",
-          "url": "https://wallstreetcn.com/livenews/3080893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时01分]"
-        },
-        {
-          "title": "美股暴涨 三大股指悉数收高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9A%B4%E6%B6%A8+%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E6%82%89%E6%95%B0%E6%94%B6%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "美股创下去年5月以来的最大单日涨幅 月线仍跌约5%",
-          "url": "https://flash.jin10.com/detail/20260401040945485800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "金十图示：2026年03月31日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260401040550571800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "金十图示：2026年03月31日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260401040516716800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美股收盘：三大股指大涨 纳指涨3.8%",
-          "url": "https://flash.jin10.com/detail/20260401040119992800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "纽约银日内涨幅达7.0%，报75.52美元/盎司。 临近美股收盘，纳斯达克100指数涨幅扩大至3.5%，标普500指数涨3%，道指涨1152点、涨幅2.55%，纳指涨超3.9%，生物科技指数涨4.65%，半导体指数涨6.1%，银行指数涨3.6%，罗素2000指数涨3.3%。",
-          "url": "https://wallstreetcn.com/livenews/3080348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "00时19分"
         },
         {
           "title": "美股三大指数高开 耐克跌超12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
           "source": "百度热搜",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "美股三大股指集体收涨纳指涨超3.8%",
-          "url": "https://www.toutiao.com/trending/7623563069813165609/",
-          "source": "今日头条",
-          "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "00时19分"
         },
         {
-          "title": "美股涨幅扩大，纳指涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3080958",
-          "source": "华尔街见闻-快讯",
+          "title": "美股太空股上涨，Intuitive Machines涨8.7%，Rocket Lab涨4.8%， Planet Labs涨8.4%，Howmet Aerospace涨3.1%。",
+          "url": "https://flash.jin10.com/detail/20260401232819708800",
+          "source": "金十数据",
           "ranks": [
-            30
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时27分]"
+          "time_info": "00时19分"
         },
         {
-          "title": "瑞穗证券：如果伊朗局势趋稳 美债收益率的风险溢价有望进一步收窄",
-          "url": "https://wallstreetcn.com/livenews/3080740",
-          "source": "华尔街见闻-快讯",
+          "title": "美股Destiny Tech100成交量激增；现涨8%，报道称SpaceX已秘密提交IPO申请。",
+          "url": "https://flash.jin10.com/detail/20260401232552665800",
+          "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 16时12分]"
-        },
-        {
-          "title": "美国10年期国债收益率短线从4.29%下方拉升至4.32%上方，日内整体跌幅收窄至不足2.8个基点，月末、季度末成交量突出。 30年期美债收益率从4.87%附近的日低反抽，转而涨至4.9213%刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3080359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时36分 ~ 05时32分]"
-        },
-        {
-          "title": "分析师：美债下行空间受阻 十年期收益率年难破4%关口",
-          "url": "https://flash.jin10.com/detail/20260401155856877800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 16时12分]"
-        },
-        {
-          "title": "在零售销售数据公布后，两年期美债收益率小幅上扬，但日内仍处于下跌态势，跌幅1.4个基点，现报3.785%。",
-          "url": "https://flash.jin10.com/detail/20260401203542184800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时01分]"
-        },
-        {
-          "title": "美债及欧洲国债全线上扬 市场猜测伊朗冲突或将很快结束",
-          "url": "https://wallstreetcn.com/livenews/3080732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 16时12分]"
-        },
-        {
-          "title": "最重要的变化？美债“脱钩”，市场嗅到了“全球财政刺激”的味道",
-          "url": "https://wallstreetcn.com/articles/3768816",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "特朗普停战预期引发美债反弹 能源通胀威胁暂告段落",
-          "url": "https://flash.jin10.com/detail/20260401155442134800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 16时12分]"
-        },
-        {
-          "title": "美债涨幅收窄，此前2月零售销售数据超出预期。",
-          "url": "https://flash.jin10.com/detail/20260401203258836800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时01分]"
-        },
-        {
-          "title": "2/10年期美债收益率周二跌超3个基点，两年期美债收益率在3月份累涨约42个基点",
-          "url": "https://wallstreetcn.com/livenews/3080394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "佣金价格战逼近极限，券商打起“靓号”牌",
-          "url": "https://wallstreetcn.com/livenews/3080413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "中东风险溢价松动，金价终于不用看油价脸色了？",
-          "url": "https://flash.jin10.com/detail/20260401141042843800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "金价急跌急涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E8%B7%8C%E6%80%A5%E6%B6%A8%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时12分"
+          "time_info": "00时19分"
         }
       ]
     }
