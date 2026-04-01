@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T02:51:10.585148+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-04-02T03:54:33.578936+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时54分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时54分]"
         },
         {
           "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
@@ -48,11 +48,12 @@
           "ranks": [
             17,
             16,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时54分]"
         },
         {
           "title": "礼来(LLY.N)美股涨超4%，减肥药Foundayo在美获批。",
@@ -98,11 +99,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E9%80%9F%E4%B8%8A%E6%B6%A8%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 02时51分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时54分]"
         }
       ]
     }
