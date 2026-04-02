@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T06:26:06.608629+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-04-03T07:28:36.246157+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 07时28分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -95,6 +95,17 @@
           "time_info": "[00时49分 ~ 00时50分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
           "url": "https://flash.jin10.com/detail/20260403040200866800",
           "source": "金十数据",
@@ -105,6 +116,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时31分]"
+        },
+        {
+          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
+          "url": "https://wallstreetcn.com/articles/3769043",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 07时28分]"
         },
         {
           "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
@@ -165,17 +187,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 06时26分]"
-        },
-        {
-          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
-          "url": "https://wallstreetcn.com/articles/3769043",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时44分]"
         }
       ]
     },
@@ -191,11 +202,12 @@
             30,
             23,
             21,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时44分 ~ 06时26分]"
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 07时28分]"
         },
         {
           "title": "10年期美债收益率周四冲高回落，本周仍累跌超12个基点",
