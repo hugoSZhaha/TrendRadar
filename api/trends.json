@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T16:02:24.317465+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-04-02T17:06:18.282845+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
@@ -19,17 +19,6 @@
           "time_info": "[00时19分 ~ 06时30分]"
         },
         {
-          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
-          "url": "https://wallstreetcn.com/articles/3768936",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时41分 ~ 16时02分]"
-        },
-        {
           "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2332707",
           "source": "财联社热门",
@@ -41,6 +30,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时29分 ~ 14时08分]"
+        },
+        {
+          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时41分 ~ 17时06分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -325,7 +326,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -354,11 +355,12 @@
           "ranks": [
             8,
             10,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 17时06分]"
         }
       ]
     }
