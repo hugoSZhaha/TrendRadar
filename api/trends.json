@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T02:45:33.286976+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-04-03T03:44:39.397011+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时44分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -46,11 +46,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时44分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -61,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时44分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -70,11 +71,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时44分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -82,11 +84,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时44分]"
         },
         {
           "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
@@ -107,9 +110,26 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "03时44分"
         }
       ]
     }
