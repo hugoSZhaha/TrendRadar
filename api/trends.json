@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T03:44:39.397011+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-03T04:28:30.982618+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -15,8 +15,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时28分]"
+        },
+        {
+          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2333830",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时28分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -41,19 +54,6 @@
           "time_info": "[00时49分 ~ 00时50分]"
         },
         {
-          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2333830",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时44分]"
-        },
-        {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
           "url": "https://wallstreetcn.com/articles/3768936",
           "source": "华尔街见闻",
@@ -62,8 +62,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时28分]"
+        },
+        {
+          "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
+          "url": "https://flash.jin10.com/detail/20260403040200866800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -75,8 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时28分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -85,11 +96,12 @@
           "ranks": [
             23,
             27,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时28分]"
         },
         {
           "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
@@ -125,11 +137,12 @@
           "url": "https://www.douyin.com/hot/2452076",
           "source": "抖音",
           "ranks": [
-            30
+            30,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 04时28分]"
         }
       ]
     }
