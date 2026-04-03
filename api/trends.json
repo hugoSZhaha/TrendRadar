@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T09:28:55.141271+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-04-03T12:25:07.569461+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
@@ -74,6 +74,18 @@
           "time_info": "[00时49分 ~ 06时26分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 12时25分]"
+        },
+        {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260403003135168800",
           "source": "金十数据",
@@ -94,17 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 00时50分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 09时28分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -221,6 +222,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 06时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价修复半路夭折，旧剧本又回来了？",
+          "url": "https://flash.jin10.com/detail/20260403114755666800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 12时25分]"
         }
       ]
     }
