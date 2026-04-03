@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T19:33:33.480457+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2026-04-03T20:44:34.788236+08:00",
+  "total_titles_processed": 1770,
   "failed_sources": [],
   "trends": [
     {
@@ -193,6 +193,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价修复半路夭折，旧剧本又回来了？",
+          "url": "https://flash.jin10.com/detail/20260403114755666800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 12时25分]"
+        },
+        {
+          "title": "DeepTalk：18个月后金价或达6000美元，但这次为何“不按剧本走”？",
+          "url": "https://flash.jin10.com/detail/20260403200646662800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -222,23 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 06时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价修复半路夭折，旧剧本又回来了？",
-          "url": "https://flash.jin10.com/detail/20260403114755666800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
         }
       ]
     }
