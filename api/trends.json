@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T12:25:07.569461+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-04-03T14:08:38.128553+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时49分 ~ 09时28分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 14时08分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -72,18 +84,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时49分 ~ 06时26分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 12时25分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
