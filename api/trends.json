@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T22:41:07.392219+08:00",
-  "total_titles_processed": 1966,
+  "generated_at": "2026-04-03T23:35:29.506490+08:00",
+  "total_titles_processed": 2025,
   "failed_sources": [],
   "trends": [
     {
@@ -125,11 +125,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 23时35分]"
         },
         {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
