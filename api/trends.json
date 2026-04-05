@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T20:39:26.964130+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-04-05T21:49:38.463232+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260405200932018800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时49分]"
         },
         {
           "title": "金价卷到老祖宗那边了吗",
