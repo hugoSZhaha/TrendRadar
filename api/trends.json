@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T16:48:21.066492+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-04-07T18:02:31.658851+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 16时48分]"
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 18时02分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -155,7 +155,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
