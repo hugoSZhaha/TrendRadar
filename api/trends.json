@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T01:52:58.522094+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-04-08T02:53:17.611506+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时53分]"
         },
         {
           "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时53分]"
         }
       ]
     },
