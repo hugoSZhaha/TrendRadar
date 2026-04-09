@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T09:24:38.548397+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-04-09T12:28:07.759376+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -45,6 +45,17 @@
           "time_info": "[00时53分 ~ 05时36分]"
         },
         {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时40分 ~ 12时28分]"
+        },
+        {
           "title": "美股三大指数大幅高开 纳指涨3.65%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
           "source": "百度热搜",
@@ -56,27 +67,17 @@
           "time_info": "[00时53分 ~ 07时40分]"
         },
         {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 09时24分]"
-        },
-        {
           "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
           "url": "https://www.cls.cn/detail/2338535",
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 09时24分]"
+          "appearance_count": 4,
+          "time_info": "[07时40分 ~ 12时28分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
@@ -162,13 +163,24 @@
           "time_info": "[06时32分 ~ 07时40分]"
         },
         {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时28分]"
+        },
+        {
           "title": "美股三大指数均涨超2% 能源巨头重挫",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E6%B6%A8%E8%B6%852%25+%E8%83%BD%E6%BA%90%E5%B7%A8%E5%A4%B4%E9%87%8D%E6%8C%AB",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -256,7 +268,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
@@ -288,6 +300,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价走势“先涨后疑”，市场又在重算什么？",
+          "url": "https://flash.jin10.com/detail/20260409115543509800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时28分]"
         }
       ]
     }
