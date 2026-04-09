@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T12:28:07.759376+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-04-09T14:17:31.947131+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
@@ -52,19 +52,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 12时28分]"
-        },
-        {
-          "title": "美股三大指数大幅高开 纳指涨3.65%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 14时17分]"
         },
         {
           "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
@@ -76,8 +65,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 14时17分]"
+        },
+        {
+          "title": "美股三大指数大幅高开 纳指涨3.65%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时40分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
@@ -127,6 +127,17 @@
           "time_info": "[05时05分 ~ 05时36分]"
         },
         {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时17分]"
+        },
+        {
           "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
           "url": "https://wallstreetcn.com/livenews/3084561",
           "source": "华尔街见闻-快讯",
@@ -161,17 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时40分]"
-        },
-        {
-          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
-          "url": "https://www.cls.cn/detail/2338764",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
         },
         {
           "title": "美股三大指数均涨超2% 能源巨头重挫",
