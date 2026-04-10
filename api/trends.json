@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T07:33:09.395316+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-04-10T09:48:25.528012+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2339594",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 09时48分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -39,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 07时33分]"
+          "appearance_count": 4,
+          "time_info": "[06时34分 ~ 09时48分]"
         },
         {
           "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
