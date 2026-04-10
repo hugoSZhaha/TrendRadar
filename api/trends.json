@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T00:42:37.767455+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-11T01:42:34.561675+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://flash.jin10.com/detail/20260411003357698800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时42分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260411003343083800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时42分]"
         }
       ]
     }
