@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-10T09:48:25.528012+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-04-10T12:42:02.105682+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
+        {
+          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
+          "url": "https://www.cls.cn/detail/2339795",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时34分 ~ 12时42分]"
+        },
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
           "url": "https://www.cls.cn/detail/2339594",
@@ -30,18 +43,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时59分 ~ 06时34分]"
-        },
-        {
-          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
-          "url": "https://www.cls.cn/detail/2339795",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时34分 ~ 09时48分]"
         },
         {
           "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
@@ -174,8 +175,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价从抢修复到验成色，今晚CPI会否再补一刀？",
+          "url": "https://flash.jin10.com/detail/20260410122730427800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
         {
           "title": "美伊停火协议难止冲突，纳指涨0.06%，标普跌0.05%，油价强势反弹，金价4720美元震荡",
           "url": "https://wallstreetcn.com/articles/3769555",
