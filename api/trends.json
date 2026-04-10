@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T06:29:56.113414+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-04-11T07:29:13.316195+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[04时27分 ~ 07时29分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -28,8 +28,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[04时27分 ~ 07时29分]"
+        },
+        {
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
+          "url": "https://flash.jin10.com/detail/20260411040442253800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时27分 ~ 07时29分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -54,18 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时42分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
-          "url": "https://flash.jin10.com/detail/20260411040442253800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时29分]"
         },
         {
           "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
