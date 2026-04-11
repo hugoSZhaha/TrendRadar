@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T09:26:48.231023+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-04-11T12:15:15.858247+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "url": "https://www.cls.cn/detail/2341126",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 09时26分]"
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 12时15分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
