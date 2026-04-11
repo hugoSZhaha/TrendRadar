@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T20:39:00.266621+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-04-11T21:51:17.762323+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时28分 ~ 20时39分]"
+          "appearance_count": 16,
+          "time_info": "[07时28分 ~ 21时51分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -49,6 +49,20 @@
           "time_info": "[04时27分 ~ 09时26分]"
         },
         {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 21时51分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
           "url": "https://flash.jin10.com/detail/20260411040442253800",
           "source": "金十数据",
@@ -59,19 +73,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时27分 ~ 07时29分]"
-        },
-        {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 20时39分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
