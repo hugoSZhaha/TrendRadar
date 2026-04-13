@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T15:11:32.222201+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-04-13T17:29:58.100577+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "李大霄解读美股单周表现",
@@ -47,15 +47,37 @@
           "time_info": "[06时26分 ~ 07时27分]"
         },
         {
+          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "美国“封锁”逼近，布油破百，黄金重挫，铝价四年新高，美股期货下跌",
           "url": "https://wallstreetcn.com/articles/3769784",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "由于油价上涨，美股盘前旅游类股纷纷下跌，美国航空(AAL.O)、达美航空(DAL.N)、西南航空(LUV.N)等下跌2.4%，美国联合航空(UAL.O)跌3.2%，阿拉斯加航空下跌2%。",
+          "url": "https://flash.jin10.com/detail/20260413171038182800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         }
       ]
     },
@@ -68,11 +90,12 @@
           "url": "https://www.cls.cn/detail/2341771",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 17时29分]"
         }
       ]
     }
