@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T07:27:47.060899+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-04-13T09:55:38.812612+08:00",
+  "total_titles_processed": 721,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 09时55分]"
         },
         {
           "title": "国际油价开盘跳涨，美股期货跌超1%",
