@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T21:07:16.958375+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2026-04-14T23:08:11.342495+08:00",
+  "total_titles_processed": 1851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时45分 ~ 06时51分]"
+        },
+        {
+          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
         },
         {
           "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览（美股盘中）",
@@ -164,6 +175,17 @@
           "time_info": "[04时45分 ~ 05时40分]"
         },
         {
+          "title": "美股高开 中概股普涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80+%E4%B8%AD%E6%A6%82%E8%82%A1%E6%99%AE%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
+        {
           "title": "WTI原油周二开盘持稳，美股股指期货微涨，现货黄金小幅高开。",
           "url": "https://flash.jin10.com/detail/20260414060118981800",
           "source": "金十数据",
@@ -181,7 +203,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -214,7 +236,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -225,7 +247,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         }
