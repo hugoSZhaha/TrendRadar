@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T16:31:49.691862+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-04-14T18:09:49.622352+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
@@ -161,6 +161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时50分 ~ 06时51分]"
+        },
+        {
+          "title": "贝莱德强势看多美股！地缘风险降温与盈利飙升成关键推手",
+          "url": "https://flash.jin10.com/detail/20260414174441223800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "美国航空公司（AAL）美股盘后涨10%。",
