@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T02:01:50.913949+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-04-16T03:25:07.897143+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时25分]"
         }
       ]
     },
@@ -56,8 +56,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时25分]"
         }
       ]
     }
