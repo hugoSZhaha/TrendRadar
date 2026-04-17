@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T00:46:16.955638+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-18T01:42:59.985279+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时42分]"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时42分]"
+        },
+        {
+          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2347815",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时42分]"
         },
         {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -35,17 +48,6 @@
           "source": "金十数据",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
-        },
-        {
-          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2347815",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
