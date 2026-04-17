@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T02:46:55.496141+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-04-18T03:54:19.759472+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时54分]"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时54分]"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时54分]"
         },
         {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -71,7 +71,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -82,7 +82,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         }
