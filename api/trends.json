@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T22:38:20.894533+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2026-04-18T23:32:11.136063+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时32分 ~ 22时38分]"
+          "appearance_count": 18,
+          "time_info": "[07时32分 ~ 23时32分]"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
@@ -250,8 +250,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时26分 ~ 22时38分]"
+          "appearance_count": 15,
+          "time_info": "[12时26分 ~ 23时32分]"
         }
       ]
     },
