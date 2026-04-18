@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T14:09:55.819230+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-04-18T15:56:37.177671+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 12时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 15时56分]"
         },
         {
           "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
@@ -53,11 +53,12 @@
             10,
             5,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 14时09分]"
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 15时56分]"
         },
         {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -228,7 +229,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         }
@@ -244,11 +245,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 14时09分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 15时56分]"
         }
       ]
     },
@@ -263,9 +265,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 15时56分]"
         }
       ]
     },
