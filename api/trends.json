@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T19:30:54.630350+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-04-19T20:42:00.247474+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
@@ -20,28 +20,30 @@
           "time_info": "[00时31分 ~ 14时26分]"
         },
         {
+          "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
+          "url": "https://wallstreetcn.com/articles/3770345",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 20时42分]"
+        },
+        {
           "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
           "url": "https://wallstreetcn.com/articles/3770342",
           "source": "华尔街见闻",
           "ranks": [
             9,
             8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时26分 ~ 19时30分]"
-        },
-        {
-          "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
-          "url": "https://wallstreetcn.com/articles/3770345",
-          "source": "华尔街见闻",
-          "ranks": [
+            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 19时30分]"
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 20时42分]"
         }
       ]
     },
@@ -62,8 +64,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 19时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 20时42分]"
         },
         {
           "title": "洪灏：黄金价格翻倍“没有悬念”",
