@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T18:33:11.029991+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-04-19T19:30:54.630350+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时26分 ~ 18时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时26分 ~ 19时30分]"
         },
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时33分]"
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 19时30分]"
         }
       ]
     },
@@ -58,11 +58,12 @@
             7,
             9,
             8,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 18时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 19时30分]"
         },
         {
           "title": "洪灏：黄金价格翻倍“没有悬念”",
