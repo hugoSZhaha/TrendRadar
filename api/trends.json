@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T05:40:36.970409+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-04-21T06:36:39.032708+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -23,46 +23,23 @@
           "url": "https://www.cls.cn/detail/2349767",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时36分]"
         },
         {
-          "title": "Snap美股盘后跌2.8%，该公司CFO Derek Andersen离职。",
-          "url": "https://wallstreetcn.com/livenews/3091337",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周一（4月20日），美国科技股七巨头（Magnificent 7）指数跌0.54%，报209.52点。 “超大”市值科技股指数跌0.88%，报405.82点。",
-          "url": "https://wallstreetcn.com/livenews/3091326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时40分]"
-        },
-        {
-          "title": "Peabody Energy美股盘后涨3.6%，白宫称特朗普签署煤炭相关的备忘录。",
-          "url": "https://wallstreetcn.com/livenews/3091324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时40分]"
+          "time_info": "06时36分"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
@@ -72,8 +49,46 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 05时40分]"
+          "appearance_count": 5,
+          "time_info": "[02时55分 ~ 06时36分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（4月20日），美国科技股七巨头（Magnificent 7）指数跌0.54%，报209.52点。 “超大”市值科技股指数跌0.88%，报405.82点。",
+          "url": "https://wallstreetcn.com/livenews/3091326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 06时36分]"
+        },
+        {
+          "title": "Peabody Energy美股盘后涨3.6%，白宫称特朗普签署煤炭相关的备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3091324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 06时36分]"
+        },
+        {
+          "title": "Snap美股盘后跌2.8%，该公司CFO Derek Andersen离职。",
+          "url": "https://wallstreetcn.com/livenews/3091337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时36分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，布油基金收涨超4.3%，新兴市场ETF、黄金ETF至多跌超0.8%",
@@ -100,6 +115,18 @@
           "time_info": "[04时40分 ~ 05时40分]"
         },
         {
+          "title": "迈威尔科技/美满科技美股盘后涨3%，其客户亚马逊与Anthropic达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3091332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时36分]"
+        },
+        {
           "title": "金十图示：2026年04月20日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260421040558354800",
           "source": "金十数据",
@@ -122,17 +149,6 @@
           "time_info": "04时40分"
         },
         {
-          "title": "迈威尔科技/美满科技美股盘后涨3%，其客户亚马逊与Anthropic达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3091332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
           "title": "美股收盘：纳指13连涨终结 英特尔跌4%",
           "url": "https://flash.jin10.com/detail/20260421040124506800",
           "source": "金十数据",
@@ -144,13 +160,24 @@
           "time_info": "04时40分"
         },
         {
+          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
+          "url": "https://www.cls.cn/detail/2350040",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
           "title": "苹果(AAPL.O)美股盘后跌超1%，该公司宣布约翰·特纳斯将成为CEO。",
           "url": "https://flash.jin10.com/detail/20260421043157265800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         }
