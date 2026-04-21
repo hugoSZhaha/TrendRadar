@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T01:55:11.395142+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-04-22T03:01:51.959018+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时01分]"
         },
         {
           "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时01分]"
         },
         {
           "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时01分]"
         }
       ]
     }
