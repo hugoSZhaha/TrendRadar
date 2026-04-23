@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T07:40:54.550672+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-04-23T09:54:27.217572+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,19 @@
           "time_info": "[00时52分 ~ 04时45分]"
         },
         {
+          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
+          "url": "https://www.cls.cn/detail/2352859",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时40分 ~ 09时54分]"
+        },
+        {
           "title": "IBM(IBM.N)美股盘后跌8%。",
           "url": "https://flash.jin10.com/detail/20260423042334674800",
           "source": "金十数据",
@@ -55,18 +68,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时44分 ~ 05时44分]"
-        },
-        {
-          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
-          "url": "https://www.cls.cn/detail/2352859",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时40分 ~ 07时40分]"
         },
         {
           "title": "周三（4月22日），美股行业ETF多数收涨，半导体ETF涨2.62%，全球科技股指数ETF、科技行业ETF至少涨2.20%，能源业ETF涨1.20%，银行业ETF跌0.59%，全球航空业ETF跌3.25%。",
@@ -247,7 +248,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -269,7 +270,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -280,7 +281,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         }
@@ -295,11 +296,12 @@
           "url": "https://www.cls.cn/detail/2352894",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 09时54分]"
         }
       ]
     }
