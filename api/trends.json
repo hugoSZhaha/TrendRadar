@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T12:46:44.399069+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-04-23T14:57:57.795329+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时40分 ~ 12时46分]"
+          "appearance_count": 6,
+          "time_info": "[06时40分 ~ 14时57分]"
         },
         {
           "title": "IBM(IBM.N)美股盘后跌8%。",
@@ -301,8 +301,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时40分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[07时40分 ~ 14时57分]"
         },
         {
           "title": "停火延长只换来一天喘息，金价找平衡还要持续多久？",
@@ -311,7 +311,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         }
