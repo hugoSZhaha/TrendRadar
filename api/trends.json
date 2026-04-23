@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T19:56:03.068681+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-04-23T21:07:04.306972+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时40分 ~ 14时57分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3093319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "IBM(IBM.N)美股盘后跌8%。",
