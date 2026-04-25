@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T14:17:33.906622+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-04-25T16:02:37.619871+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时47分 ~ 06时34分]"
+        },
+        {
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时34分 ~ 16时02分]"
         },
         {
           "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
@@ -67,19 +81,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时39分 ~ 07时35分]"
-        },
-        {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时34分 ~ 14时17分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
@@ -208,11 +209,12 @@
           "source": "微博",
           "ranks": [
             28,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 14时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 16时02分]"
         }
       ]
     },
@@ -244,8 +246,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 14时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 16时02分]"
         }
       ]
     }
