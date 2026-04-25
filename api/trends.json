@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T02:39:15.239637+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-04-26T03:39:57.512434+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时39分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 02时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 03时39分]"
         }
       ]
     },
