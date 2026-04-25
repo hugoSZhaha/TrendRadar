@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T17:44:32.096736+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-04-25T18:37:31.918489+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时34分 ~ 17时44分]"
+          "appearance_count": 9,
+          "time_info": "[06时34分 ~ 18时37分]"
         },
         {
           "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
@@ -244,11 +244,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 17时44分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 18时37分]"
         }
       ]
     }
