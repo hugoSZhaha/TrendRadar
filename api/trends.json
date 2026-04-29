@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T16:03:56.269357+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-04-29T18:49:07.500359+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -102,8 +102,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时03分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 18时49分]"
         },
         {
           "title": "全球央行在一季度金价大幅波动期间“大量购入”黄金",
@@ -112,7 +112,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         }
@@ -130,8 +130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时46分 ~ 16时03分]"
+          "appearance_count": 7,
+          "time_info": "[07时46分 ~ 18时49分]"
         }
       ]
     }
