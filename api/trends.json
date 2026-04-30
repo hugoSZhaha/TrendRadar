@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T18:48:52.246319+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-04-30T20:10:51.155081+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -233,6 +233,18 @@
           "time_info": "[01时20分 ~ 10时09分]"
         },
         {
+          "title": "影响金价的关键因素是什么",
+          "url": "https://www.douyin.com/hot/2482875",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 20时10分]"
+        },
+        {
           "title": "国际金价继续回撤至4500美元附近",
           "url": "https://www.toutiao.com/trending/7634171899290848787/",
           "source": "今日头条",
@@ -243,17 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 03时12分]"
-        },
-        {
-          "title": "影响金价的关键因素是什么",
-          "url": "https://www.douyin.com/hot/2482875",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
         }
       ]
     },
@@ -270,8 +271,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时50分 ~ 18时48分]"
+          "appearance_count": 9,
+          "time_info": "[06时50分 ~ 20时10分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
