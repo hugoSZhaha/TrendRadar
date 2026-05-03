@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T17:16:16.363590+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-05-03T18:47:10.851872+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,25 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 17时16分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 18时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一周展望：美伊又到抉择时刻！非农难助金价破局，日本黄金周藏杀机！",
+          "url": "https://flash.jin10.com/detail/20260503172004371800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
         }
       ]
     }
