@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T07:45:42.343840+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-05-05T10:04:30.015386+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 07时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 10时04分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
@@ -81,6 +81,17 @@
           "time_info": "[05时01分 ~ 06时05分]"
         },
         {
+          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
+          "url": "https://www.cls.cn/detail/2362725",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260505040750463800",
           "source": "金十数据",
@@ -131,7 +142,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -161,8 +172,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 07时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 10时04分]"
         },
         {
           "title": "2/10年期美债收益率涨约7个基点",
