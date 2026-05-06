@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-06T19:00:42.389586+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-05-06T20:27:35.193999+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
+          "url": "https://www.cls.cn/detail/2363413",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 20时27分]"
+        },
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
           "url": "https://www.cls.cn/detail/2362725",
@@ -45,19 +58,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 06时10分]"
-        },
-        {
-          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
-          "url": "https://www.cls.cn/detail/2363413",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 19时00分]"
         },
         {
           "title": "美伊接近达成停战备忘录，美股期指短线拉升，美油暴跌10%，黄金涨超3%触及4700美元",
@@ -125,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "美伊接近达成停战备忘录，美油暴跌12%，布油重挫10%，美股期指短线拉升，黄金触及4700美元",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "美股盘前，AMD大涨超16%，公司Q1营收超预期增长38%，二季度指引超预期；存储芯片概念股延续涨势，美光科技涨超5%，闪迪涨超6%。英特尔涨超5%，苹果正考虑与英特尔和三星合作，为其生产主要设备芯片。",
@@ -259,7 +270,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
         },
@@ -292,6 +303,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
+          "url": "https://www.zhihu.com/question/2032416656081802662",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时00分 ~ 20时27分]"
+        },
+        {
           "title": "金价跳水是机会还是坑",
           "url": "https://www.toutiao.com/trending/7636354274716290614/",
           "source": "今日头条",
@@ -315,17 +338,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
-        },
-        {
-          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
-          "url": "https://www.zhihu.com/question/2032416656081802662",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时00分"
         },
         {
           "title": "金价涨超0.7%，自4500美元附近反弹",
