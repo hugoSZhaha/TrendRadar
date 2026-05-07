@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T10:06:12.509914+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2026-05-07T13:54:36.463904+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时42分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[06时42分 ~ 13时54分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 10时06分]"
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 13时54分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
