@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T10:13:02.968562+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-05-08T13:24:52.864217+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 13时24分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -73,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 13时24分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股收跌，油价走V，黄金冲高转跌",
@@ -187,11 +187,12 @@
           "url": "https://wallstreetcn.com/articles/3771769",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 13时24分]"
         },
         {
           "title": "金价破4700追不追",
