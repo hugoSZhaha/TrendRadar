@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T07:02:37.060711+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-05-08T10:13:02.968562+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -30,6 +30,19 @@
           "time_info": "[00时14分 ~ 06时01分]"
         },
         {
+          "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2365305",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 10时13分]"
+        },
+        {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
           "url": "https://wallstreetcn.com/articles/3771706",
           "source": "华尔街见闻",
@@ -42,17 +55,26 @@
           "time_info": "[00时14分 ~ 07时02分]"
         },
         {
-          "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2365305",
-          "source": "财联社热门",
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            11,
-            12
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时02分]"
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
+          "url": "https://www.cls.cn/detail/2365503",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股收跌，油价走V，黄金冲高转跌",
@@ -61,7 +83,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -158,8 +180,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
+          "url": "https://wallstreetcn.com/articles/3771769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
         {
           "title": "金价破4700追不追",
           "url": "https://www.toutiao.com/trending/7637144466515578431/",
@@ -178,7 +211,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -186,8 +219,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美联储“三把手”：美债需求依然巨大，确保将通胀拉回2%",
+          "url": "https://flash.jin10.com/detail/20260508093731503800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
         {
           "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
           "url": "https://wallstreetcn.com/livenews/3100167",
