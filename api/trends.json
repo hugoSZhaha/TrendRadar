@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T16:02:44.036320+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-05-10T18:07:06.458925+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 18时07分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
@@ -50,7 +51,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
