@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T02:58:28.982416+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-05-13T04:28:28.593329+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时28分]"
         },
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
@@ -28,8 +28,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时28分]"
+        },
+        {
+          "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260513040531113800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "金十图示：2026年05月12日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260513040527279800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
@@ -39,8 +61,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时28分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 芯片股显著回调",
+          "url": "https://flash.jin10.com/detail/20260513040053768800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "算力热潮暂歇：美股芯片与半导体设备股同步回落",
