@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T07:52:13.901684+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-05-12T10:11:39.251225+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -17,8 +17,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 10时11分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
+          "url": "https://www.cls.cn/detail/2368457",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时59分 ~ 10时11分]"
         },
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
@@ -32,19 +45,6 @@
           "time_info": "[00时26分 ~ 06时00分]"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
-          "url": "https://www.cls.cn/detail/2368457",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时59分 ~ 07时52分]"
-        },
-        {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
           "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
@@ -52,8 +52,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时55分 ~ 07时52分]"
+          "appearance_count": 5,
+          "time_info": "[06时55分 ~ 10时11分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨3.6%",
@@ -96,11 +96,12 @@
           "url": "https://www.cls.cn/detail/2368431",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 06时56分]"
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 10时11分]"
         },
         {
           "title": "周一（5月11日），美股存储芯片与硬件供应链指数涨3.36%，报194.70点，再次创收盘历史新高。 成分股西部数据涨7.46%，希捷科技涨6.56%，美光科技涨6.50%，闪迪跌0.95%。",
@@ -167,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "美股和欧洲股指期货走低，标普500指数期货跌0.2%，纳指期货跌0.4%。欧洲斯托克50指数期货下跌0.7%，德国DAX指数期货下跌0.8%，英国富时100指数期货跌0.9%。",
+          "url": "https://flash.jin10.com/detail/20260512095445734800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 大型芯片股齐创新高",
