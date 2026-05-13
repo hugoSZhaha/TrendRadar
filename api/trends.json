@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T17:47:35.077211+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-05-13T19:58:08.692890+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 17时47分]"
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 19时58分]"
+        },
+        {
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 19时58分]"
         },
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
@@ -54,18 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时53分 ~ 14时20分]"
-        },
-        {
-          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
-          "url": "https://wallstreetcn.com/articles/3772105",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 17时47分]"
         },
         {
           "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览（美股收盘）",
