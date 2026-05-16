@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T18:57:09.797154+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-05-16T19:45:22.271441+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时47分 ~ 18时57分]"
+          "appearance_count": 8,
+          "time_info": "[07时47分 ~ 19时45分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，加息预期助美元五连阳，金属重挫",
@@ -265,8 +265,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时47分 ~ 19时45分]"
+        },
+        {
+          "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
+          "url": "https://wallstreetcn.com/articles/3772386",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时47分 ~ 18时57分]"
+          "time_info": "[10时09分 ~ 19时45分]"
         },
         {
           "title": "美债收益率飙升重创股市 芯片板块领跌",
@@ -292,18 +305,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时26分 ~ 10时09分]"
-        },
-        {
-          "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
-          "url": "https://wallstreetcn.com/articles/3772386",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 18时57分]"
         },
         {
           "title": "美债价格连跌五周",
