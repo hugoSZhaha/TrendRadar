@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T19:45:22.271441+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-05-16T21:02:59.764650+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时47分 ~ 19时45分]"
+          "appearance_count": 9,
+          "time_info": "[07时47分 ~ 21时02分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，加息预期助美元五连阳，金属重挫",
@@ -241,6 +241,20 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时47分 ~ 21时02分]"
+        },
+        {
           "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
           "url": "https://wallstreetcn.com/articles/3772362",
           "source": "华尔街见闻",
@@ -256,19 +270,6 @@
           "time_info": "[01时26分 ~ 18时57分]"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时47分 ~ 19时45分]"
-        },
-        {
           "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
           "url": "https://wallstreetcn.com/articles/3772386",
           "source": "华尔街见闻",
@@ -278,8 +279,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 19时45分]"
+          "appearance_count": 8,
+          "time_info": "[10时09分 ~ 21时02分]"
         },
         {
           "title": "美债收益率飙升重创股市 芯片板块领跌",
