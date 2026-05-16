@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T03:59:30.207171+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-05-17T04:46:21.212478+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时46分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时46分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -36,11 +36,12 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 03时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时46分]"
         }
       ]
     },
@@ -73,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时46分]"
         }
       ]
     }
