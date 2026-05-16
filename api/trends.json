@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T06:38:17.587282+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-05-17T07:43:45.137917+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 07时43分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -43,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 06时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时50分 ~ 07时43分]"
         }
       ]
     },
@@ -58,11 +59,12 @@
           "source": "微博",
           "ranks": [
             30,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 06时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 07时43分]"
         }
       ]
     },
@@ -78,8 +80,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 07时43分]"
         }
       ]
     }
