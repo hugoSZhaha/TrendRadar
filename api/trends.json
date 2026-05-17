@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T19:56:21.571149+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-05-17T21:02:37.362297+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时13分 ~ 19时56分]"
+          "appearance_count": 7,
+          "time_info": "[10时13分 ~ 21时02分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -93,8 +93,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时49分 ~ 19时56分]"
+          "appearance_count": 16,
+          "time_info": "[00时49分 ~ 21时02分]"
         },
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -102,11 +102,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 19时56分]"
+          "appearance_count": 5,
+          "time_info": "[14时15分 ~ 21时02分]"
         },
         {
           "title": "30年期美债收益率破5%意味着什么",
