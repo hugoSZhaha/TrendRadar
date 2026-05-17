@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T07:43:45.137917+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-05-17T10:14:08.388231+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 10时14分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -41,11 +41,23 @@
             10,
             9,
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时50分 ~ 07时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 10时14分]"
+        },
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         }
       ]
     },
@@ -77,11 +89,12 @@
           "url": "https://www.cls.cn/detail/2373036",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 10时14分]"
         }
       ]
     }
