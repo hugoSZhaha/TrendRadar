@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T16:59:53.256025+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-05-17T18:23:36.731757+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,19 @@
           "time_info": "[00时49分 ~ 14时15分]"
         },
         {
+          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
+          "url": "https://wallstreetcn.com/articles/3772431",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时15分 ~ 18时23分]"
+        },
+        {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
           "url": "https://www.cls.cn/detail/2373249",
           "source": "财联社热门",
@@ -58,20 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 16时59分]"
-        },
-        {
-          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
-          "url": "https://wallstreetcn.com/articles/3772431",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 16时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 18时23分]"
         }
       ]
     },
@@ -86,11 +87,12 @@
           "ranks": [
             5,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 16时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时49分 ~ 18时23分]"
         },
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -101,8 +103,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 16时59分]"
+          "appearance_count": 3,
+          "time_info": "[14时15分 ~ 18时23分]"
         },
         {
           "title": "30年期美债收益率破5%意味着什么",
@@ -111,7 +113,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         }
