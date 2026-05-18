@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T07:52:34.639489+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-05-18T10:34:48.643598+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 10时34分]"
         },
         {
           "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
@@ -50,7 +51,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
@@ -76,11 +77,12 @@
           "url": "https://wallstreetcn.com/articles/3772455",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 10时34分]"
         }
       ]
     }
