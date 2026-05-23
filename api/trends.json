@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T21:05:38.166660+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-05-23T22:55:16.679397+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时12分 ~ 21时05分]"
+          "appearance_count": 9,
+          "time_info": "[10时12分 ~ 22时55分]"
+        },
+        {
+          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
+          "url": "https://www.cls.cn/detail/2379735",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 22时55分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -41,19 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 02时30分]"
-        },
-        {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 21时05分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
@@ -129,7 +130,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -181,8 +182,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时12分 ~ 21时05分]"
+          "appearance_count": 9,
+          "time_info": "[10时12分 ~ 22时55分]"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
