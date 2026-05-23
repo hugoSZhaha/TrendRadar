@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T01:57:25.685118+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-05-24T03:01:51.363705+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时01分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时01分]"
         },
         {
           "title": "如何看待美股当前的泡沫",
@@ -56,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时01分]"
         }
       ]
     }
