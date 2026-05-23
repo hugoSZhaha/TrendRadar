@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T06:44:55.524232+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-05-24T07:51:46.764230+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时51分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时51分]"
         },
         {
           "title": "下周一港股、美股休市",
@@ -37,11 +37,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 06时44分]"
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 07时51分]"
         },
         {
           "title": "如何看待美股当前的泡沫",
