@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T22:55:16.679397+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-05-23T23:57:46.073391+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时12分 ~ 22时55分]"
+          "appearance_count": 10,
+          "time_info": "[10时12分 ~ 23时57分]"
         },
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 22时55分]"
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 23时57分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -179,11 +179,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时12分 ~ 22时55分]"
+          "appearance_count": 10,
+          "time_info": "[10时12分 ~ 23时57分]"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
