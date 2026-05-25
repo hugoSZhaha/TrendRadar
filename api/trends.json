@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-26T06:03:50.910618+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-05-26T07:59:08.662823+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美股三大股指期货涨幅收窄，纳斯达克100指数期货现涨1%，道指期货、标普500指数期货涨约0.7%。",
+          "url": "https://flash.jin10.com/detail/20260526072611689800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
         {
           "title": "中国500万美股账户被冻结 后续怎么办",
           "url": "https://www.toutiao.com/trending/7643690261362196489/",
@@ -56,9 +67,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 07时59分]"
         }
       ]
     }
