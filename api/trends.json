@@ -1,134 +1,44 @@
 {
-  "generated_at": "2026-05-25T22:37:54.497369+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-05-26T01:02:17.416820+08:00",
+  "total_titles_processed": 320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时50分]"
-        },
-        {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，美股期货、黄金齐涨、日经强势涨破65000点",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "美股三大股指期货走高，标普500期货、道指期货涨约0.5%，纳斯达克100期货上涨0.6%。",
-          "url": "https://flash.jin10.com/detail/20260525060644652800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时54分]"
-        },
-        {
-          "title": "提醒：美股因节假日休市一日。",
-          "url": "https://wallstreetcn.com/livenews/3108922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
-        },
         {
           "title": "中国500万美股账户被冻结 后续怎么办",
           "url": "https://www.toutiao.com/trending/7643690261362196489/",
           "source": "今日头条",
           "ranks": [
-            17
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中东和平曙光压低油价与美元，金价走高",
-          "url": "https://flash.jin10.com/detail/20260525221031558800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "美伊协议前景缓和通胀担忧，金价反弹超1%",
-          "url": "https://flash.jin10.com/detail/20260525070547710800",
+          "title": "金十图示：2026年05月25日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260526003132448800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "金十图示：2026年05月25日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260526003024130800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "印度财政部长：国际原油价格高企、化肥价格上涨以及金价攀升，给外部经济环境带来了一些挑战。",
-          "url": "https://flash.jin10.com/detail/20260525143213485800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "金价跳空高开",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "多氟多 002407",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "多氟多股价跌停，公司回应",
-          "url": "https://wallstreetcn.com/livenews/3108815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时45分"
+          "time_info": "01时02分"
         }
       ]
     }
