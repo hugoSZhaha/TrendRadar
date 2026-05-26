@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T10:59:12.468575+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-05-26T14:46:53.828223+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -70,6 +70,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一个危险信号正在闪烁：买美股和买美债的预期回报已几乎没差别",
+          "url": "https://flash.jin10.com/detail/20260526142116078800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         }
       ]
     }
