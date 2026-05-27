@@ -1,68 +1,33 @@
 {
-  "generated_at": "2026-05-27T22:22:13.619726+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-05-28T01:54:10.261331+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
-          "url": "https://www.cls.cn/detail/2382303",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 14时57分]"
-        },
-        {
-          "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2382097",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 10时39分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
-          "url": "https://www.cls.cn/detail/2382288",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时03分 ~ 14时57分]"
-        },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
+          "time_info": "[01时53分 ~ 01时54分]"
         },
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2383334",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
+          "time_info": "[01时53分 ~ 01时54分]"
         },
         {
           "title": "美股“火爆行情”很快结束？资深分析师：以史为鉴，油价见顶就会跌",
@@ -73,208 +38,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
+          "time_info": "[01时53分 ~ 01时54分]"
         },
         {
-          "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260527003233683800",
+          "title": "美股股指短线走低，标普500指数转跌；美元指数DXY短线小幅走高。",
+          "url": "https://flash.jin10.com/detail/20260528011006984800",
           "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
-        },
-        {
-          "title": "金十图示：2026年05月26日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260527003022520800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨超3%，可选消费ETF涨超1%，能源业ETF跌近2%。",
-          "url": "https://wallstreetcn.com/livenews/3110117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "美股盘初：美光科技涨约5%，拼多多跌约9%，特斯拉涨约2%",
-          "url": "https://wallstreetcn.com/livenews/3110113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "策略师驳斥美股泡沫论：“FEMO”将助力标普500指数“破万”",
-          "url": "https://flash.jin10.com/detail/20260527215802456800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "Astrotech美股盘前涨超220%。",
-          "url": "https://wallstreetcn.com/livenews/3110107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3110100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3110038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
-          "url": "https://wallstreetcn.com/livenews/3109648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "周二（5月26日），美股行业ETF涨跌各异，半导体ETF收涨4.48%，全球航空业ETF涨4.17%，全球科技股指数ETF、科技行业ETF、银行业ETF也至少涨1.10%，能源业ETF则收跌2.76%。",
-          "url": "https://wallstreetcn.com/livenews/3109647",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 01时54分]"
         },
         {
-          "title": "Zscaler第三财季营收8.505亿美元，分析师预期8.353亿美元。 第三财季年化持续经营收入35.3亿美元，分析师预期35.1亿美元。 第三财季调整后EPS为1.08美元，分析师预期1.01美元。 预计第四财季营收8.75亿-8.78亿美元，分析师预期8.791亿美元。 Zscaler美股盘后跌9%。",
-          "url": "https://wallstreetcn.com/livenews/3109642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3773116",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 05时45分]"
-        },
-        {
-          "title": "中日印为何抛售美债",
-          "url": "https://www.toutiao.com/trending/7644126127706885651/",
+          "title": "“泡沫预言家”：美股或面临十年低迷",
+          "url": "https://www.toutiao.com/trending/7644455365212094515/",
           "source": "今日头条",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "2/10年期美债收益率跌约7个基点",
-          "url": "https://wallstreetcn.com/livenews/3109625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "多家投行下调金价预判",
-          "url": "https://www.douyin.com/hot/2513019",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 07时03分]"
-        },
-        {
-          "title": "金十图示：2026年05月27日（周三）上海金早盘价为985.21元/克，较国际金价(981.58元/克)，高3.63元/克",
-          "url": "https://flash.jin10.com/detail/20260527101857720800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
+          "time_info": "[01时53分 ~ 01时54分]"
         }
       ]
     }
