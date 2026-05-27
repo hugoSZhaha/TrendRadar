@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-27T10:39:14.002720+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-05-27T14:57:42.808376+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 8,
       "titles": [
+        {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 14时57分]"
+        },
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2382097",
@@ -20,17 +31,6 @@
           "time_info": "[01时27分 ~ 10时39分]"
         },
         {
-          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
-          "url": "https://www.cls.cn/detail/2382303",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
           "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
           "url": "https://www.cls.cn/detail/2382288",
           "source": "财联社热门",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时03分 ~ 10时39分]"
+          "appearance_count": 4,
+          "time_info": "[07时03分 ~ 14时57分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
