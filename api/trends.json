@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T07:56:32.502515+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-05-28T10:16:08.378447+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
@@ -25,9 +25,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 10时16分]"
         },
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
@@ -38,19 +38,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 10时16分]"
         },
         {
           "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
           "url": "https://www.cls.cn/detail/2383514",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 10时16分]"
         },
         {
           "title": "Nebius Group NV美股盘后涨14%，Situational Awareness报告称对该公司持股。",
@@ -164,11 +165,12 @@
           "url": "https://wallstreetcn.com/articles/3773219",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 10时16分]"
         },
         {
           "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
