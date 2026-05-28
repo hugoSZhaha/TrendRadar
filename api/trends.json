@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-05-28T10:16:08.378447+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-05-28T14:46:07.220349+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
+        {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 14时46分]"
+        },
+        {
+          "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
+          "url": "https://www.cls.cn/detail/2383514",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 14时46分]"
+        },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -19,17 +42,6 @@
           "time_info": "[01时53分 ~ 06时26分]"
         },
         {
-          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时16分]"
-        },
-        {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2383334",
           "source": "财联社热门",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时53分 ~ 10时16分]"
-        },
-        {
-          "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
-          "url": "https://www.cls.cn/detail/2383514",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时16分]"
         },
         {
           "title": "Nebius Group NV美股盘后涨14%，Situational Awareness报告称对该公司持股。",
@@ -166,11 +166,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时16分]"
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 14时46分]"
         },
         {
           "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
@@ -182,6 +183,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "PCE前金价加速下跌，市场在提前交易最坏情景？",
+          "url": "https://flash.jin10.com/detail/20260528141552137800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 14时46分]"
         }
       ]
     }
