@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-29T01:59:27.129698+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-05-29T04:16:02.732802+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
-        {
-          "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
-          "url": "https://wallstreetcn.com/livenews/3110886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -26,19 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时16分]"
+        },
+        {
+          "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
+          "url": "https://wallstreetcn.com/livenews/3110886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时16分]"
         },
         {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
           "url": "https://www.cls.cn/detail/2384590",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时16分]"
         }
       ]
     },
@@ -54,8 +56,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中长期美债收益率跌约3个基点",
+          "url": "https://wallstreetcn.com/livenews/3110909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 04时16分]"
         }
       ]
     }
