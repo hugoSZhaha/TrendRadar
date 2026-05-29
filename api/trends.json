@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T08:05:20.060417+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-05-29T13:08:09.157671+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -19,6 +19,41 @@
           "time_info": "[01时59分 ~ 06时28分]"
         },
         {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 13时08分]"
+        },
+        {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 13时08分]"
+        },
+        {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 13时08分]"
+        },
+        {
           "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
@@ -28,28 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
         },
         {
           "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
@@ -64,17 +77,6 @@
           "time_info": "[01时59分 ~ 04时16分]"
         },
         {
-          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
-          "url": "https://www.cls.cn/detail/2384768",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
           "url": "https://www.cls.cn/detail/2384590",
           "source": "财联社热门",
@@ -85,6 +87,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时59分 ~ 08时05分]"
+        },
+        {
+          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
+          "url": "https://www.cls.cn/detail/2384732",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "戴尔科技美股盘后涨幅扩大至27%。",
@@ -126,7 +139,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -137,7 +150,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         }
@@ -145,7 +158,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
@@ -157,6 +170,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时59分 ~ 04时16分]"
+        },
+        {
+          "title": "金价又跌麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     },
