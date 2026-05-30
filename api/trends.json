@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T06:51:38.981392+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-05-31T07:55:27.343466+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 06时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 07时55分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -28,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 06时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 07时55分]"
         }
       ]
     }
