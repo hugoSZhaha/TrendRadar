@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T21:07:29.177036+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-05-30T23:02:34.853544+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,20 @@
           "time_info": "[00时38分 ~ 07时06分]"
         },
         {
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 23时02分]"
+        },
+        {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
           "url": "https://www.cls.cn/detail/2385789",
           "source": "财联社热门",
@@ -32,19 +46,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 19时14分]"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时14分 ~ 21时07分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
@@ -93,6 +94,31 @@
           "time_info": "[00时38分 ~ 05时47分]"
         },
         {
+          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
+          "url": "https://wallstreetcn.com/articles/3773491",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 23时02分]"
+        },
+        {
+          "title": "中美股市的风格为何越来越相似了",
+          "url": "https://www.toutiao.com/trending/7645641566559669823/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 23时02分]"
+        },
+        {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
           "url": "https://flash.jin10.com/detail/20260530040220789800",
           "source": "金十数据",
@@ -102,6 +128,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时47分 ~ 07时06分]"
+        },
+        {
+          "title": "AI驱动美股狂飙！标普500 5月牛股盘点：戴尔、美光强势领跑",
+          "url": "https://www.cls.cn/detail/2386086",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 23时02分]"
         },
         {
           "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。 北美科技软件股指数ETF收涨6.25%，报101.66美元，本周累计上涨8.14%——连续第七周反弹，5月份累涨21.15%，创2001年10月份以来最佳单月表现。",
@@ -186,40 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时11分 ~ 19时14分]"
-        },
-        {
-          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
-          "url": "https://wallstreetcn.com/articles/3773491",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 21时07分]"
-        },
-        {
-          "title": "中美股市的风格为何越来越相似了",
-          "url": "https://www.toutiao.com/trending/7645641566559669823/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "AI驱动美股狂飙！标普500 5月牛股盘点：戴尔、美光强势领跑",
-          "url": "https://www.cls.cn/detail/2386086",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
         },
         {
           "title": "科技行业ETF收涨超2.2%，领跑美股行业ETF，5月半导体ETF累涨超66%",
