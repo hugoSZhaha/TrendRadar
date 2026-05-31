@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-01T05:53:07.939809+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-06-01T06:53:20.389100+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美股三大股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20260601060027642800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 06时53分]"
+        },
         {
           "title": "美股的“午夜钟声”或将敲响",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
