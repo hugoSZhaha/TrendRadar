@@ -1,77 +1,33 @@
 {
-  "generated_at": "2026-06-01T18:13:03.476699+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-06-02T00:33:04.139791+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
-          "title": "高盛称对冲基金以六个月来的最快速度买入美股",
-          "url": "https://wallstreetcn.com/livenews/3112323",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "time_info": "[00时32分 ~ 00时33分]"
         },
         {
-          "title": "华尔街大鳄警告：美股崩盘和衰退已是“定时炸弹”，可转向金银投资！",
-          "url": "https://www.cls.cn/detail/2386791",
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
           "source": "财联社热门",
           "ranks": [
-            13
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
-          "title": "美股三大股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20260601060027642800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 06时53分]"
-        },
-        {
-          "title": "美光科技美股盘前涨超4%，盘前价格突破1000美元/股。",
-          "url": "https://wallstreetcn.com/livenews/3112292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
-          "title": "美股软件股盘前走高涨，IBM上涨5.4%，Adobe上涨4.1%，Salesforce上涨3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3112282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
-          "title": "美股的“午夜钟声”或将敲响",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "[00时32分 ~ 00时33分]"
         }
       ]
     }
