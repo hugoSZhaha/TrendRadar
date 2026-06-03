@@ -1,79 +1,44 @@
 {
-  "generated_at": "2026-06-03T21:09:58.041933+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-06-04T02:19:30.166937+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 21时09分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
-          "url": "https://www.cls.cn/detail/2388968",
-          "source": "财联社热门",
-          "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 16时10分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
-          "url": "https://wallstreetcn.com/livenews/3113295",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时44分"
+          "time_info": "02时19分"
         },
         {
-          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2388757",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 07时29分]"
-        },
-        {
-          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时44分]"
-        },
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫",
-          "url": "https://wallstreetcn.com/articles/3773650",
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "02时19分"
         },
         {
           "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
@@ -82,221 +47,48 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
+          "time_info": "02时19分"
         },
         {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2389957",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
-          "title": "美股股指期货走低，纳指期货转跌，标普500指数期货跌0.24%，道指期货跌0.48%。",
-          "url": "https://wallstreetcn.com/livenews/3113808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
-          "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
-          "url": "https://wallstreetcn.com/livenews/3113281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "周二（6月2日），美股人工智能（AI）赢家指数涨2.45%，报447.26点。",
-          "url": "https://wallstreetcn.com/livenews/3113280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "周二（6月2日），美股信息科技指数涨2.38%，报461.64点，连续多日创收盘历史新高，5月19日以来累计上涨23.35%。 标普500信息技术/科技板块涨0.92%，报7262.03点，也连续三天创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3113279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "周二（6月2日），美股超大规模云服务商（Hyperscalers）跌2.51%，报103.13点。",
-          "url": "https://wallstreetcn.com/livenews/3113278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "周二（6月2日），美股存储芯片与硬件供应链指数涨2.07%，报222.31点，连续六个交易日创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3113277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（6月2日），美国科技股七巨头（Magnificent 7）指数跌1.03%，报225.46点。 “超大”市值科技股指数跌0.07%，报473.57点。",
-          "url": "https://wallstreetcn.com/livenews/3113276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "GitLab对全职员工裁员大约14%，退出22个国家。 该公司一季度调整后每股收益（EPS）为0.23美元，分析师预期0.21美元。 预计全年营收11.1亿-11.2亿美元，公司原本预计11.0亿-11.2亿美元。 预计二季度营收2.72亿-27.4亿美元，分析师预期2.732亿美元。 GitLab美股盘后涨13%。",
-          "url": "https://wallstreetcn.com/livenews/3113272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "可转债ETF收涨1.2%，与新兴市场ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3113271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "美国稀土美股盘前涨近4%，公司与美国商务部敲定最终协议，协议涉及最多2.77亿美元联邦资金，最高可获得13亿美元高级担保贷款额度。",
-          "url": "https://wallstreetcn.com/livenews/3113790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
-          "title": "半导体ETF收涨4%，领跑美股行业ETF，标普电信板块跌2.6%",
-          "url": "https://wallstreetcn.com/livenews/3113269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "派拓网络第三财季调整后每股收益（EPS）为0.85美元，分析师预期0.79美元。 预计全年营收114.2亿-114.3亿美元，公司原本预计112.8亿-113.1亿美元。 派拓网络（PANW）美股盘后涨12%。",
-          "url": "https://wallstreetcn.com/livenews/3113267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "time_info": "02时19分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
+      "keyword_group": "300085 银之杰",
+      "match_count": 2,
       "titles": [
         {
-          "title": "国内金价跌破980元每克",
-          "url": "https://www.toutiao.com/trending/7646967437870747187/",
-          "source": "今日头条",
+          "title": "银之杰紧急澄清“被立案” 砸盘式“小作文”频繁扰乱市场",
+          "url": "https://www.cls.cn/detail/2390039",
+          "source": "财联社热门",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
-        },
-        {
-          "title": "国内金价跌破980元每克",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4980%E5%85%83%E6%AF%8F%E5%85%8B&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "02时19分"
         },
         {
-          "title": "金十图示：2026年06月03日（周三）上海金早盘价为976.52元/克，较国际金价(973.55元/克)，高2.97元/克",
-          "url": "https://flash.jin10.com/detail/20260603102106849800",
-          "source": "金十数据",
+          "title": "股价闪崩暴跌，银之杰紧急澄清：“被立案调查”传闻不属实",
+          "url": "https://www.cls.cn/detail/2389860",
+          "source": "财联社热门",
           "ranks": [
-            18
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
-          "url": "https://wallstreetcn.com/articles/3773688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 21时09分]"
+          "time_info": "02时19分"
         }
       ]
     }
