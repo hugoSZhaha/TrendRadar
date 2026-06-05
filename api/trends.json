@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T04:47:22.518205+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-06-06T06:11:26.608943+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时11分]"
         },
         {
           "title": "新兴市场ETF收跌超6.5%，领跌美股大类资产类ETF",
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -46,22 +46,35 @@
           "url": "https://flash.jin10.com/detail/20260606040853818800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 06时11分]"
         },
         {
           "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260606040847799800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 06时11分]"
+        },
+        {
+          "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
+          "url": "https://wallstreetcn.com/livenews/3115352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "06时11分"
         },
         {
           "title": "美股收盘：纳指跌超4% 半导体股多数下跌",
@@ -70,15 +83,37 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "美股遭遇抛售，但高盛称未见仓位极端拥挤现象",
+          "url": "https://wallstreetcn.com/livenews/3115345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "CoreWeave美股盘后跌3.6%。 该公司股东Jane Street Singapore登记减持高达920万股，可能还将时不时地出售所持股份。",
+          "url": "https://wallstreetcn.com/livenews/3115338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
@@ -101,8 +136,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时11分]"
+        },
+        {
+          "title": "非农大超预期，美债收益率全线拉升，纳指重挫超4%，半导体指数暴跌10%，黄金抹去年内涨幅",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
@@ -119,7 +165,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
@@ -132,6 +178,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 04时47分]"
+        },
+        {
+          "title": "国际金价在非农日跌约3.3%，白银跌8%，纽约铜跌超4%",
+          "url": "https://wallstreetcn.com/livenews/3115341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         }
       ]
     }
