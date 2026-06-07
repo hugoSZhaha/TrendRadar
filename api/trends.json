@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T02:00:19.503017+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-06-08T03:24:09.736998+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 03时24分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 03时24分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
@@ -38,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 03时24分]"
         },
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -47,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时24分]"
         },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -61,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 02时00分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 03时24分]"
         },
         {
           "title": "国泰海通：美股或迎来至少一两个月的波动期",
