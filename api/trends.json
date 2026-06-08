@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T06:57:15.991650+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-06-08T08:02:17.937219+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 06时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 08时02分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -25,11 +25,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 06时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 08时02分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
@@ -37,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 06时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 08时02分]"
         },
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -54,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 06时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 08时02分]"
         },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -63,11 +65,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 08时02分]"
         },
         {
           "title": "国泰海通：美股或迎来至少一两个月的波动期",
@@ -87,7 +90,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -98,7 +101,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -109,7 +112,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
