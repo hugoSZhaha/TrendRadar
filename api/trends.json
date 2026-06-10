@@ -1,22 +1,67 @@
 {
-  "generated_at": "2026-06-11T01:56:40.498027+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-11T04:15:27.974004+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "甲骨文(ORCL.N)美股盘后跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260611040637443800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
           "url": "https://wallstreetcn.com/articles/3774300",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时15分]"
+        },
+        {
+          "title": "金十图示：2026年06月10日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260611040522177800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "04时15分"
+        },
+        {
+          "title": "金十图示：2026年06月10日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260611040511459800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "美股收盘：纳指跌近2% 超微电脑大跌28%",
+          "url": "https://flash.jin10.com/detail/20260611040154334800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "金十图示：2026年06月10日（周三）美股热门股票行情一览（美股盘中）",
@@ -51,11 +96,29 @@
           "url": "https://www.toutiao.com/trending/7649366995154944043/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10年期美债收益率在美国CPI通胀数据发布日涨约2.4个基点，两年期实际收益率涨4.8个基点",
+          "url": "https://wallstreetcn.com/livenews/3117678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "04时15分"
         }
       ]
     }
