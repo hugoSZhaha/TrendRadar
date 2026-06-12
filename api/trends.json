@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T01:33:32.227185+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-13T03:56:52.191076+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时56分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -26,8 +26,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时56分]"
+        },
+        {
+          "title": "据《华尔街日报》援引消息人士报道称，为向SpaceX致敬，纽约时代广场的水晶球将在美股收盘时升起。",
+          "url": "https://flash.jin10.com/detail/20260613032127089800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时33分"
+          "time_info": "03时56分"
         },
         {
           "title": "数字货币市场最近七天至少涨超2%，比特币在周五美股开盘后一度突破6340美元",
@@ -51,11 +62,12 @@
           "url": "https://www.toutiao.com/trending/7649567619948822578/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时56分]"
         }
       ]
     }
