@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T21:29:50.446236+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-06-13T23:27:41.112243+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时09分 ~ 21时29分]"
+          "appearance_count": 7,
+          "time_info": "[07时09分 ~ 23时27分]"
         },
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时09分 ~ 21时29分]"
+          "appearance_count": 7,
+          "time_info": "[07时09分 ~ 23时27分]"
         },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -53,11 +53,12 @@
             10,
             6,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时09分 ~ 21时29分]"
+          "appearance_count": 7,
+          "time_info": "[07时09分 ~ 23时27分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
