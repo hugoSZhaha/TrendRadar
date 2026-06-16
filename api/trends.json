@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T04:42:37.766766+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-06-17T06:50:05.186996+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 06时50分]"
+        },
+        {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时57分 ~ 04时42分]"
+          "time_info": "[06时49分 ~ 06时50分]"
         },
         {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
@@ -36,7 +47,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -69,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -81,19 +92,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 06时50分]"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
           "url": "https://www.zhihu.com/question/2049776018660103123",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 06时50分]"
+        },
+        {
+          "title": "投资者权衡美伊协议，拉美股汇走势分化",
+          "url": "https://wallstreetcn.com/livenews/3120500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时57分 ~ 04时42分]"
+          "time_info": "[06时49分 ~ 06时50分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一，SpaceX高位回落收涨近5%",
@@ -102,7 +125,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -143,8 +166,30 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
+          "url": "https://flash.jin10.com/detail/20260617064209134800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 06时50分]"
+        },
+        {
+          "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
+          "url": "https://wallstreetcn.com/livenews/3120522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 06时50分]"
+        },
         {
           "title": "长端美债价格涨幅突出，两年期实际收益率涨超6.6个基点",
           "url": "https://wallstreetcn.com/livenews/3120479",
@@ -152,7 +197,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         }
