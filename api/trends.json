@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T13:31:43.894316+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2026-06-18T18:08:36.861392+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时33分 ~ 13时31分]"
+          "appearance_count": 7,
+          "time_info": "[06时33分 ~ 18时08分]"
         },
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -176,11 +176,12 @@
           "url": "https://wallstreetcn.com/articles/3774939",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时30分 ~ 18时08分]"
         },
         {
           "title": "两年期美债收益率于美联储利率决议日涨约13.3个基点，两年期实际收益率也在沃什首秀日涨约20个基点",
