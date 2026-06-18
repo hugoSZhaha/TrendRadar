@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T00:59:50.274464+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-19T03:32:10.745832+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时32分]"
         },
         {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时32分]"
         },
         {
           "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2403938",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时32分]"
         }
       ]
     },
