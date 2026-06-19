@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T17:02:29.374410+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-06-19T20:50:46.360942+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,19 @@
           "time_info": "[00时59分 ~ 06时11分]"
         },
         {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 20时50分]"
+        },
+        {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3774963",
           "source": "华尔街见闻",
@@ -44,18 +57,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时59分 ~ 06时11分]"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时46分 ~ 17时02分]"
         },
         {
           "title": "中美股市今日休市 金银油交易提前结束",
@@ -150,8 +151,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
         {
           "title": "金价银价大跌 国际油价涨跌不一",
           "url": "https://www.toutiao.com/trending/7652482530892988470/",
@@ -159,7 +171,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -170,9 +182,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "周大福老凤祥老庙金价又跌了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A4%A7%E7%A6%8F%E8%80%81%E5%87%A4%E7%A5%A5%E8%80%81%E5%BA%99%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "金价上下乱跳",
