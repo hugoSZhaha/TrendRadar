@@ -1,191 +1,22 @@
 {
-  "generated_at": "2026-06-19T23:57:34.926705+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-06-20T01:51:33.457016+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时46分 ~ 23时57分]"
-        },
-        {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 17时02分]"
-        },
-        {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时11分]"
-        },
-        {
-          "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时11分]"
-        },
-        {
-          "title": "中美股市今日休市 金银油交易提前结束",
-          "url": "https://flash.jin10.com/detail/20260619071838638800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
-          "url": "https://wallstreetcn.com/livenews/3122141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3121908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时46分]"
-        },
-        {
-          "title": "周四（6月18日），美股存储芯片与硬件供应链指数涨6.29%，报266.26点，突破6月15日所创收盘历史最高位253.05点。 成分股全面上涨，闪迪收涨11.54%，时隔两个交易日再创收盘历史新高；美光科技涨8.70%，时隔两天再创收盘历史新高；Rambus涨8.51%，泰瑞达涨7.19%，西部数据涨4.79%，连续四天创收盘历史新高，6月11日以来累计上涨52.27%；应用材料涨4.08%，拉姆研究涨3.97%，希捷科技涨0.39%，也连续四天创新高。",
-          "url": "https://wallstreetcn.com/livenews/3121904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周四（6月18日），美国科技股七巨头（Magnificent 7）指数涨1.52%，报213.40点。 “超大”市值科技股指数涨2.27%，报442.43点。",
-          "url": "https://wallstreetcn.com/livenews/3121901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "新兴市场ETF收涨超3.2%，与纳指ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3121889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
-          "url": "https://wallstreetcn.com/livenews/3121914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "周四四（6月18日），美股行业ETF多数收涨，半导体ETF涨5.76%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至多涨3.75%，网络股指数ETF涨1.11%，医疗业ETF、金融业ETF则至多收跌0.89%，能源业ETF跌1.65%。",
-          "url": "https://wallstreetcn.com/livenews/3121887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "周四（6月18日），美股信息科技指数涨4.35%，报465.35点，时隔一个交易日再创收盘历史新高。 成分股中，闪迪涨11.54%，Astera Labs康宁公司、英特尔、超微电脑涨11.31%-10.37%，Credo科技集团涨9.02%表现第六，惠与（HPE）则跌1.65%表现倒数第十，Salesforce跌2.09%，Lumentum跌2.30%，IBM跌5.05%，埃森哲跌17.97%表现最差。 在标普科技板块，也是闪迪、康宁公司、英特尔、超微电脑领涨，埃森哲跌幅最大。",
-          "url": "https://wallstreetcn.com/livenews/3121912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 23时57分]"
-        },
-        {
-          "title": "金价银价大跌 国际油价涨跌不一",
-          "url": "https://www.toutiao.com/trending/7652482530892988470/",
-          "source": "今日头条",
-          "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时02分"
+          "time_info": "01时51分"
         },
         {
           "title": "金价银价双双下跌",
@@ -196,79 +27,46 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "周大福老凤祥老庙金价又跌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A4%A7%E7%A6%8F%E8%80%81%E5%87%A4%E7%A5%A5%E8%80%81%E5%BA%99%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
-          "title": "金价上下乱跳",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E4%B8%8B%E4%B9%B1%E8%B7%B3%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "01时51分"
         },
         {
           "title": "金价陷入低迷",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=29&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时57分"
+          "time_info": "01时51分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
-          "url": "https://wallstreetcn.com/articles/3774939",
-          "source": "华尔街见闻",
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "01时51分"
         },
         {
-          "title": "高盛认为沃什的立场将加剧短端美债波动性，使长端曲线更趋平稳",
-          "url": "https://wallstreetcn.com/livenews/3121802",
+          "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
+          "url": "https://wallstreetcn.com/livenews/3122141",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "日本4月所持美国国债1.2099万亿美元，前值1.1916万亿美元。 4月英国所持美债9375亿美元，前值9269亿美元。 4月中国所持美债6511亿美元，前值6523亿美元。 4月开曼群岛所持美债4716亿美元，前值4594亿美元。 4月比利时所持美债4599亿美元，前值4540亿美元。 4月卢森堡所持美债4311亿美元，前值4320亿美元。 4月加拿大所持美债3971亿美元，前值4394亿美元。 4月法国所持美债3933亿美元，前值3930亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3121881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "01时51分"
         }
       ]
     }
