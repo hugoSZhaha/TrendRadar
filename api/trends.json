@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T13:55:32.843465+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-06-21T17:38:44.703948+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             16,
             18,
             17,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 13时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时17分 ~ 17时38分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
@@ -39,7 +40,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         }
@@ -71,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 13时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时17分 ~ 17时38分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
