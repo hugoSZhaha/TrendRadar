@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T00:23:16.734197+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-24T03:05:14.772745+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,28 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
-          "url": "https://www.zhihu.com/question/2052707670289806571",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
           "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
           "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 03时05分]"
+        },
+        {
+          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
+          "url": "https://www.zhihu.com/question/2052707670289806571",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
         }
       ]
     },
@@ -43,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 03时05分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -54,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 03时05分]"
         }
       ]
     },
@@ -79,11 +81,12 @@
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
         }
       ]
     }
