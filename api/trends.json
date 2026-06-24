@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T02:54:57.447979+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-06-25T04:29:51.739458+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -15,19 +15,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 04时29分]"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
           "url": "https://www.zhihu.com/question/2052869201178652833",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 04时29分]"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘后涨幅扩大至7.5%。",
+          "url": "https://flash.jin10.com/detail/20260625040832491800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -38,8 +50,52 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 04时29分]"
+        },
+        {
+          "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
+          "url": "https://wallstreetcn.com/livenews/3124226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3124222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘后涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260625040228241800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 金龙指数跌1.7%",
+          "url": "https://flash.jin10.com/detail/20260625040106828800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
@@ -66,7 +122,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         }
@@ -84,8 +140,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 04时29分]"
         }
       ]
     }
