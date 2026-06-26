@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T14:46:10.535010+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-06-26T18:16:48.186138+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -124,6 +124,17 @@
           "time_info": "[07时09分 ~ 07时10分]"
         },
         {
+          "title": "苹果涨价引爆芯片股崩盘，美股盘前半导体股普跌，韩股收跌5.8%，黄金持稳于4000美元附近",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "金十图示：2026年06月25日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260626040602916800",
           "source": "金十数据",
@@ -182,8 +193,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 18时16分]"
         },
         {
           "title": "金价跌回3字头 半年回撤30%",
@@ -198,22 +209,22 @@
           "time_info": "[10时35分 ~ 14时46分]"
         },
         {
-          "title": "凯投宏观：美联储加息预期推升实际收益率，今年年底金价或跌至3500美元",
-          "url": "https://flash.jin10.com/detail/20260626135717059800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
           "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
           "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
           "source": "澎湃新闻",
           "ranks": [
             18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 18时16分]"
+        },
+        {
+          "title": "凯投宏观：美联储加息预期推升实际收益率，今年年底金价或跌至3500美元",
+          "url": "https://flash.jin10.com/detail/20260626135717059800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -226,9 +237,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 18时16分]"
         },
         {
           "title": "金价回落至900元以下",
