@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T08:03:54.176243+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-06-29T13:25:09.488162+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 08时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 13时25分]"
         },
         {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
@@ -40,6 +40,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 06时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "PCE只带来喘息，金价修复仍等就业验证",
+          "url": "https://flash.jin10.com/detail/20260629120148011800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         }
       ]
     }
