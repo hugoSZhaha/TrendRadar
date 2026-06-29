@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T18:26:03.510530+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-06-29T22:44:01.069836+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时03分 ~ 13时25分]"
+        },
+        {
+          "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
         },
         {
           "title": "韩国重磅芯片计划支撑市场，美股盘前存储芯片股反弹，美光涨超2%，油价一度回到70上方",
@@ -62,12 +73,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 06时57分]"
+        },
+        {
+          "title": "美股太空股ETF涨幅一度高达4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3126203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF美股盘初涨约2.1%，进入连续第二个交易日反弹，报90.02美元，",
+          "url": "https://wallstreetcn.com/livenews/3126202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
+          "title": "美股三大指数集体高开，纳指涨0.8%，标普500指数涨0.5%，道指涨0.23%。科技股涨跌不一，英伟达涨0.66%，部分存储概念股走低，美光科技跌超2%，闪迪跌超1%。Strategy涨近5%，此前公司宣布授权10亿美元优先股回购计划。康卡斯特上涨12%，公司计划分拆NBC环球。",
+          "url": "https://wallstreetcn.com/livenews/3126200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "PCE只带来喘息，金价修复仍等就业验证",
@@ -79,6 +123,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "国际金价跳水",
+          "url": "https://www.douyin.com/hot/2552234",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         }
       ]
     }
