@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-30T14:50:26.888343+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-06-30T18:28:07.088799+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 18时28分]"
+        },
         {
           "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
           "url": "https://wallstreetcn.com/articles/3775727",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时48分 ~ 14时50分]"
-        },
-        {
-          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 14时50分]"
         },
         {
           "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
@@ -161,6 +161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 10时36分]"
+        },
+        {
+          "title": "美股出现罕见信号，“入熊”概率高达67%！",
+          "url": "https://www.cls.cn/detail/2412465",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览（美股收盘）",
