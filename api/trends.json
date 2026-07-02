@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T04:57:00.108295+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-07-03T06:01:59.103698+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/livenews/3128216",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 06时01分]"
         },
         {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
           "url": "https://wallstreetcn.com/livenews/3128212",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 06时01分]"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
@@ -120,8 +122,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 06时01分]"
         }
       ]
     }
