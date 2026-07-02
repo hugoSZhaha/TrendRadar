@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T07:05:12.130014+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-07-02T10:32:12.373677+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2414790",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 07时05分]"
+          "appearance_count": 4,
+          "time_info": "[07时04分 ~ 10时32分]"
         },
         {
           "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
@@ -176,6 +177,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时08分 ~ 07时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "多氟多 002407",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股多氟多成交额达100亿元，现跌0.14%。",
+          "url": "https://flash.jin10.com/detail/20260702100402353800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         }
       ]
     },
