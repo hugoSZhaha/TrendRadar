@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T04:55:42.560226+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-07-04T05:59:46.560851+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 05时59分]"
         },
         {
           "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
@@ -57,8 +58,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 05时59分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
