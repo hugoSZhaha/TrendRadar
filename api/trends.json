@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T06:50:58.772626+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-07-05T07:55:33.104441+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时55分]"
         },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
@@ -36,11 +37,12 @@
           "url": "https://wallstreetcn.com/articles/3776188",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时50分]"
+          "appearance_count": 3,
+          "time_info": "[05时51分 ~ 07时55分]"
         }
       ]
     }
