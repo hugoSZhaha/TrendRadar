@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-05T03:07:41.391149+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-07-05T04:45:36.481253+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
+        {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时45分]"
+        },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
           "url": "https://wallstreetcn.com/articles/3776174",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
-        },
-        {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时07分]"
         }
       ]
     }
