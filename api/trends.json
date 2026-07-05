@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T21:13:13.372766+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-07-05T23:08:09.339855+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时32分 ~ 21时13分]"
+          "appearance_count": 8,
+          "time_info": "[14时32分 ~ 23时08分]"
         },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
@@ -48,6 +49,18 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时12分 ~ 23时08分]"
+        },
+        {
           "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
           "url": "https://wallstreetcn.com/articles/3776188",
           "source": "华尔街见闻",
@@ -58,17 +71,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时51分 ~ 07时55分]"
-        },
-        {
-          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时12分 ~ 21时13分]"
         },
         {
           "title": "如何看待网传字节员工靠炒美股赚三千万财富自由后离职，称投资比升职更易财务自由，后回应了三个千万祝福？",
