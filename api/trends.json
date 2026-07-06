@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T00:17:55.845166+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-07-07T02:51:38.514017+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,41 +15,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时51分]"
         },
         {
           "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
           "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时51分]"
         },
         {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
           "url": "https://wallstreetcn.com/articles/3776262",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时51分]"
         },
         {
           "title": "美股期指延续涨势 纳斯达克100指数期货涨超1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2418371",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时51分]"
         }
       ]
     }
