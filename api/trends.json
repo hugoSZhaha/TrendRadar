@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T16:12:59.449800+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-07-06T20:39:09.869093+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -36,11 +36,12 @@
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 16时12分]"
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 20时39分]"
         },
         {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
@@ -60,9 +61,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 20时39分]"
+        },
+        {
+          "title": "博通美股盘前一度涨超5%，报道称博通与苹果同意将技术合作扩展至2031年，博通将为苹果开发定制ASIC芯片产品。",
+          "url": "https://wallstreetcn.com/livenews/3129383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
         },
         {
           "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
@@ -76,15 +100,15 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
-          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
-          "url": "https://wallstreetcn.com/articles/3776235",
-          "source": "华尔街见闻",
+          "title": "博通(AVGO.O)美股盘前拉升，现涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260706200753107800",
+          "source": "金十数据",
           "ranks": [
-            7
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
         },
         {
           "title": "美股期货涨幅收窄，标普500指数期货现涨0.2%。",
@@ -121,7 +145,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         }
