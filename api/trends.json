@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T18:48:55.414236+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-07-07T21:13:44.649352+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
@@ -149,6 +149,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "罕见！特朗普在白宫为纽交所和纳斯达克敲钟，称美股将涨破天际",
