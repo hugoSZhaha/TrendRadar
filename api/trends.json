@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T01:14:03.992904+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-10T03:25:34.241825+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时25分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时25分]"
         },
         {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
@@ -37,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时25分]"
         },
         {
           "title": "金十图示：2026年07月09日（周四）热门中概股行情一览（美股盘中）",
