@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:41:38.590598+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-07-12T06:40:11.031349+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 06时40分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 06时40分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -51,19 +51,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 06时40分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
           "url": "https://flash.jin10.com/detail/20260712034752790800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时55分 ~ 06时40分]"
         }
       ]
     }
