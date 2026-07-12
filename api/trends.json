@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-12T21:01:35.132316+08:00",
-  "total_titles_processed": 1206,
-  "failed_sources": [
-    "zhihu"
-  ],
+  "generated_at": "2026-07-12T22:28:14.558905+08:00",
+  "total_titles_processed": 1286,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
@@ -69,6 +67,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时55分 ~ 07时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价震荡科技回调 资金寻找新均衡",
+          "url": "https://www.toutiao.com/trending/7661411388552085513/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 22时28分]"
         }
       ]
     }
