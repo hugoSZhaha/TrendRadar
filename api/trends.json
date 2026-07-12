@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T16:03:35.838000+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-07-12T18:21:00.786611+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "ranks": [
             7,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 16时03分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 18时21分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
