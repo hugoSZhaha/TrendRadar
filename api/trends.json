@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T17:54:14.390292+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-07-15T19:24:07.819347+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 17时54分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 19时24分]"
         },
         {
           "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
@@ -139,6 +139,17 @@
           "time_info": "[07时43分 ~ 09时31分]"
         },
         {
+          "title": "纽约梅隆银行第二季度营收57.0亿美元，同比增长13%。 第二季度调整后每股收益2.46美元，预估2.23美元。 第二季度净利息收入14.5亿美元，预估13.8亿美元。 纽约梅隆银行美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3134310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时24分]"
+        },
+        {
           "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
           "url": "https://wallstreetcn.com/articles/3776944",
           "source": "华尔街见闻",
@@ -159,6 +170,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时53分 ~ 17时54分]"
+        },
+        {
+          "title": "强生第二季度销售额253.1亿美元，预估250.4亿美元。 第二季度调整后每股收益2.90美元。 第二季度药品收入163.8亿美元，预估161.2亿美元。 强生预计全年调整后每股收益11.60美元至11.75美元。 强生预计全年销售额1,008亿美元至1,014亿美元，市场预估1,010.7亿美元。 强生美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3134300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "金十图示：2026年07月14日（周二）美股热门股票行情一览（美股盘中）",
@@ -203,6 +225,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时53分 ~ 17时54分]"
+        },
+        {
+          "title": "贝莱德第二季度营收70.8亿美元，预估68.2亿美元。 第二季度调整后每股收益13.91美元，预估12.66美元。 贝莱德第二季度资产管理规模15.34万亿美元，预估15.19万亿美元。 贝莱德将季度股票回购规模提高至5.5亿美元。 贝莱德美股盘前涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3134285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "金十图示：2026年07月14日（周二）美股热门股票行情一览（美股收盘）",
