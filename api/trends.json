@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-17T15:13:38.803234+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-07-17T17:50:00.607127+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时52分 ~ 17时50分]"
+        },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
           "url": "https://wallstreetcn.com/articles/3777075",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 05时58分]"
-        },
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 15时13分]"
         },
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
@@ -224,7 +225,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
