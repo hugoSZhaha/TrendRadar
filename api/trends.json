@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T04:01:56.337308+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-07-19T04:53:24.336605+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             26,
             10,
             21,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时53分]"
         },
         {
           "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
@@ -29,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时53分]"
         }
       ]
     },
@@ -46,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时53分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -58,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时53分]"
         }
       ]
     }
