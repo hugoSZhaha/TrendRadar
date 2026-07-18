@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T14:56:00.497165+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-07-18T16:44:51.759750+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时41分 ~ 14时56分]"
+          "appearance_count": 9,
+          "time_info": "[06时41分 ~ 16时44分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -108,6 +108,18 @@
           "time_info": "[04时59分 ~ 07时45分]"
         },
         {
+          "title": "美股芯片股，距熊市仅一步之遥",
+          "url": "https://wallstreetcn.com/articles/3777197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时55分 ~ 16时44分]"
+        },
+        {
           "title": "美股三大指数全线下挫",
           "url": "https://www.douyin.com/hot/2575548",
           "source": "抖音",
@@ -118,17 +130,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 14时56分]"
-        },
-        {
-          "title": "美股芯片股，距熊市仅一步之遥",
-          "url": "https://wallstreetcn.com/articles/3777197",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 14时56分]"
         },
         {
           "title": "美股收盘：三大股指低收，芯片股涨跌不一",
@@ -218,11 +219,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时44分 ~ 14时56分]"
+          "appearance_count": 8,
+          "time_info": "[07时44分 ~ 16时44分]"
         }
       ]
     }
