@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-20T05:43:49.626327+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-07-20T06:43:36.857168+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20260720060012850800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://hugoszhaha.github.io/TrendRadar/img/news.jpg"
 }
