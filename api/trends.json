@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T01:26:16.724353+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-21T03:28:00.199763+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 03时28分]"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 03时28分]"
         },
         {
           "title": "美股存储芯片反弹",
@@ -37,8 +37,25 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 03时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DoubleLine：美债收益率上升将有助于美联储维持利率不变",
+          "url": "https://wallstreetcn.com/livenews/3137053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时25分 ~ 01时26分]"
+          "time_info": "[03时27分 ~ 03时28分]"
         }
       ]
     }
