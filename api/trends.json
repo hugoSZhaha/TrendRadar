@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T16:12:39.343775+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-07-22T19:02:26.588376+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -19,6 +19,18 @@
           "time_info": "[00时20分 ~ 07时51分]"
         },
         {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时50分 ~ 19时02分]"
+        },
+        {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
           "url": "https://www.cls.cn/detail/2433005",
           "source": "财联社热门",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 09时51分]"
-        },
-        {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 16时12分]"
         },
         {
           "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
@@ -78,6 +79,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时50分 ~ 13时13分]"
+        },
+        {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 19时02分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升",
@@ -126,6 +140,28 @@
           "time_info": "00时20分"
         },
         {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "AT&T第二季度营收316亿美元，同比增长2.6%，预估317.7亿美元。 第二季度调整后每股收益0.65美元，上年同期0.54美元，预估0.59美元。 第二季度调整后息税折旧及摊销前利润123亿美元，同比增长5.1%，预估121亿美元。 第二季度自由现金流47亿美元。 AT&T仍然预测自由现金流至少180亿美元，市场预估181.7亿美元。 AT&T仍然预测调整后每股收益2.25美元至2.35美元，市场预估2.32美元。 AT&T美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3138170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "金十图示：2026年07月21日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260722014721363800",
           "source": "金十数据",
@@ -135,18 +171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 16时12分]"
         },
         {
           "title": "金十图示：2026年07月21日（周二）美股热门股票行情一览（美股盘中）",
@@ -166,7 +190,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -213,9 +237,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
+        },
+        {
+          "title": "GE Vernova第二季度营收111亿美元，预期108.2亿美元。 第二季度每股收益2.47美元，去年同期为1.86美元。 第二季度调整后EBITDA为12.5亿美元，预期为12.9亿美元。 积压订单达1760亿美元。 GE Vernova预计全年调整后自由现金流为115亿至125亿美元，此前预期为65亿至75亿美元。 GE Vernova预计2026年风电业务有机营收将出现低两位数百分比下降。 GE Vernova预计第三季度风电业务营收将出现低两位数百分比下降。 GE Vernova美股盘前涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3138160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。",
@@ -227,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "财报公布后，AT&T(T.N)美股盘前拉升，现涨5.1%。",
+          "url": "https://flash.jin10.com/detail/20260722183306922800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "超微电脑（SMCI）预计第四财季营收接近指引区间110亿-125亿美元的底部。 预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。 超微电脑美股盘后涨超20%。",
