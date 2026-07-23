@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T09:59:36.540001+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-07-23T13:25:28.773386+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -48,8 +48,32 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时03分 ~ 13时25分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
+          "url": "https://www.cls.cn/detail/2434473",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时59分 ~ 13时25分]"
+        },
+        {
+          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
+          "url": "https://www.cls.cn/detail/2434518",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时03分 ~ 09时59分]"
+          "time_info": "[09时59分 ~ 13时25分]"
         },
         {
           "title": "谷歌母公司Alphabet二季度营收1198亿美元，预期1170.2亿美元。 谷歌云营收247.7亿美元，预期224.6亿美元。 谷歌A美股盘后跌1.24%，暂报337.84美元。",
@@ -72,30 +96,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
-          "url": "https://www.cls.cn/detail/2434473",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 09时59分]"
-        },
-        {
-          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
-          "url": "https://www.cls.cn/detail/2434518",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
         },
         {
           "title": "特斯拉美股盘后维持下跌3%的状态，马斯克在电话会议上讲话。",
